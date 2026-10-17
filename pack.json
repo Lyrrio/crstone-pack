@@ -1,12 +1,17 @@
 {
   "name": "Cr. Stone",
-  "version": "0.8.0",
+  "version": "0.8.1",
   "minecraft": "1.21.1",
   "neoforge": "21.1.262",
   "managed": [
     "mods"
   ],
   "news": [
+    {
+      "date": "Launcher 1.2",
+      "title": "Nouveau look",
+      "body": "Le launcher fait peau neuve sous l'onde de pétrification. Dans le jeu, le menu principal redevient celui de Minecraft, sans barre d'outils en haut."
+    },
     {
       "date": "Cr. Stone 0.8",
       "title": "Le réveil",
@@ -199,10 +204,10 @@
       "size": 583525
     },
     {
-      "path": "mods/crstone-0.8.0.jar",
-      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/mods/crstone-0.8.0.jar",
-      "sha1": "689dc624a0bed65fa60d4b74103fa8ebe43a8dc2",
-      "size": 758897
+      "path": "mods/crstone-0.8.1.jar",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/mods/crstone-0.8.1.jar",
+      "sha1": "081fd9b2479697e9127f834f79c400965bde5fa2",
+      "size": 742095
     },
     {
       "path": "mods/cupboard-1.21.1-4.2.jar",
@@ -2096,9 +2101,8 @@
     {
       "path": "config/fancymenu/options.txt",
       "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/fancymenu/options.txt",
-      "sha1": "1735d72a01c594352fbcc3b0550a45e4da5d014b",
-      "size": 4399,
-      "onlyIfMissing": true
+      "sha1": "6efd901b4752fa54e7d7c62411dbfde662c8bfec",
+      "size": 4400
     },
     {
       "path": "config/fancymenu/ui_themes/cherry_blossom.json",

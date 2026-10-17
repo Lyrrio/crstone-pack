@@ -1,12 +1,17 @@
 {
   "name": "Cr. Stone",
-  "version": "0.10.0",
+  "version": "0.11.0",
   "minecraft": "1.21.1",
   "neoforge": "21.1.262",
   "managed": [
     "mods"
   ],
   "news": [
+    {
+      "date": "Cr. Stone 0.11",
+      "title": "La Grotte des Miracles",
+      "body": "Comme Senku, recueille l'acide nitrique qui goutte des stalactites de la Grotte des Miracles, dans une jarre en terre cuite façonnée à la main et cuite au feu. Une grotte se trouve près du point d'apparition, d'autres plus loin."
+    },
     {
       "date": "Cr. Stone 0.10",
       "title": "Ton corps, ta tenue",
@@ -210,10 +215,10 @@
       "size": 583525
     },
     {
-      "path": "mods/crstone-0.10.0.jar",
-      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/mods/crstone-0.10.0.jar",
-      "sha1": "ff9ef6f1b74eb37cd6401022cceb12eb30c9dc75",
-      "size": 811563
+      "path": "mods/crstone-0.11.0.jar",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/mods/crstone-0.11.0.jar",
+      "sha1": "99a5894818b3c2afd6750bf3074e53dd971d2d21",
+      "size": 842151
     },
     {
       "path": "mods/cupboard-1.21.1-4.2.jar",
@@ -842,8 +847,8 @@
     {
       "path": "kubejs/server_scripts/crstone_recettes.js",
       "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/kubejs/server_scripts/crstone_recettes.js",
-      "sha1": "7a2c67e0dfc94b44f964b01e44ee0ac9a0bab248",
-      "size": 3757
+      "sha1": "0822d955e37df1c55c4e3f21c44e57727f25851c",
+      "size": 3954
     },
     {
       "path": "kubejs/startup_scripts/main.js",

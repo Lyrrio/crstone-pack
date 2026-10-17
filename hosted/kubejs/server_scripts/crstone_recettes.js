@@ -54,18 +54,15 @@ ServerEvents.recipes(event => {
     results: [{ id: 'crstone:distilled_alcohol' }]
   })
 
-  // Acide nitrique : salpêtre (nitrate TFMG) + acide sulfurique, comme Senku
-  event.custom({
-    type: 'create:mixing',
-    heat_requirement: 'heated',
-    ingredients: [
-      { item: 'tfmg:nitrate_dust' },
-      { item: 'tfmg:nitrate_dust' },
-      { item: 'minecraft:glass_bottle' },
-      { type: 'neoforge:single', amount: 250, fluid: 'tfmg:sulfuric_acid' }
-    ],
-    results: [{ id: 'crstone:nitric_acid' }]
-  })
+  // Acide nitrique : il goutte des stalactites de la Grotte des Miracles, recueilli dans un pot en terre cuite (mod).
+  // Pot : on façonne l'argile, puis on la cuit au four ou sur un feu de camp, comme les premières poteries de Senku.
+  event.shaped('crstone:unfired_clay_pot', [
+    'C C',
+    'C C',
+    ' C '
+  ], { C: 'minecraft:clay_ball' })
+  event.smelting('crstone:clay_pot', 'crstone:unfired_clay_pot').xp(0.2)
+  event.campfireCooking('crstone:clay_pot', 'crstone:unfired_clay_pot').cookingTime(900).xp(0.2)
 
   // Fluide miracle : acide nitrique + alcool (30/70)
   event.custom({

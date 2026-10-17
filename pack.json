@@ -1,6 +1,6 @@
 {
   "name": "Cr. Stone",
-  "version": "0.8.1",
+  "version": "0.8.2",
   "minecraft": "1.21.1",
   "neoforge": "21.1.262",
   "managed": [
@@ -204,10 +204,10 @@
       "size": 583525
     },
     {
-      "path": "mods/crstone-0.8.1.jar",
-      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/mods/crstone-0.8.1.jar",
-      "sha1": "081fd9b2479697e9127f834f79c400965bde5fa2",
-      "size": 742095
+      "path": "mods/crstone-0.8.2.jar",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/mods/crstone-0.8.2.jar",
+      "sha1": "0020b2388ab32ba27c299355a60e39bfdb6c1ad6",
+      "size": 744277
     },
     {
       "path": "mods/cupboard-1.21.1-4.2.jar",
@@ -836,8 +836,8 @@
     {
       "path": "kubejs/server_scripts/crstone_recettes.js",
       "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/kubejs/server_scripts/crstone_recettes.js",
-      "sha1": "4c103d327ac8a190b3944e429653e3852154dd96",
-      "size": 3754
+      "sha1": "7a2c67e0dfc94b44f964b01e44ee0ac9a0bab248",
+      "size": 3757
     },
     {
       "path": "kubejs/startup_scripts/main.js",

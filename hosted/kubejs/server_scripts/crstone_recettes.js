@@ -31,7 +31,7 @@ ServerEvents.recipes(event => {
     ['axe', ['MM', 'MS', ' R']],
     ['shovel', ['M', 'S', 'R']],
     ['hoe', ['MM', ' S', ' R']],
-    ['sword', ['M', 'M', 'R']]
+    ['sword', ['M ', 'M ', 'SR']]
   ]
   const MATERIALS = [['wooden', '#minecraft:planks'], ['stone', '#minecraft:stone_tool_materials']]
   MATERIALS.forEach(([material, ingredient]) => {

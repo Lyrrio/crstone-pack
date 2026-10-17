@@ -1,12 +1,17 @@
 {
   "name": "Cr. Stone",
-  "version": "0.9.0",
+  "version": "0.10.0",
   "minecraft": "1.21.1",
   "neoforge": "21.1.262",
   "managed": [
     "mods"
   ],
   "news": [
+    {
+      "date": "Cr. Stone 0.10",
+      "title": "Ton corps, ta tenue",
+      "body": "Au réveil, choisis ton corps, ta teinte de peau, ta tête et ta tenue : Senku, Tsukasa, Kohaku, Ruri, le village… Le launcher passe en plein jour, avec musique et cinématique filmée dans le jeu."
+    },
     {
       "date": "Launcher 1.2",
       "title": "Nouveau look",
@@ -205,10 +210,10 @@
       "size": 583525
     },
     {
-      "path": "mods/crstone-0.9.0.jar",
-      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/mods/crstone-0.9.0.jar",
-      "sha1": "54a7d8f32a7d20b7cbd801b40d5961bd97dd16b8",
-      "size": 763463
+      "path": "mods/crstone-0.10.0.jar",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/mods/crstone-0.10.0.jar",
+      "sha1": "ff9ef6f1b74eb37cd6401022cceb12eb30c9dc75",
+      "size": 811563
     },
     {
       "path": "mods/cupboard-1.21.1-4.2.jar",

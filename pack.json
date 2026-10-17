@@ -1,6 +1,6 @@
 {
   "name": "Cr. Stone",
-  "version": "0.8.2",
+  "version": "0.9.0",
   "minecraft": "1.21.1",
   "neoforge": "21.1.262",
   "managed": [
@@ -28,6 +28,7 @@
       "body": "De rares villages ont échappé à la pétrification. Leurs habitants descendraient de ceux venus du ciel… Trouve-les avant de manquer de fluide miracle."
     }
   ],
+  "discord": "https://discord.gg/cQnkt3JSsT",
   "files": [
     {
       "path": "mods/AdvancementPlaques-1.21.1-neoforge-1.6.8.jar",
@@ -204,10 +205,10 @@
       "size": 583525
     },
     {
-      "path": "mods/crstone-0.8.2.jar",
-      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/mods/crstone-0.8.2.jar",
-      "sha1": "0020b2388ab32ba27c299355a60e39bfdb6c1ad6",
-      "size": 744277
+      "path": "mods/crstone-0.9.0.jar",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/mods/crstone-0.9.0.jar",
+      "sha1": "54a7d8f32a7d20b7cbd801b40d5961bd97dd16b8",
+      "size": 763463
     },
     {
       "path": "mods/cupboard-1.21.1-4.2.jar",
@@ -3472,9 +3473,8 @@
     {
       "path": "config/xaerohud.txt",
       "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/xaerohud.txt",
-      "sha1": "9b2b47ea69e26908152d7ed1c6f90222745dced0",
-      "size": 123,
-      "onlyIfMissing": true
+      "sha1": "517916c1f2e0a8b75735859edb7d692bba2c079e",
+      "size": 121
     },
     {
       "path": "config/xaeropatreon.txt",

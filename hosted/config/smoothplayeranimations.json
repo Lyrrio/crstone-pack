@@ -56,9 +56,5 @@
     "mace": false
   },
   "emfShieldPersisted": false,
-  "emfShieldOwnedIds": [
-    "elytra",
-    "player",
-    "player_slim"
-  ]
+  "emfShieldOwnedIds": []
 }

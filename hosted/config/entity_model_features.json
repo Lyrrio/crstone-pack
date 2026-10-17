@@ -11,11 +11,7 @@
   "entityRenderModeOverrides": {},
   "entityPhysicsModPatchOverrides": {},
   "entityVanillaHologramOverrides": {},
-  "modelsNamesDisabled": [
-    "player",
-    "player_slim",
-    "elytra"
-  ],
+  "modelsNamesDisabled": [],
   "allowEBEModConfigModify": true,
   "animationLODDistance": 20,
   "retainDetailOnLowFps": true,

@@ -823,12 +823,6 @@
       "size": 446
     },
     {
-      "path": "kubejs/config/web_server.json",
-      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/kubejs/config/web_server.json",
-      "sha1": "7f9c872a7cc7ef121672c4bfe7379780ec703239",
-      "size": 120
-    },
-    {
       "path": "kubejs/server_scripts/crstone_hors_sujet.js",
       "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/kubejs/server_scripts/crstone_hors_sujet.js",
       "sha1": "1b2af1aceab8b601161d13bcccd933f5b5885287",
@@ -2053,8 +2047,8 @@
     {
       "path": "config/entity_model_features.json",
       "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/entity_model_features.json",
-      "sha1": "ac942152021eaaa0f1b4c5daf8fd7f1775090325",
-      "size": 1307,
+      "sha1": "41b8dba9f4aa26ae3c7b511d6c5db3afcb7de5f9",
+      "size": 1258,
       "onlyIfMissing": true
     },
     {
@@ -3117,8 +3111,8 @@
     {
       "path": "config/smoothplayeranimations.json",
       "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/smoothplayeranimations.json",
-      "sha1": "cad1aef006f4c60305d06089c8038d66b87352bb",
-      "size": 1230,
+      "sha1": "44d72a9f30e2d9b6906bff2d1cd525c1b38a632e",
+      "size": 1181,
       "onlyIfMissing": true
     },
     {

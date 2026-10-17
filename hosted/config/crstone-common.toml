@@ -1,0 +1,61 @@
+[petrification]
+	#Les créatures du tag crstone:petrified_on_worldgen (villageois, illageois…) apparaissent en statues dans les structures.
+	worldgenPetrification = true
+	#Probabilité qu'une créature de structure soit pétrifiée.
+	# Default: 1.0
+	# Range: 0.0 ~ 1.0
+	worldgenChance = 1.0
+	#Durée de la pétrification d'un joueur (Medusa, commande).
+	# Default: 120
+	# Range: 1 ~ 86400
+	playerPetrifiedSeconds = 120
+	#Chance qu'un village ait échappé à la pétrification (villageois du ciel, descendants des astronautes).
+	# Default: 0.12
+	# Range: 0.0 ~ 1.0
+	livingVillageChance = 0.12
+
+[medusa]
+	#Rayon final de l'onde de pétrification.
+	# Default: 16.0
+	# Range: 1.0 ~ 128.0
+	radius = 16.0
+	#Délai avant l'activation, en ticks (20 = 1 s).
+	# Default: 40
+	# Range: 0 ~ 1200
+	fuseTicks = 40
+	#La Medusa pétrifie aussi celui qui l'a lancée s'il est dans le rayon.
+	petrifiesThrower = true
+	#La Medusa retombe au sol après usage.
+	reusable = true
+
+[stoneAge]
+	#Impossible de casser les bûches sans hache.
+	noPunchingLogs = true
+	#Chance d'obtenir un silex taillé en frappant un silex sur de la roche (clic droit).
+	# Default: 0.6
+	# Range: 0.0 ~ 1.0
+	knappingChance = 0.6
+	#Chance qu'un feuillage cassé à la main donne des bâtons.
+	# Default: 0.2
+	# Range: 0.0 ~ 1.0
+	leafStickChance = 0.2
+	#Multiplicateur de vitesse de coupe des bûches (1 = vanilla). Abattre un arbre prend du temps.
+	# Default: 0.45
+	# Range: 0.05 ~ 1.0
+	logBreakSpeed = 0.45
+
+[nightPredators]
+	#La nuit, des prédateurs sauvages apparaissent autour des joueurs (tag crstone:night_predators).
+	enabled = true
+	#Tentative d'apparition toutes les N ticks par joueur (20 = 1 s).
+	# Default: 80
+	# Range: 20 ~ 2400
+	intervalTicks = 80
+	#Chance de réussite de chaque tentative.
+	# Default: 0.5
+	# Range: 0.0 ~ 1.0
+	chance = 0.5
+	#Nombre maximum de prédateurs dans un rayon de 64 blocs autour d'un joueur.
+	# Default: 4
+	# Range: 0 ~ 32
+	maxNearPlayer = 4

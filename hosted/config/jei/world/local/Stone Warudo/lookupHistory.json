@@ -1,0 +1,6 @@
+[
+  {"version":1},
+  {"ingredient":{"id":"farmersdelight:flint_knife"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:stick"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"crstone:flint_shard"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]

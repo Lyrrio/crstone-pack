@@ -1,0 +1,7 @@
+[
+  {"version":1},
+  {"ingredient":{"id":"farmersdelight:rope"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:wooden_pickaxe"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:wooden_axe"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"crstone:flint_hatchet"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]

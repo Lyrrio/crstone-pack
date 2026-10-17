@@ -1,0 +1,3503 @@
+{
+  "name": "Cr. Stone",
+  "version": "0.8.0",
+  "minecraft": "1.21.1",
+  "neoforge": "21.1.262",
+  "managed": [
+    "mods"
+  ],
+  "news": [
+    {
+      "date": "Cr. Stone 0.8",
+      "title": "Le réveil",
+      "body": "Tu sors de la pierre vêtu de feuilles, avec les marques de la pétrification et un éclat de carapace encore collé à la peau. La saison dépend de ta voie : le Scientifique se réveille le 1er avril, comme Senku."
+    },
+    {
+      "date": "Cr. Stone 0.7",
+      "title": "Huit voies, huit arbres",
+      "body": "Chaque voie a son arbre de compétences Pufferfish, sa capacité spéciale et sa cinématique doublée en japonais. La nuit, les bêtes échappées des zoos chassent les survivants."
+    },
+    {
+      "date": "Village",
+      "title": "Les villageois du ciel",
+      "body": "De rares villages ont échappé à la pétrification. Leurs habitants descendraient de ceux venus du ciel… Trouve-les avant de manquer de fluide miracle."
+    }
+  ],
+  "files": [
+    {
+      "path": "mods/AdvancementPlaques-1.21.1-neoforge-1.6.8.jar",
+      "url": "https://edge.forgecdn.net/files/5905/995/AdvancementPlaques-1.21.1-neoforge-1.6.8.jar",
+      "sha1": "829d33e71b30e9158d772f5963bb6020f6026d78",
+      "size": 195730
+    },
+    {
+      "path": "mods/alexsmobs-1.22.17.jar",
+      "url": "https://edge.forgecdn.net/files/7528/193/alexsmobs-1.22.17.jar",
+      "sha1": "5070e8070f60650d773bfd9f1d031496f8f50259",
+      "size": 26620546
+    },
+    {
+      "path": "mods/AmbientSounds_NEOFORGE_v6.3.10_mc1.21.1.jar",
+      "url": "https://edge.forgecdn.net/files/9099/1/AmbientSounds_NEOFORGE_v6.3.10_mc1.21.1.jar",
+      "sha1": "aaf9b0a6e193aef8e0c57a25211a6ef02da1602e",
+      "size": 84814817
+    },
+    {
+      "path": "mods/appleskin-neoforge-mc1.21-3.0.9.jar",
+      "url": "https://edge.forgecdn.net/files/7854/442/appleskin-neoforge-mc1.21-3.0.9.jar",
+      "sha1": "81cf0e668f991f83ac8820c386fbd6c9c3602246",
+      "size": 75804
+    },
+    {
+      "path": "mods/architectury-13.0.11-neoforge.jar",
+      "url": "https://edge.forgecdn.net/files/8492/726/architectury-13.0.11-neoforge.jar",
+      "sha1": "008656a0702801174b8ec245ed7aad1921d6e9f1",
+      "size": 584734
+    },
+    {
+      "path": "mods/balm-neoforge-1.21.1-21.0.66.jar",
+      "url": "https://edge.forgecdn.net/files/8969/738/balm-neoforge-1.21.1-21.0.66.jar",
+      "sha1": "dd3606a349f4a3c8fb5bd0ab22905675c02b0d74",
+      "size": 783793
+    },
+    {
+      "path": "mods/beekeeperhut-neoforge-3.0.4+mc1.21.1.jar",
+      "url": "https://edge.forgecdn.net/files/9099/372/beekeeperhut-neoforge-3.0.4%2bmc1.21.1.jar",
+      "sha1": "a4bf45166085d748a0340c24e494e70701628387",
+      "size": 88137
+    },
+    {
+      "path": "mods/better-advanced-tooltips-2101.1.0-build.5.jar",
+      "url": "https://edge.forgecdn.net/files/8576/77/better-advanced-tooltips-2101.1.0-build.5.jar",
+      "sha1": "5b73537b908764f2d3fd593a0f56a8b1b034bc50",
+      "size": 37653
+    },
+    {
+      "path": "mods/bettercombat-neoforge-2.4.0+1.21.1.jar",
+      "url": "https://edge.forgecdn.net/files/8430/183/bettercombat-neoforge-2.4.0%2b1.21.1.jar",
+      "sha1": "bacbc8c86671663e9998b141c5732250c1f4d4fb",
+      "size": 1045389
+    },
+    {
+      "path": "mods/BetterThirdPerson-neoforge-1.9.0.jar",
+      "url": "https://edge.forgecdn.net/files/5833/474/BetterThirdPerson-neoforge-1.9.0.jar",
+      "sha1": "e91af996b413bb498e276bf410d0deff52a34a74",
+      "size": 60941
+    },
+    {
+      "path": "mods/biomemusic-1.21.1-4.1.jar",
+      "url": "https://edge.forgecdn.net/files/8318/257/biomemusic-1.21.1-4.1.jar",
+      "sha1": "2d049c15c1dedf4b7054b933b871ff29f7c3040b",
+      "size": 45162
+    },
+    {
+      "path": "mods/blockui-1.0.209-1.21.1.jar",
+      "url": "https://edge.forgecdn.net/files/7541/336/blockui-1.0.209-1.21.1.jar",
+      "sha1": "01cba16a7d71521b81d791a07740464e6d70d0a6",
+      "size": 468001
+    },
+    {
+      "path": "mods/breath-sweat-1,0.jar",
+      "url": "https://cdn.modrinth.com/data/SuBeKGGE/versions/cQhXwdWX/breath-sweat-1%2C0.jar",
+      "sha1": "0cf7861f442a19445435d7f4cf822e8bc4dc9c6e",
+      "size": 19039
+    },
+    {
+      "path": "mods/carryon-neoforge-1.21.1-2.2.6.13.jar",
+      "url": "https://edge.forgecdn.net/files/8512/888/carryon-neoforge-1.21.1-2.2.6.13.jar",
+      "sha1": "2ceb0d9284525b6cb2a214c88cf6511cab91f601",
+      "size": 361486
+    },
+    {
+      "path": "mods/cherishedworlds-neoforge-10.1.1+1.21.1.jar",
+      "url": "https://edge.forgecdn.net/files/6353/949/cherishedworlds-neoforge-10.1.1%2b1.21.1.jar",
+      "sha1": "aefc8c79ba62606a71f509a9b3c881f3fc4cad5c",
+      "size": 61728
+    },
+    {
+      "path": "mods/citadel-1.21.1-2.7.6.jar",
+      "url": "https://edge.forgecdn.net/files/7982/52/citadel-1.21.1-2.7.6.jar",
+      "sha1": "e0392370117ec16a721f8d65728944398de77607",
+      "size": 3028943
+    },
+    {
+      "path": "mods/cleanswing-1.10-1.21.jar",
+      "url": "https://edge.forgecdn.net/files/8746/293/cleanswing-1.10-1.21.jar",
+      "sha1": "1df3892b57ad00a75c5bb4a6f6b2749aa126e548",
+      "size": 9477
+    },
+    {
+      "path": "mods/cloth-config-15.0.140-neoforge.jar",
+      "url": "https://edge.forgecdn.net/files/5729/127/cloth-config-15.0.140-neoforge.jar",
+      "sha1": "c3e5733ba4503b102589a026000fd5ce0212f6f2",
+      "size": 1163890
+    },
+    {
+      "path": "mods/Clumps-neoforge-1.21.1-19.0.0.1.jar",
+      "url": "https://edge.forgecdn.net/files/5623/731/Clumps-neoforge-1.21.1-19.0.0.1.jar",
+      "sha1": "fa2576297c7bd12b28aa7070e8141792bd66da4c",
+      "size": 18382
+    },
+    {
+      "path": "mods/configurable-3.5.3+1.21.1-neoforge.jar",
+      "url": "https://edge.forgecdn.net/files/9191/7/configurable-3.5.3%2b1.21.1-neoforge.jar",
+      "sha1": "694e68c671dacf418c8ed7ab543f62c80fdd0f95",
+      "size": 159048
+    },
+    {
+      "path": "mods/copycats-3.0.9+mc.1.21.1-neoforge.jar",
+      "url": "https://edge.forgecdn.net/files/8822/348/copycats-3.0.9%2bmc.1.21.1-neoforge.jar",
+      "sha1": "74de17876c43f5f780bac478b9f9eb11e687b8d7",
+      "size": 1799381
+    },
+    {
+      "path": "mods/coroutil-neoforge-1.21.0-1.3.9.jar",
+      "url": "https://edge.forgecdn.net/files/7796/187/coroutil-neoforge-1.21.0-1.3.9.jar",
+      "sha1": "0f5a6309ce8394721b97740e6f3e45665f13b8de",
+      "size": 65716
+    },
+    {
+      "path": "mods/corpse-neoforge-1.21.1-1.1.21.jar",
+      "url": "https://edge.forgecdn.net/files/9188/333/corpse-neoforge-1.21.1-1.1.21.jar",
+      "sha1": "124791f94c501c2c12a132f4cc69a3a738498b9d",
+      "size": 256713
+    },
+    {
+      "path": "mods/create-1.21.1-6.0.10.jar",
+      "url": "https://edge.forgecdn.net/files/7963/363/create-1.21.1-6.0.10.jar",
+      "sha1": "0e97e49837bed766e6f28a4c95b04885d6acc353",
+      "size": 19123767
+    },
+    {
+      "path": "mods/create-aeronautics-bundled-1.21.1-1.3.2.jar",
+      "url": "https://edge.forgecdn.net/files/8763/471/create-aeronautics-bundled-1.21.1-1.3.2.jar",
+      "sha1": "ddbe9cbc25e8f663218aa1e9fdfc4b99f0e11e4b",
+      "size": 33123131
+    },
+    {
+      "path": "mods/createaddition-1.6.0.jar",
+      "url": "https://edge.forgecdn.net/files/8188/476/createaddition-1.6.0.jar",
+      "sha1": "87b539d41ed238e98b26c607c0c81a973323147e",
+      "size": 1661802
+    },
+    {
+      "path": "mods/createdeco-2.1.3.jar",
+      "url": "https://edge.forgecdn.net/files/7943/181/createdeco-2.1.3.jar",
+      "sha1": "93d9eff58b46c6953e907d071e6be4e3ce07be38",
+      "size": 3328498
+    },
+    {
+      "path": "mods/CreativeCore_NEOFORGE_v2.13.51_mc1.21.1.jar",
+      "url": "https://edge.forgecdn.net/files/9108/41/CreativeCore_NEOFORGE_v2.13.51_mc1.21.1.jar",
+      "sha1": "eb2242b3d4442ad4017ba0624a7f9588e778b157",
+      "size": 1236490
+    },
+    {
+      "path": "mods/cristellib-neoforge-1.21.1-3.1.7.jar",
+      "url": "https://edge.forgecdn.net/files/8241/767/cristellib-neoforge-1.21.1-3.1.7.jar",
+      "sha1": "d250804b7ecea365bc736ec36ec6fc3f933917f1",
+      "size": 583525
+    },
+    {
+      "path": "mods/crstone-0.8.0.jar",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/mods/crstone-0.8.0.jar",
+      "sha1": "689dc624a0bed65fa60d4b74103fa8ebe43a8dc2",
+      "size": 758897
+    },
+    {
+      "path": "mods/cupboard-1.21.1-4.2.jar",
+      "url": "https://edge.forgecdn.net/files/8889/50/cupboard-1.21.1-4.2.jar",
+      "sha1": "6c2d786a161f49470dad92b2edaefdac38a1e79b",
+      "size": 30517
+    },
+    {
+      "path": "mods/curios-neoforge-9.5.1+1.21.1.jar",
+      "url": "https://edge.forgecdn.net/files/6529/130/curios-neoforge-9.5.1%2b1.21.1.jar",
+      "sha1": "418fcd42e3a7844c9bdc71c9b6401fdb3894e0c4",
+      "size": 410690
+    },
+    {
+      "path": "mods/defaultoptions-neoforge-1.21.1-21.1.8.jar",
+      "url": "https://edge.forgecdn.net/files/8498/229/defaultoptions-neoforge-1.21.1-21.1.8.jar",
+      "sha1": "d682687ec41236092c5206a21e2ed34bdb7f6b79",
+      "size": 105507
+    },
+    {
+      "path": "mods/DistantHorizons-3.3.3-1.21.1-fabric-neoforge.jar",
+      "url": "https://edge.forgecdn.net/files/9004/764/DistantHorizons-3.3.3-1.21.1-fabric-neoforge.jar",
+      "sha1": "4357b4d19fab818780c94f0e43dad1cc931634b2",
+      "size": 28289212
+    },
+    {
+      "path": "mods/domum-ornamentum-1.0.231-main.jar",
+      "url": "https://edge.forgecdn.net/files/7789/217/domum-ornamentum-1.0.231-main.jar",
+      "sha1": "a8ec9660788133676fd440ce6998d813184cd486",
+      "size": 1143596
+    },
+    {
+      "path": "mods/drippyloadingscreen-earlywindow_neoforge_3.1.5_MC_1.21.1.jar",
+      "url": "https://edge.forgecdn.net/files/8552/908/drippyloadingscreen-earlywindow_neoforge_3.1.5_MC_1.21.1.jar",
+      "sha1": "adede14a2a1c2a67d42372916b72347ad79b7cb4",
+      "size": 133978
+    },
+    {
+      "path": "mods/drippyloadingscreen_neoforge_3.1.5_MC_1.21.1.jar",
+      "url": "https://edge.forgecdn.net/files/8552/907/drippyloadingscreen_neoforge_3.1.5_MC_1.21.1.jar",
+      "sha1": "9d27991a7f5a551265692abf8ed40ece10ea1958",
+      "size": 168632
+    },
+    {
+      "path": "mods/ecologics-1.21.1-2.3.7.jar",
+      "url": "https://edge.forgecdn.net/files/8415/537/ecologics-1.21.1-2.3.7.jar",
+      "sha1": "3cf395ba5facd56917accc6563f7819f4e39c941",
+      "size": 1909490
+    },
+    {
+      "path": "mods/entityculling-neoforge-1.11.3-mc1.21.1.jar",
+      "url": "https://edge.forgecdn.net/files/9100/286/entityculling-neoforge-1.11.3-mc1.21.1.jar",
+      "sha1": "f122f84f329793675b2625d51b77f990d7de3579",
+      "size": 1510075
+    },
+    {
+      "path": "mods/entity_model_features-3.3.12-1.21-neoforge.jar",
+      "url": "https://edge.forgecdn.net/files/9188/526/entity_model_features-3.3.12-1.21-neoforge.jar",
+      "sha1": "e9a163b77243cdfcb0ad3d698dc48a60cb8710e9",
+      "size": 656382
+    },
+    {
+      "path": "mods/entity_texture_features-7.2.6-1.21-neoforge.jar",
+      "url": "https://edge.forgecdn.net/files/9188/408/entity_texture_features-7.2.6-1.21-neoforge.jar",
+      "sha1": "1a77ddb156daa4125c205424f05f0fa861517d9c",
+      "size": 807089
+    },
+    {
+      "path": "mods/FallingTree-1.21.1-1.21.1.11.jar",
+      "url": "https://edge.forgecdn.net/files/6835/168/FallingTree-1.21.1-1.21.1.11.jar",
+      "sha1": "626e7ec3a979dcc15d8e65c53207572c41c1b255",
+      "size": 496356
+    },
+    {
+      "path": "mods/fancymenu_neoforge_3.9.14_MC_1.21.1.jar",
+      "url": "https://edge.forgecdn.net/files/9002/957/fancymenu_neoforge_3.9.14_MC_1.21.1.jar",
+      "sha1": "cafbef98afb4f60adea426b950c5452655040c40",
+      "size": 25922080
+    },
+    {
+      "path": "mods/FarmersDelight-1.21.1-1.3.4.jar",
+      "url": "https://edge.forgecdn.net/files/8765/184/FarmersDelight-1.21.1-1.3.4.jar",
+      "sha1": "27675ddfcb8cc37e6ea1ab6c15051c7949d94657",
+      "size": 3160490
+    },
+    {
+      "path": "mods/fastboot-1.21.x-v1.3neo.jar",
+      "url": "https://edge.forgecdn.net/files/6998/687/fastboot-1.21.x-v1.3neo.jar",
+      "sha1": "1c9101baf7e4b111fc55e0b5a8687e67be2f626c",
+      "size": 9085
+    },
+    {
+      "path": "mods/FastFurnace-1.21.1-9.0.1.jar",
+      "url": "https://edge.forgecdn.net/files/6751/551/FastFurnace-1.21.1-9.0.1.jar",
+      "sha1": "acdcdc7c61b49b3b04490fce9843dcf8b531dfc3",
+      "size": 4623
+    },
+    {
+      "path": "mods/FastSuite-1.21.1-6.0.7.jar",
+      "url": "https://edge.forgecdn.net/files/7527/945/FastSuite-1.21.1-6.0.7.jar",
+      "sha1": "664e62684311f727f1fac18f0de28e5317874b7e",
+      "size": 28193
+    },
+    {
+      "path": "mods/FastWorkbench-1.21.1-9.1.3.jar",
+      "url": "https://edge.forgecdn.net/files/6751/534/FastWorkbench-1.21.1-9.1.3.jar",
+      "sha1": "7343b63ded70c0546811c768118d16d3a86418ee",
+      "size": 28635
+    },
+    {
+      "path": "mods/ferritecore-7.0.3-neoforge.jar",
+      "url": "https://edge.forgecdn.net/files/7524/151/ferritecore-7.0.3-neoforge.jar",
+      "sha1": "9563692efb708b6b568df27a01ec52f6311928ef",
+      "size": 121559
+    },
+    {
+      "path": "mods/footprintparticle-0.6.0+1.21.1-neoforge.jar",
+      "url": "https://edge.forgecdn.net/files/9109/725/footprintparticle-0.6.0%2b1.21.1-neoforge.jar",
+      "sha1": "69a3ce74e6e1117beb2579652374125051d997b5",
+      "size": 58091
+    },
+    {
+      "path": "mods/friendsandfoes-neoforge-5.0.2+mc1.21.1.jar",
+      "url": "https://edge.forgecdn.net/files/9108/912/friendsandfoes-neoforge-5.0.2%2bmc1.21.1.jar",
+      "sha1": "f656da0aea52bcbfa8938c213394b26d6b8fda3c",
+      "size": 5265975
+    },
+    {
+      "path": "mods/ftb-library-neoforge-2101.1.37.jar",
+      "url": "https://edge.forgecdn.net/files/9008/89/ftb-library-neoforge-2101.1.37.jar",
+      "sha1": "b6e503587afcd678ec257e4abdc6362ff18c2fef",
+      "size": 1439881
+    },
+    {
+      "path": "mods/ftb-quests-neoforge-2101.1.36.jar",
+      "url": "https://edge.forgecdn.net/files/8885/17/ftb-quests-neoforge-2101.1.36.jar",
+      "sha1": "b2ede29b98a3022c22065fbe9b1761e385a28683",
+      "size": 1609984
+    },
+    {
+      "path": "mods/ftb-teams-neoforge-2101.1.11.jar",
+      "url": "https://edge.forgecdn.net/files/8724/782/ftb-teams-neoforge-2101.1.11.jar",
+      "sha1": "62b65f752d0326edd13244e58d5f2aec035da4e9",
+      "size": 308236
+    },
+    {
+      "path": "mods/geckolib-neoforge-1.21.1-4.9.3.jar",
+      "url": "https://edge.forgecdn.net/files/8893/490/geckolib-neoforge-1.21.1-4.9.3.jar",
+      "sha1": "5cfe835472a5c5457ae9ac192d9d7b317454d5ac",
+      "size": 634531
+    },
+    {
+      "path": "mods/GlitchCore-neoforge-1.21.1-2.1.0.2.jar",
+      "url": "https://edge.forgecdn.net/files/8109/792/GlitchCore-neoforge-1.21.1-2.1.0.2.jar",
+      "sha1": "a31c3f36330f19aa538add3d727782a62c9c30ad",
+      "size": 90717
+    },
+    {
+      "path": "mods/handcrafted-neoforge-1.21.1-4.0.3.jar",
+      "url": "https://edge.forgecdn.net/files/6330/30/handcrafted-neoforge-1.21.1-4.0.3.jar",
+      "sha1": "8ecd27f1d66f9b742cfae3c8ffa773765f574b52",
+      "size": 7132842
+    },
+    {
+      "path": "mods/hardcorerevival-neoforge-1.21.1-21.1.22.jar",
+      "url": "https://edge.forgecdn.net/files/8837/401/hardcorerevival-neoforge-1.21.1-21.1.22.jar",
+      "sha1": "bd5078ded1d24c2ca5a8f5cf82faa739743aec7e",
+      "size": 250676
+    },
+    {
+      "path": "mods/hardcore_torches-1.21.0-2.7.jar",
+      "url": "https://edge.forgecdn.net/files/8904/902/hardcore_torches-1.21.0-2.7.jar",
+      "sha1": "a3c27aac3b81968795420178ba32de730a64ae90",
+      "size": 264244
+    },
+    {
+      "path": "mods/Highlighter-1.21-neoforge-1.1.11.jar",
+      "url": "https://edge.forgecdn.net/files/5591/15/Highlighter-1.21-neoforge-1.1.11.jar",
+      "sha1": "22d29eba774530b40a540fdf5ce2d14d89bbe036",
+      "size": 30417
+    },
+    {
+      "path": "mods/holdmyitemsnf-1.21.1v2.1.jar",
+      "url": "https://edge.forgecdn.net/files/6608/571/holdmyitemsnf-1.21.1v2.1.jar",
+      "sha1": "c4a8d9c03c659c696d63580e9b71e7a7c64dae33",
+      "size": 107291
+    },
+    {
+      "path": "mods/Iceberg-1.21.1-neoforge-1.3.2.jar",
+      "url": "https://edge.forgecdn.net/files/6423/863/Iceberg-1.21.1-neoforge-1.3.2.jar",
+      "sha1": "f6014d198be9503573cd9cb41cc789d282768ad8",
+      "size": 213853
+    },
+    {
+      "path": "mods/ImmediatelyFast-NeoForge-1.6.15+1.21.1.jar",
+      "url": "https://edge.forgecdn.net/files/9165/518/ImmediatelyFast-NeoForge-1.6.15%2b1.21.1.jar",
+      "sha1": "f991166f7c82b493481c876e3c83c9fac4159671",
+      "size": 368896
+    },
+    {
+      "path": "mods/iris-neoforge-1.8.14-beta.1+mc1.21.1.jar",
+      "url": "https://edge.forgecdn.net/files/8242/804/iris-neoforge-1.8.14-beta.1%2bmc1.21.1.jar",
+      "sha1": "1bd129cf7bce65d6b1c0543045f0620c98a0f885",
+      "size": 2540723
+    },
+    {
+      "path": "mods/ItemPhysic_NEOFORGE_v1.8.17_mc1.21.1.jar",
+      "url": "https://edge.forgecdn.net/files/8974/794/ItemPhysic_NEOFORGE_v1.8.17_mc1.21.1.jar",
+      "sha1": "1e79f5b43efa5a46f37dd8fc5f640b1df7916d49",
+      "size": 54627
+    },
+    {
+      "path": "mods/Jade-1.21.1-NeoForge-15.10.6.jar",
+      "url": "https://edge.forgecdn.net/files/8591/319/Jade-1.21.1-NeoForge-15.10.6.jar",
+      "sha1": "88ee316e68900080b017f60c12162e2731924cf8",
+      "size": 726853
+    },
+    {
+      "path": "mods/jei-1.21.1-neoforge-19.51.0.418.jar",
+      "url": "https://edge.forgecdn.net/files/8792/638/jei-1.21.1-neoforge-19.51.0.418.jar",
+      "sha1": "d19552586f686eae4ef5e7199f31604d1d3cfca7",
+      "size": 1804792
+    },
+    {
+      "path": "mods/konkrete_neoforge_1.9.9_MC_1.21.jar",
+      "url": "https://edge.forgecdn.net/files/5453/385/konkrete_neoforge_1.9.9_MC_1.21.jar",
+      "sha1": "97771eb287d5ac7fe667d1df9493d5e54c8ca1fa",
+      "size": 618842
+    },
+    {
+      "path": "mods/kubejs-neoforge-2101.7.2-build.377.jar",
+      "url": "https://edge.forgecdn.net/files/8843/626/kubejs-neoforge-2101.7.2-build.377.jar",
+      "sha1": "150c5d6efc09b969ac350ea205128dff832e0850",
+      "size": 2294111
+    },
+    {
+      "path": "mods/lambdynamiclights-4.8.11+1.21.1.jar",
+      "url": "https://edge.forgecdn.net/files/8780/227/lambdynamiclights-4.8.11%2b1.21.1.jar",
+      "sha1": "7b5afc75a094b4e8a7118f9856eec959b10f2422",
+      "size": 2023375
+    },
+    {
+      "path": "mods/LegendaryTooltips-1.21.1-neoforge-1.5.5.jar",
+      "url": "https://edge.forgecdn.net/files/6400/660/LegendaryTooltips-1.21.1-neoforge-1.5.5.jar",
+      "sha1": "e7d3b66f3afe115c709749739f26f807ca8e827b",
+      "size": 81808
+    },
+    {
+      "path": "mods/letsdo-vinery-neoforge-1.5.6.jar",
+      "url": "https://edge.forgecdn.net/files/9203/990/letsdo-vinery-neoforge-1.5.6.jar",
+      "sha1": "2e2866ba9abdfff57509b291b76567054e1d5065",
+      "size": 2570708
+    },
+    {
+      "path": "mods/lithostitched-1.8.1-neoforge-21.1.jar",
+      "url": "https://edge.forgecdn.net/files/9170/709/lithostitched-1.8.1-neoforge-21.1.jar",
+      "sha1": "88cdded5b617e19b4d2676948b5550699de23578",
+      "size": 1023751
+    },
+    {
+      "path": "mods/lootr-neoforge-1.21.1-1.11.38.127.jar",
+      "url": "https://edge.forgecdn.net/files/8968/561/lootr-neoforge-1.21.1-1.11.38.127.jar",
+      "sha1": "7a305b581abd90e1a8b7c1bb5eb4511d2653aa58",
+      "size": 1075929
+    },
+    {
+      "path": "mods/melody_neoforge_1.0.10_MC_1.21.jar",
+      "url": "https://edge.forgecdn.net/files/5453/382/melody_neoforge_1.0.10_MC_1.21.jar",
+      "sha1": "e83052a92c4ca0016bcfe7f0207273983dc84698",
+      "size": 36096
+    },
+    {
+      "path": "mods/midnightthoughts-1.5.7+neoforge.1.21.1.jar",
+      "url": "https://edge.forgecdn.net/files/8878/291/midnightthoughts-1.5.7%2bneoforge.1.21.1.jar",
+      "sha1": "228ec2dee9ce3e8ee3efdf50369e03a6802d2583",
+      "size": 534401
+    },
+    {
+      "path": "mods/minecolonies-1.1.1403-1.21.1.jar",
+      "url": "https://edge.forgecdn.net/files/9058/295/minecolonies-1.1.1403-1.21.1.jar",
+      "sha1": "3be2b5521f45271c77671673e834c57c2296d3e4",
+      "size": 78325447
+    },
+    {
+      "path": "mods/modernfix-neoforge-5.27.26+mc1.21.1.jar",
+      "url": "https://edge.forgecdn.net/files/9101/836/modernfix-neoforge-5.27.26%2bmc1.21.1.jar",
+      "sha1": "69d468b70e53f6a014c778a81116a41a38fbab33",
+      "size": 611043
+    },
+    {
+      "path": "mods/moonlight-1.21.1-3.7.2-neoforge.jar",
+      "url": "https://edge.forgecdn.net/files/9122/548/moonlight-1.21.1-3.7.2-neoforge.jar",
+      "sha1": "0da45e6bc941f4b9b18dda24f8d047431ddc7226",
+      "size": 2299162
+    },
+    {
+      "path": "mods/MouseTweaks-neoforge-mc1.21-2.26.1.jar",
+      "url": "https://edge.forgecdn.net/files/5637/846/MouseTweaks-neoforge-mc1.21-2.26.1.jar",
+      "sha1": "6dae57f4f50f7808d2ed9a18f6cd1c0d4640c6bc",
+      "size": 73938
+    },
+    {
+      "path": "mods/multipiston-1.2.58-1.21.1.jar",
+      "url": "https://edge.forgecdn.net/files/7097/877/multipiston-1.2.58-1.21.1.jar",
+      "sha1": "2b63be739da24247328e4052ec91c928230d0390",
+      "size": 34139
+    },
+    {
+      "path": "mods/naturalist-2.0.5-neoforge-1.21.1.jar",
+      "url": "https://edge.forgecdn.net/files/9004/373/naturalist-2.0.5-neoforge-1.21.1.jar",
+      "sha1": "ea9ebf082eb978dcf583255e8fca1004a8114ab6",
+      "size": 11325729
+    },
+    {
+      "path": "mods/notenoughanimations-neoforge-1.12.6-mc1.21.1.jar",
+      "url": "https://edge.forgecdn.net/files/8925/75/notenoughanimations-neoforge-1.12.6-mc1.21.1.jar",
+      "sha1": "2098ae4965ebefb2dc8d5aec42a7d5282414fddc",
+      "size": 1866035
+    },
+    {
+      "path": "mods/open-parties-and-claims-neoforge-1.21.1-0.32.7.jar",
+      "url": "https://edge.forgecdn.net/files/9066/682/open-parties-and-claims-neoforge-1.21.1-0.32.7.jar",
+      "sha1": "1c564ecb944277993716e2c7fc9d35dc403e515c",
+      "size": 1871092
+    },
+    {
+      "path": "mods/particlerain-4.0.2+1.21.1-neoforge.jar",
+      "url": "https://edge.forgecdn.net/files/9113/934/particlerain-4.0.2%2b1.21.1-neoforge.jar",
+      "sha1": "444c6f221e57cca8e433702b18c4643faa82545a",
+      "size": 623257
+    },
+    {
+      "path": "mods/particular-1.21.1-NeoForge-1.5.7.jar",
+      "url": "https://edge.forgecdn.net/files/8662/697/particular-1.21.1-NeoForge-1.5.7.jar",
+      "sha1": "d6d33e8233481ad8fc6f8c351f52783ed431a800",
+      "size": 315841
+    },
+    {
+      "path": "mods/Patchouli-1.21.1-93-NEOFORGE.jar",
+      "url": "https://edge.forgecdn.net/files/7730/942/Patchouli-1.21.1-93-NEOFORGE.jar",
+      "sha1": "5413bb9b8fc35ebe46b06b48bf9afafbd8471140",
+      "size": 646777
+    },
+    {
+      "path": "mods/PickUpNotifier-v21.1.1-1.21.1-NeoForge.jar",
+      "url": "https://edge.forgecdn.net/files/6409/785/PickUpNotifier-v21.1.1-1.21.1-NeoForge.jar",
+      "sha1": "90d3fe207c95a3a5d849ebf8d70ffa885694e30f",
+      "size": 97094
+    },
+    {
+      "path": "mods/Placebo-1.21.1-9.9.4.jar",
+      "url": "https://edge.forgecdn.net/files/9153/39/Placebo-1.21.1-9.9.4.jar",
+      "sha1": "007d52a42020a331d5272495f6d676e0ad1a2c13",
+      "size": 326063
+    },
+    {
+      "path": "mods/player-animation-lib-forge-2.0.4+1.21.1.jar",
+      "url": "https://edge.forgecdn.net/files/7389/814/player-animation-lib-forge-2.0.4%2b1.21.1.jar",
+      "sha1": "05be8ddcc78532b9a5520c718edc6c971cd0057c",
+      "size": 203149
+    },
+    {
+      "path": "mods/PlayerAnimationLibNeoforge-1.1.6+mc.1.21.1.jar",
+      "url": "https://edge.forgecdn.net/files/8674/792/PlayerAnimationLibNeoforge-1.1.6%2bmc.1.21.1.jar",
+      "sha1": "856b2e281b405dab7ca1584a7e9d053e76cc268b",
+      "size": 1156673
+    },
+    {
+      "path": "mods/Prism-1.21.1-neoforge-1.0.11.jar",
+      "url": "https://edge.forgecdn.net/files/6372/979/Prism-1.21.1-neoforge-1.0.11.jar",
+      "sha1": "1ae6f7be2ba8f963344dbf27e552920a7bc7a35f",
+      "size": 62031
+    },
+    {
+      "path": "mods/puffish_skills-0.19.2-1.21-neoforge.jar",
+      "url": "https://edge.forgecdn.net/files/9101/377/puffish_skills-0.19.2-1.21-neoforge.jar",
+      "sha1": "e7439fa56036bfacf228269b8b89f10cbbba13fd",
+      "size": 652840
+    },
+    {
+      "path": "mods/puzzleslib-v21.1.64-mc1.21.1+neoforge.jar",
+      "url": "https://edge.forgecdn.net/files/9130/151/puzzleslib-v21.1.64-mc1.21.1%2bneoforge.jar",
+      "sha1": "8562ac65d4f2a55365d4522934fb0e00cd3d3ec3",
+      "size": 1451067
+    },
+    {
+      "path": "mods/resourcefullib-neoforge-1.21-3.0.12.jar",
+      "url": "https://edge.forgecdn.net/files/5973/188/resourcefullib-neoforge-1.21-3.0.12.jar",
+      "sha1": "24389c8e48ff0e8594e4686b750c494c66a5f8df",
+      "size": 484332
+    },
+    {
+      "path": "mods/rhino-2101.2.7-build.85.jar",
+      "url": "https://edge.forgecdn.net/files/8218/748/rhino-2101.2.7-build.85.jar",
+      "sha1": "370598a1d2321c8a705ce539eb970375f20150c3",
+      "size": 882075
+    },
+    {
+      "path": "mods/sable-neoforge-1.21.1-2.0.6.jar",
+      "url": "https://edge.forgecdn.net/files/9043/865/sable-neoforge-1.21.1-2.0.6.jar",
+      "sha1": "cf46f7e8c1511f170abcdbee739944f0540549bf",
+      "size": 12986135
+    },
+    {
+      "path": "mods/SereneSeasons-neoforge-1.21.1-10.1.0.3.jar",
+      "url": "https://edge.forgecdn.net/files/6182/596/SereneSeasons-neoforge-1.21.1-10.1.0.3.jar",
+      "sha1": "8b9034d4c43f880b1f1ebdd3943219de0b0bc4c5",
+      "size": 159205
+    },
+    {
+      "path": "mods/SmoothPlayerAnimations_Neoforge_1.21.1_1.1.0.jar",
+      "url": "https://edge.forgecdn.net/files/8996/96/SmoothPlayerAnimations_Neoforge_1.21.1_1.1.0.jar",
+      "sha1": "227343aef3a8819dc6b7ec51d55a06057771e19a",
+      "size": 409534
+    },
+    {
+      "path": "mods/sodium-neoforge-0.8.13+mc1.21.1.jar",
+      "url": "https://edge.forgecdn.net/files/8756/580/sodium-neoforge-0.8.13%2bmc1.21.1.jar",
+      "sha1": "1757289be21ed18db5b0d90703fa3db1b2de5693",
+      "size": 1292934
+    },
+    {
+      "path": "mods/sophisticatedbackpacks-1.21.1-3.26.12.2208.jar",
+      "url": "https://edge.forgecdn.net/files/9154/769/sophisticatedbackpacks-1.21.1-3.26.12.2208.jar",
+      "sha1": "ef59863d328e4e949bdaf75f65412d1048b3f9e1",
+      "size": 1247031
+    },
+    {
+      "path": "mods/sophisticatedcore-1.21.1-1.5.13.2404.jar",
+      "url": "https://edge.forgecdn.net/files/9201/381/sophisticatedcore-1.21.1-1.5.13.2404.jar",
+      "sha1": "ee81d01495d2f5b5fabbe45208dc772574cec131",
+      "size": 1818070
+    },
+    {
+      "path": "mods/sound-physics-remastered-neoforge-1.21.1-1.5.1.jar",
+      "url": "https://edge.forgecdn.net/files/7032/247/sound-physics-remastered-neoforge-1.21.1-1.5.1.jar",
+      "sha1": "31cf754f9e5f62d1ca257f297e5dce394024696c",
+      "size": 202454
+    },
+    {
+      "path": "mods/structurize-1.0.832-1.21.1.jar",
+      "url": "https://edge.forgecdn.net/files/8610/535/structurize-1.0.832-1.21.1.jar",
+      "sha1": "be15d6924bcca76bf5ac107e2ce5ac4d948d82e2",
+      "size": 1063849
+    },
+    {
+      "path": "mods/supplementaries-1.21.1-4.0.1-neoforge.jar",
+      "url": "https://edge.forgecdn.net/files/9140/379/supplementaries-1.21.1-4.0.1-neoforge.jar",
+      "sha1": "104225e17001c68a1c1aaac6d928fc5377c93427",
+      "size": 13841674
+    },
+    {
+      "path": "mods/tectonic-3.0.28-neoforge-21.1.jar",
+      "url": "https://edge.forgecdn.net/files/8855/43/tectonic-3.0.28-neoforge-21.1.jar",
+      "sha1": "db15156eec4320c2997c4dd4948119472de01224",
+      "size": 451757
+    },
+    {
+      "path": "mods/Terralith_1.21.x_v2.6.2.jar",
+      "url": "https://edge.forgecdn.net/files/8222/737/Terralith_1.21.x_v2.6.2.jar",
+      "sha1": "d4a9fe71b841f70edfb4b280f9bf5c58e4a28224",
+      "size": 2814865
+    },
+    {
+      "path": "mods/tfmg-1.2.0.jar",
+      "url": "https://edge.forgecdn.net/files/7430/73/tfmg-1.2.0.jar",
+      "sha1": "b520f3687f60a69eb265ff5b9a16759b9e124103",
+      "size": 4924243
+    },
+    {
+      "path": "mods/ToughAsNails-neoforge-1.21.1-10.1.0.13.jar",
+      "url": "https://edge.forgecdn.net/files/5833/252/ToughAsNails-neoforge-1.21.1-10.1.0.13.jar",
+      "sha1": "a90d30bb2d4a53830319ecfc842c28c013e2428f",
+      "size": 429638
+    },
+    {
+      "path": "mods/towntalk-1.2.0.jar",
+      "url": "https://edge.forgecdn.net/files/5653/504/towntalk-1.2.0.jar",
+      "sha1": "6866d898938bdde1a17fadee16983c0c6071eac6",
+      "size": 52301863
+    },
+    {
+      "path": "mods/t_and_t-fabric-neoforge-1.13.11.jar",
+      "url": "https://edge.forgecdn.net/files/8657/120/t_and_t-fabric-neoforge-1.13.11.jar",
+      "sha1": "8f00e36a11568c0b66bbdf5c0e9ee492e511b303",
+      "size": 3553006
+    },
+    {
+      "path": "mods/VisualWorkbench-v21.1.2-1.21.1-NeoForge.jar",
+      "url": "https://edge.forgecdn.net/files/8793/655/VisualWorkbench-v21.1.2-1.21.1-NeoForge.jar",
+      "sha1": "dd5b71bff42ce3f845afc9c3640d4f4f63ccdb1b",
+      "size": 76670
+    },
+    {
+      "path": "mods/watut-neoforge-1.21.0-1.2.7.jar",
+      "url": "https://edge.forgecdn.net/files/6418/577/watut-neoforge-1.21.0-1.2.7.jar",
+      "sha1": "07cfb8fb1269f1eae1056492912e3544be979f62",
+      "size": 432269
+    },
+    {
+      "path": "mods/weaponmaster_ydm-1.21.1-neoforge-4.2.7.jar",
+      "url": "https://edge.forgecdn.net/files/6476/374/weaponmaster_ydm-1.21.1-neoforge-4.2.7.jar",
+      "sha1": "4cfceaf50678186c8c8de2eedc1f47f46a624782",
+      "size": 344392
+    },
+    {
+      "path": "mods/xaerominimap-neoforge-1.21.1-26.6.0.jar",
+      "url": "https://edge.forgecdn.net/files/9067/173/xaerominimap-neoforge-1.21.1-26.6.0.jar",
+      "sha1": "551e8e2aa3498b506cc949a74606cdc0380e5e00",
+      "size": 2186351
+    },
+    {
+      "path": "mods/xaeroworldmap-neoforge-1.21.1-1.47.0.jar",
+      "url": "https://edge.forgecdn.net/files/9067/277/xaeroworldmap-neoforge-1.21.1-1.47.0.jar",
+      "sha1": "2936c9cb9dfbdab145fe6f1e8ae2c68915246a5f",
+      "size": 1427078
+    },
+    {
+      "path": "mods/YungsApi-1.21.1-NeoForge-5.1.9.jar",
+      "url": "https://edge.forgecdn.net/files/8894/736/YungsApi-1.21.1-NeoForge-5.1.9.jar",
+      "sha1": "2c4b740c8ad27bbcb2a21b85b64f011b809aed91",
+      "size": 413763
+    },
+    {
+      "path": "mods/YungsBetterCaves-1.21.1-NeoForge-3.1.6.jar",
+      "url": "https://edge.forgecdn.net/files/8806/71/YungsBetterCaves-1.21.1-NeoForge-3.1.6.jar",
+      "sha1": "6420fdb345b5e33b3a51254799dc281c9c53d3c5",
+      "size": 400316
+    },
+    {
+      "path": "mods/YungsBetterDesertTemples-1.21.1-NeoForge-4.1.5.jar",
+      "url": "https://edge.forgecdn.net/files/6276/955/YungsBetterDesertTemples-1.21.1-NeoForge-4.1.5.jar",
+      "sha1": "90529257dbd92558998c65178294bc7b2fd16a64",
+      "size": 905839
+    },
+    {
+      "path": "mods/YungsBetterDungeons-1.21.1-NeoForge-5.1.4.jar",
+      "url": "https://edge.forgecdn.net/files/5954/804/YungsBetterDungeons-1.21.1-NeoForge-5.1.4.jar",
+      "sha1": "73a660c13063450e555e5e2c015ae24d606b32b4",
+      "size": 782160
+    },
+    {
+      "path": "mods/YungsBetterJungleTemples-1.21.1-NeoForge-3.1.2.jar",
+      "url": "https://edge.forgecdn.net/files/5924/482/YungsBetterJungleTemples-1.21.1-NeoForge-3.1.2.jar",
+      "sha1": "d6b7ce6cf351b09cbd23147ff166c35cfdc572e8",
+      "size": 795839
+    },
+    {
+      "path": "mods/YungsBetterMineshafts-1.21.1-NeoForge-5.1.1.jar",
+      "url": "https://edge.forgecdn.net/files/5812/193/YungsBetterMineshafts-1.21.1-NeoForge-5.1.1.jar",
+      "sha1": "6a14e1d8201f068ca87ef8333e471c5378955906",
+      "size": 493967
+    },
+    {
+      "path": "mods/YungsBetterOceanMonuments-1.21.1-NeoForge-4.1.2.jar",
+      "url": "https://edge.forgecdn.net/files/5924/487/YungsBetterOceanMonuments-1.21.1-NeoForge-4.1.2.jar",
+      "sha1": "fba629defdb92ad99ec4f411895afb6e19555a18",
+      "size": 1025571
+    },
+    {
+      "path": "mods/YungsBetterStrongholds-1.21.1-NeoForge-5.1.3.jar",
+      "url": "https://edge.forgecdn.net/files/6272/264/YungsBetterStrongholds-1.21.1-NeoForge-5.1.3.jar",
+      "sha1": "5d06a5850af7c577612d4592706a8e156bbe1cbf",
+      "size": 461244
+    },
+    {
+      "path": "mods/YungsBridges-1.21.1-NeoForge-5.1.1.jar",
+      "url": "https://edge.forgecdn.net/files/5812/553/YungsBridges-1.21.1-NeoForge-5.1.1.jar",
+      "sha1": "18099c2d54acd16bb8ab90a66f40fa16496d065e",
+      "size": 136820
+    },
+    {
+      "path": "mods/YungsExtras-1.21.1-NeoForge-5.1.1.jar",
+      "url": "https://edge.forgecdn.net/files/5812/546/YungsExtras-1.21.1-NeoForge-5.1.1.jar",
+      "sha1": "62833733aaf407f36bdacf648ed4b2ef9940662b",
+      "size": 198183
+    },
+    {
+      "path": "resourcepacks/CreateSophBackpacks.zip",
+      "url": "https://edge.forgecdn.net/files/7707/479/CreateSophBackpacks.zip",
+      "sha1": "0c834a3a13d3d597b6d1273375d2bd049fc3d728",
+      "size": 557473
+    },
+    {
+      "path": "resourcepacks/Enhanced Audio r7.zip",
+      "url": "https://edge.forgecdn.net/files/7873/296/Enhanced%20Audio%20r7.zip",
+      "sha1": "2cd4bd529641bde061c2d2d4c44de3228fd6d767",
+      "size": 18977120
+    },
+    {
+      "path": "resourcepacks/FreshAnimations_v1.10.4.zip",
+      "url": "https://edge.forgecdn.net/files/7670/377/FreshAnimations_v1.10.4.zip",
+      "sha1": "73db740a6868e043c5e615c036fca2c912615b6e",
+      "size": 850941
+    },
+    {
+      "path": "kubejs/client_scripts/crstone_hors_sujet.js",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/kubejs/client_scripts/crstone_hors_sujet.js",
+      "sha1": "0a5ee098c413889a17c984e917cde6766a53c995",
+      "size": 6983
+    },
+    {
+      "path": "kubejs/client_scripts/main.js",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/kubejs/client_scripts/main.js",
+      "sha1": "e6f23e21b25a366f2216fbf7da00ed7d34542f20",
+      "size": 116
+    },
+    {
+      "path": "kubejs/config/client.json",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/kubejs/config/client.json",
+      "sha1": "543ce77f954453d39da0ef6adad3f5e427fd4d8a",
+      "size": 184
+    },
+    {
+      "path": "kubejs/config/common.json",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/kubejs/config/common.json",
+      "sha1": "72bc0862d970e44dd5075bef3e74110f69d65a7d",
+      "size": 446
+    },
+    {
+      "path": "kubejs/config/web_server.json",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/kubejs/config/web_server.json",
+      "sha1": "7f9c872a7cc7ef121672c4bfe7379780ec703239",
+      "size": 120
+    },
+    {
+      "path": "kubejs/server_scripts/crstone_hors_sujet.js",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/kubejs/server_scripts/crstone_hors_sujet.js",
+      "sha1": "1b2af1aceab8b601161d13bcccd933f5b5885287",
+      "size": 6968
+    },
+    {
+      "path": "kubejs/server_scripts/crstone_recettes.js",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/kubejs/server_scripts/crstone_recettes.js",
+      "sha1": "4c103d327ac8a190b3944e429653e3852154dd96",
+      "size": 3754
+    },
+    {
+      "path": "kubejs/startup_scripts/main.js",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/kubejs/startup_scripts/main.js",
+      "sha1": "05ec115c372985dc9f77dd2513933aa8e90eba61",
+      "size": 117
+    },
+    {
+      "path": "config/advancementplaques.toml",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/advancementplaques.toml",
+      "sha1": "2b1f8e4ccd81d6f3187fbcae5ed9131c2e643ed5",
+      "size": 3284,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/aeronautics-server.toml",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/aeronautics-server.toml",
+      "sha1": "e01adc163a806d84330b7778e11acb0ce3d33678",
+      "size": 3066,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/alexsmobs/alligator_snapping_turtle_spawns.json",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/alexsmobs/alligator_snapping_turtle_spawns.json",
+      "sha1": "dfd0c683e29fa92bccbf7c39805e1213c268300d",
+      "size": 750,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/alexsmobs/anaconda_spawns.json",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/alexsmobs/anaconda_spawns.json",
+      "sha1": "717d907d7c554fc01c6a3304e90336fd5904e51e",
+      "size": 1032,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/alexsmobs/anteater_spawns.json",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/alexsmobs/anteater_spawns.json",
+      "sha1": "983d5b8a09faf49e73d82af7e3fb0d6d8a28ec4d",
+      "size": 1166,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/alexsmobs/bald_eagle_spawns.json",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/alexsmobs/bald_eagle_spawns.json",
+      "sha1": "24a04efbc87e0488fd296c2d7c8802cf8ef8291a",
+      "size": 2719,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/alexsmobs/banana_slug_spawns.json",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/alexsmobs/banana_slug_spawns.json",
+      "sha1": "9a666c04b268d50ca141e280895be10b4f05c594",
+      "size": 1689,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/alexsmobs/bison_spawns.json",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/alexsmobs/bison_spawns.json",
+      "sha1": "7e4772d2aeaa0b83f807f66c72f008d4284febd8",
+      "size": 1753,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/alexsmobs/blobfish_spawns.json",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/alexsmobs/blobfish_spawns.json",
+      "sha1": "f39ce83ec705fea5b1e181947ea3d690961a3556",
+      "size": 146,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/alexsmobs/blue_jay_spawns.json",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/alexsmobs/blue_jay_spawns.json",
+      "sha1": "4a704c533746078e7338f88c29f181166a092606",
+      "size": 4020,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/alexsmobs/bone_serpent_spawns.json",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/alexsmobs/bone_serpent_spawns.json",
+      "sha1": "2ccceb16e3d58dacd7b9da70abcf18d578f7db32",
+      "size": 253,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/alexsmobs/bunfungus_spawns.json",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/alexsmobs/bunfungus_spawns.json",
+      "sha1": "f5ea95611f2beb3d2d5b79d5d00de44b8c4de012",
+      "size": 478,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/alexsmobs/cachalot_whale_beached_spawns.json",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/alexsmobs/cachalot_whale_beached_spawns.json",
+      "sha1": "c428aeede9825f740c73a8e600785aa8b2c2d009",
+      "size": 642,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/alexsmobs/cachalot_whale_spawns.json",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/alexsmobs/cachalot_whale_spawns.json",
+      "sha1": "6c5965ab0b548e11bf229d6531bec6252eaff443",
+      "size": 889,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/alexsmobs/caiman_spawns.json",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/alexsmobs/caiman_spawns.json",
+      "sha1": "2dc9908d8f42e786d38bbdaba6a4ea5249dfb13e",
+      "size": 291,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/alexsmobs/capuchin_monkey_spawns.json",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/alexsmobs/capuchin_monkey_spawns.json",
+      "sha1": "aba297cc13e94b9bc3111e2918d0dcb4a9495cca",
+      "size": 1184,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/alexsmobs/catfish_spawns.json",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/alexsmobs/catfish_spawns.json",
+      "sha1": "bdaa6f7ffb98628dcd9ef6c239608ec3f3a08121",
+      "size": 1089,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/alexsmobs/cave_centipede_spawns.json",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/alexsmobs/cave_centipede_spawns.json",
+      "sha1": "03d4fc8de51b1c140015dfa72cc73eaf691431b4",
+      "size": 2192,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/alexsmobs/cockroach_spawns.json",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/alexsmobs/cockroach_spawns.json",
+      "sha1": "1c8f8f17ac7ce4fc12fab461ec3c50d272d93d75",
+      "size": 2081,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/alexsmobs/comb_jelly_spawns.json",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/alexsmobs/comb_jelly_spawns.json",
+      "sha1": "ced1e6a35f9debfda11e579fdd8d45a340c05630",
+      "size": 414,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/alexsmobs/cosmaw_spawns.json",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/alexsmobs/cosmaw_spawns.json",
+      "sha1": "59349c0f99f2b4f452326602e27ca30a56094c22",
+      "size": 371,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/alexsmobs/cosmic_cod_spawns.json",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/alexsmobs/cosmic_cod_spawns.json",
+      "sha1": "6d2ab311e1f341a4874c15ae97e420562b035c3a",
+      "size": 139,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/alexsmobs/crimson_mosquito_spawns.json",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/alexsmobs/crimson_mosquito_spawns.json",
+      "sha1": "b8c64f6dd736667fb2b5461ee25b970438264770",
+      "size": 781,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/alexsmobs/crocodile_spawns.json",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/alexsmobs/crocodile_spawns.json",
+      "sha1": "345de0c6d056d843e4cef87763c88ab32e150002",
+      "size": 999,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/alexsmobs/crow_spawns.json",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/alexsmobs/crow_spawns.json",
+      "sha1": "767bafd15d5a771550dc636b905a15159386757d",
+      "size": 5142,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/alexsmobs/devils_hole_pupfish_spawns.json",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/alexsmobs/devils_hole_pupfish_spawns.json",
+      "sha1": "72c87498fe92bbaedac0dd8f17fe45cd39f10175",
+      "size": 145,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/alexsmobs/dropbear_spawns.json",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/alexsmobs/dropbear_spawns.json",
+      "sha1": "05edeefbc1e89291d0af5a8b6ad4e07abcfb4dc0",
+      "size": 399,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/alexsmobs/elephant_spawns.json",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/alexsmobs/elephant_spawns.json",
+      "sha1": "174b8af7c5357d42f6c3d7cf46000abf001026c9",
+      "size": 1163,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/alexsmobs/emu_spawns.json",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/alexsmobs/emu_spawns.json",
+      "sha1": "1350a531f941af07b0c590c6b03eed79569df58b",
+      "size": 1661,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/alexsmobs/endergrade_spawns.json",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/alexsmobs/endergrade_spawns.json",
+      "sha1": "876c128ed4fc894d61aab0eb2c735e64fa6dc417",
+      "size": 250,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/alexsmobs/enderiophage_spawns.json",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/alexsmobs/enderiophage_spawns.json",
+      "sha1": "b343e2bd88950cc0f5db7041b1a7708ffb51c5fb",
+      "size": 603,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/alexsmobs/farseer.json",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/alexsmobs/farseer.json",
+      "sha1": "c81f27b1f74d150d8762e2162eb9ea8312a2d00f",
+      "size": 262,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/alexsmobs/flutter_spawns.json",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/alexsmobs/flutter_spawns.json",
+      "sha1": "c7d78e61a3ded23ae0af88640b4f6e3788d91462",
+      "size": 147,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/alexsmobs/flying_fish_spawns.json",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/alexsmobs/flying_fish_spawns.json",
+      "sha1": "16a366bbd5d415751babc14c7a3e72fdc843b390",
+      "size": 708,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/alexsmobs/fly_spawns.json",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/alexsmobs/fly_spawns.json",
+      "sha1": "72c87498fe92bbaedac0dd8f17fe45cd39f10175",
+      "size": 145,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/alexsmobs/frilled_shark_spawns.json",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/alexsmobs/frilled_shark_spawns.json",
+      "sha1": "f39ce83ec705fea5b1e181947ea3d690961a3556",
+      "size": 146,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/alexsmobs/froststalker_spawns.json",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/alexsmobs/froststalker_spawns.json",
+      "sha1": "707c1d78e16032957b1b047a3559006883a66aa6",
+      "size": 934,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/alexsmobs/gazelle_spawns.json",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/alexsmobs/gazelle_spawns.json",
+      "sha1": "f7ef705fb7988c423de961ecf5b6b50207e7508c",
+      "size": 1050,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/alexsmobs/gelada_monkey_spawns.json",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/alexsmobs/gelada_monkey_spawns.json",
+      "sha1": "b25167bae6afe207181eb2e6a576afddb057927f",
+      "size": 993,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/alexsmobs/giant_squid_spawns.json",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/alexsmobs/giant_squid_spawns.json",
+      "sha1": "f39ce83ec705fea5b1e181947ea3d690961a3556",
+      "size": 146,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/alexsmobs/gorilla_spawns.json",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/alexsmobs/gorilla_spawns.json",
+      "sha1": "dbdc0203d5147edd4d7b9483b05778b381839ee2",
+      "size": 1053,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/alexsmobs/grizzly_bear_spawns.json",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/alexsmobs/grizzly_bear_spawns.json",
+      "sha1": "4a704c533746078e7338f88c29f181166a092606",
+      "size": 4020,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/alexsmobs/guster_spawns.json",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/alexsmobs/guster_spawns.json",
+      "sha1": "af87c402b13c9299b4ad58a474c1a35732ee8ce5",
+      "size": 1116,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/alexsmobs/hammerhead_shark_spawns.json",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/alexsmobs/hammerhead_shark_spawns.json",
+      "sha1": "025e3e72b36872c76c171726ca843ac93d0adb4d",
+      "size": 250,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/alexsmobs/hummingbird_spawns.json",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/alexsmobs/hummingbird_spawns.json",
+      "sha1": "87a5239ac83733283bda909fd7247cc8bdb7f68a",
+      "size": 3029,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/alexsmobs/jerboa_spawns.json",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/alexsmobs/jerboa_spawns.json",
+      "sha1": "ce615f2a96a48c4ff3cf314fe081b2a3d2d134e9",
+      "size": 1240,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/alexsmobs/kangaroo_spawns.json",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/alexsmobs/kangaroo_spawns.json",
+      "sha1": "1350a531f941af07b0c590c6b03eed79569df58b",
+      "size": 1661,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/alexsmobs/komodo_dragon_spawns.json",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/alexsmobs/komodo_dragon_spawns.json",
+      "sha1": "c05f2d389d47af9f28435aac9cceea472981cc8f",
+      "size": 771,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/alexsmobs/laviathan_spawns.json",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/alexsmobs/laviathan_spawns.json",
+      "sha1": "b35947925d599eb04ee7075af6810dbe7b515052",
+      "size": 142,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/alexsmobs/leafcutter_anthill_spawns.json",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/alexsmobs/leafcutter_anthill_spawns.json",
+      "sha1": "983d5b8a09faf49e73d82af7e3fb0d6d8a28ec4d",
+      "size": 1166,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/alexsmobs/lobster_spawns.json",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/alexsmobs/lobster_spawns.json",
+      "sha1": "bfa5934e707e1a5fac743d40eede8a78dae13ff1",
+      "size": 398,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/alexsmobs/maned_wolf_spawns.json",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/alexsmobs/maned_wolf_spawns.json",
+      "sha1": "e7262e3a8d7dea88c22540ac36efd9b82524384e",
+      "size": 1037,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/alexsmobs/mantis_shrimp_spawns.json",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/alexsmobs/mantis_shrimp_spawns.json",
+      "sha1": "98434e630959b7774f9bc57706400b1e649a2c7d",
+      "size": 381,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/alexsmobs/mimicube_spawns.json",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/alexsmobs/mimicube_spawns.json",
+      "sha1": "c114b5771028f6538d6d2f4a04d4ad2aec9f3235",
+      "size": 361,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/alexsmobs/mimic_octopus_spawns.json",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/alexsmobs/mimic_octopus_spawns.json",
+      "sha1": "f3b30be220c7084580f2d5ea927741a4d6189ba4",
+      "size": 369,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/alexsmobs/moose_spawns.json",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/alexsmobs/moose_spawns.json",
+      "sha1": "4a87a49a734e854cb336722c5128fd56b1b57a66",
+      "size": 2279,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/alexsmobs/mudskipper_spawns.json",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/alexsmobs/mudskipper_spawns.json",
+      "sha1": "2dc9908d8f42e786d38bbdaba6a4ea5249dfb13e",
+      "size": 291,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/alexsmobs/mungus_spawns.json",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/alexsmobs/mungus_spawns.json",
+      "sha1": "f5ea95611f2beb3d2d5b79d5d00de44b8c4de012",
+      "size": 478,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/alexsmobs/murmur.json",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/alexsmobs/murmur.json",
+      "sha1": "03d4fc8de51b1c140015dfa72cc73eaf691431b4",
+      "size": 2192,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/alexsmobs/orca_spawns.json",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/alexsmobs/orca_spawns.json",
+      "sha1": "70354eb97a9810ea9e5cd660808ae6c5305b6602",
+      "size": 251,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/alexsmobs/platypus_spawns.json",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/alexsmobs/platypus_spawns.json",
+      "sha1": "ced22dadf032554f60740f6b90dc32451228fa41",
+      "size": 621,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/alexsmobs/potoo_spawns.json",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/alexsmobs/potoo_spawns.json",
+      "sha1": "426052ea6d093fe878779db6e1951a8accec897f",
+      "size": 148,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/alexsmobs/raccoon_spawns.json",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/alexsmobs/raccoon_spawns.json",
+      "sha1": "5a28b17087fd1a17486449ea947a719ca93fe15c",
+      "size": 3708,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/alexsmobs/rain_frog_spawns.json",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/alexsmobs/rain_frog_spawns.json",
+      "sha1": "ce615f2a96a48c4ff3cf314fe081b2a3d2d134e9",
+      "size": 1240,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/alexsmobs/rattlesnake_spawns.json",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/alexsmobs/rattlesnake_spawns.json",
+      "sha1": "39cc6d1c41ce840ae5713aa157b8470b99a7d0ba",
+      "size": 1634,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/alexsmobs/rhinoceros_spawns.json",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/alexsmobs/rhinoceros_spawns.json",
+      "sha1": "f7ef705fb7988c423de961ecf5b6b50207e7508c",
+      "size": 1050,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/alexsmobs/roadrunner_spawns.json",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/alexsmobs/roadrunner_spawns.json",
+      "sha1": "39cc6d1c41ce840ae5713aa157b8470b99a7d0ba",
+      "size": 1634,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/alexsmobs/rocky_roller_spawns.json",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/alexsmobs/rocky_roller_spawns.json",
+      "sha1": "38742f57f8078b5de937f7327a941d02bcc3847a",
+      "size": 669,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/alexsmobs/seagull_spawns.json",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/alexsmobs/seagull_spawns.json",
+      "sha1": "c4e332410fcd6b13ec92c7a15f142e5155cb5274",
+      "size": 1296,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/alexsmobs/seal_spawns.json",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/alexsmobs/seal_spawns.json",
+      "sha1": "04d6acac10e3aa46201e53aaa68cf1b6d017f896",
+      "size": 873,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/alexsmobs/shoebill_spawns.json",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/alexsmobs/shoebill_spawns.json",
+      "sha1": "59c30ef0c13369f88e07a57bcc1af881599a3f0e",
+      "size": 619,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/alexsmobs/skelewag_spawns.json",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/alexsmobs/skelewag_spawns.json",
+      "sha1": "760eb34189fba290b9a9f8c33752132bfd738ba8",
+      "size": 370,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/alexsmobs/skreecher.json",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/alexsmobs/skreecher.json",
+      "sha1": "025359d8c4ad85ab3c3377dd0d859299acbbeb68",
+      "size": 272,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/alexsmobs/skunk_spawns.json",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/alexsmobs/skunk_spawns.json",
+      "sha1": "af70d75e685e00e5a2f054d9b2c8d2eebf155d00",
+      "size": 2033,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/alexsmobs/snow_leopard_spawns.json",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/alexsmobs/snow_leopard_spawns.json",
+      "sha1": "0369836c949ef4984e94c0b43930da64c3b87a52",
+      "size": 1804,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/alexsmobs/soul_vulture_spawns.json",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/alexsmobs/soul_vulture_spawns.json",
+      "sha1": "757cae5b065600b9988e9bf7d2ba5bef54064f5e",
+      "size": 519,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/alexsmobs/spectre_spawns.json",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/alexsmobs/spectre_spawns.json",
+      "sha1": "876c128ed4fc894d61aab0eb2c735e64fa6dc417",
+      "size": 250,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/alexsmobs/straddler_spawns.json",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/alexsmobs/straddler_spawns.json",
+      "sha1": "028e234a693e259d036754f10ad944201cbe9e92",
+      "size": 660,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/alexsmobs/stradpole_spawns.json",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/alexsmobs/stradpole_spawns.json",
+      "sha1": "028e234a693e259d036754f10ad944201cbe9e92",
+      "size": 660,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/alexsmobs/sugar_glider_spawns.json",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/alexsmobs/sugar_glider_spawns.json",
+      "sha1": "62d2952af8a99284a2072613584475532fa3976d",
+      "size": 418,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/alexsmobs/sunbird_spawns.json",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/alexsmobs/sunbird_spawns.json",
+      "sha1": "d00d854a7a859be448d448854a489fb4bf5b3754",
+      "size": 3925,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/alexsmobs/tarantula_hawk_spawns.json",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/alexsmobs/tarantula_hawk_spawns.json",
+      "sha1": "ce615f2a96a48c4ff3cf314fe081b2a3d2d134e9",
+      "size": 1240,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/alexsmobs/tasmanian_devil_spawns.json",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/alexsmobs/tasmanian_devil_spawns.json",
+      "sha1": "23bc2cb9dc01cf15886c1f41286b0c2a2812c50a",
+      "size": 1904,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/alexsmobs/terrapin_spawns.json",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/alexsmobs/terrapin_spawns.json",
+      "sha1": "ced22dadf032554f60740f6b90dc32451228fa41",
+      "size": 621,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/alexsmobs/tiger_spawns.json",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/alexsmobs/tiger_spawns.json",
+      "sha1": "50c690955ef10c27602d6cc9a146721998408c20",
+      "size": 1209,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/alexsmobs/toucan_spawns.json",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/alexsmobs/toucan_spawns.json",
+      "sha1": "983d5b8a09faf49e73d82af7e3fb0d6d8a28ec4d",
+      "size": 1166,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/alexsmobs/triops_spawns.json",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/alexsmobs/triops_spawns.json",
+      "sha1": "ce615f2a96a48c4ff3cf314fe081b2a3d2d134e9",
+      "size": 1240,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/alexsmobs/tusklin_spawns.json",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/alexsmobs/tusklin_spawns.json",
+      "sha1": "a8b647f13fac15e0ed54a56a2210825a518d2b93",
+      "size": 874,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/alexsmobs/underminer.json",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/alexsmobs/underminer.json",
+      "sha1": "1c8f8f17ac7ce4fc12fab461ec3c50d272d93d75",
+      "size": 2081,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/alexsmobs/void_worm_spawns.json",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/alexsmobs/void_worm_spawns.json",
+      "sha1": "1ae814f47278ae5e83f93b711cb1b22df42fa5c4",
+      "size": 18,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/alexsmobs/warped_mosco_spawns.json",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/alexsmobs/warped_mosco_spawns.json",
+      "sha1": "1ae814f47278ae5e83f93b711cb1b22df42fa5c4",
+      "size": 18,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/alexsmobs/warped_toad_spawns.json",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/alexsmobs/warped_toad_spawns.json",
+      "sha1": "5cd292af241f4ee8699dc810bccdcfe29135fcc9",
+      "size": 661,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/alexsmobs-common.toml",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/alexsmobs-common.toml",
+      "sha1": "917b1aa96ddda6858a681ac79544e370cddc7de0",
+      "size": 39593,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/ambientsounds-client.json",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/ambientsounds-client.json",
+      "sha1": "e29bba5ead5073bd4f0149c3c6738084d8d8e307",
+      "size": 4198,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/appleskin-client.toml",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/appleskin-client.toml",
+      "sha1": "8f167f14bbd81163f78c5e3459dcffdb50225117",
+      "size": 1376,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/better-advanced-tooltips-client.toml",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/better-advanced-tooltips-client.toml",
+      "sha1": "4fc30a37ee8030f4f3d22c7212e7432f5ad2cf37",
+      "size": 142,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/bettercaves/neoforge-1_21_1/liquidregions.json",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/bettercaves/neoforge-1_21_1/liquidregions.json",
+      "sha1": "12fa57a7462fec82c64dc30c0a40a9747f995671",
+      "size": 168,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/bettercaves/neoforge-1_21_1/README.txt",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/bettercaves/neoforge-1_21_1/README.txt",
+      "sha1": "f0f0630195b032113e179b47e27803fc2174ef1e",
+      "size": 743,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/bettercaves/README.txt",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/bettercaves/README.txt",
+      "sha1": "3c98cdf993a30712d4a0c6a008845a61ca8915b9",
+      "size": 546,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/bettercombat/client.json5",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/bettercombat/client.json5",
+      "sha1": "5e958e33435651d6809f5b3cb2c46c61b37827cc",
+      "size": 721,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/bettercombat/fallback_compatibility.json",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/bettercombat/fallback_compatibility.json",
+      "sha1": "8efde77c49f6cd7c4035ee3f554c25f63532335a",
+      "size": 2995,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/bettercombat/server.json5",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/bettercombat/server.json5",
+      "sha1": "223d0a4b7c3ff0792b40696d8f4fcf29d4de1c3d",
+      "size": 6207,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/bettercombat/weapon_trails.json",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/bettercombat/weapon_trails.json",
+      "sha1": "da308da6817dae4e2ab7c9202bd9068ba5dd3f7d",
+      "size": 7127,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/betterdeserttemples/neoforge-1_21/armorstands.json",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/betterdeserttemples/neoforge-1_21/armorstands.json",
+      "sha1": "63a13f632260ebba8fb550cc7be3dce6b1d1bda4",
+      "size": 1344,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/betterdeserttemples/neoforge-1_21/itemframes.json",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/betterdeserttemples/neoforge-1_21/itemframes.json",
+      "sha1": "6ab0167b83e19c367b9a969ba863e59e4b85afcf",
+      "size": 824,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/betterdeserttemples/neoforge-1_21/README.txt",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/betterdeserttemples/neoforge-1_21/README.txt",
+      "sha1": "80a9d927f4978590ec21d5ae2e2a8e68b16f3277",
+      "size": 1683,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/betterdeserttemples/README.txt",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/betterdeserttemples/README.txt",
+      "sha1": "7d685fa191148b59f2d9dd19f06ce0f4d6dee2f3",
+      "size": 726,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/betterdeserttemples-neoforge-1_21.toml",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/betterdeserttemples-neoforge-1_21.toml",
+      "sha1": "19403763939d1550752fbfd944a67b71771fa3f5",
+      "size": 578,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/betterdungeons-neoforge-1_21.toml",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/betterdungeons-neoforge-1_21.toml",
+      "sha1": "188a675e11bc7ebe44ba3b495b502b4e966c9bda",
+      "size": 3486,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/betterjungletemples-neoforge-1_21.toml",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/betterjungletemples-neoforge-1_21.toml",
+      "sha1": "268d576840536ec1098c7c0902622c4c6dea99a7",
+      "size": 86,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/bettermineshafts-neoforge-1_21.toml",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/bettermineshafts-neoforge-1_21.toml",
+      "sha1": "34a379b8db169b68ccd47cc568392b0e984877ea",
+      "size": 4151,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/betteroceanmonuments-neoforge-1_21.toml",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/betteroceanmonuments-neoforge-1_21.toml",
+      "sha1": "2827b8ebefb6d91e6886970c656a85113d0c4739",
+      "size": 419,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/betterstrongholds/neoforge-1_21/armorstands.json",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/betterstrongholds/neoforge-1_21/armorstands.json",
+      "sha1": "dfb727578861c6ac9d4d492b995526c70d0a6dc9",
+      "size": 1391,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/betterstrongholds/neoforge-1_21/itemframes.json",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/betterstrongholds/neoforge-1_21/itemframes.json",
+      "sha1": "8a6a114b4b6b963093e837f2c6ae4ed1373d48fe",
+      "size": 920,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/betterstrongholds/neoforge-1_21/ores.json",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/betterstrongholds/neoforge-1_21/ores.json",
+      "sha1": "947bf1b5b695e2e816f6584df98e420c89677c0e",
+      "size": 346,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/betterstrongholds/neoforge-1_21/rareblocks.json",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/betterstrongholds/neoforge-1_21/rareblocks.json",
+      "sha1": "393eadb6169b245313c1f8d313fc6f34cb3e7b5b",
+      "size": 238,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/betterstrongholds/neoforge-1_21/README.txt",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/betterstrongholds/neoforge-1_21/README.txt",
+      "sha1": "ee9c20aeefab7187288a4289d129a3155efa5823",
+      "size": 2830,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/betterstrongholds/README.txt",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/betterstrongholds/README.txt",
+      "sha1": "00ed29b440752cac0617bd7d2c44c971097e2c8c",
+      "size": 719,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/betterstrongholds-neoforge-1_21.toml",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/betterstrongholds-neoforge-1_21.toml",
+      "sha1": "9a344f54f80a0f1437e542e4b7b39deef89c3aed",
+      "size": 621,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/betterthirdperson-common.toml",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/betterthirdperson-common.toml",
+      "sha1": "86774c511b59294d8008f5ade4955d697a9263e5",
+      "size": 749,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/biomemusic.json",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/biomemusic.json",
+      "sha1": "c5fb9b49df69b06c02b0e17ebe0bc6ade30035da",
+      "size": 2386,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/carryon-client.toml",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/carryon-client.toml",
+      "sha1": "1fd6cec44704488ae7d2ab31425b6eb88ef3ce9c",
+      "size": 588,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/carryon-common.toml",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/carryon-common.toml",
+      "sha1": "f13ee696f128d74f1c82d90d8987ff8ef9389b70",
+      "size": 9110,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/citadel-common.toml",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/citadel-common.toml",
+      "sha1": "bc21817f0bd106c8bc68e7994d7bd0bdb43afb45",
+      "size": 662,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/copycats-client.toml",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/copycats-client.toml",
+      "sha1": "85dca288044ae0940f94102ec82ee810ffb3bc59",
+      "size": 340,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/copycats-common.toml",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/copycats-common.toml",
+      "sha1": "ff51da0faadaec726600993bd5ade2fef8e26dc5",
+      "size": 2165,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/copycats-server.toml",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/copycats-server.toml",
+      "sha1": "1ece346a8a95d1d5fb7b9a7ae569a14588cb5766",
+      "size": 363,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/CoroUtil/General.toml",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/CoroUtil/General.toml",
+      "sha1": "1233bc5e9b76ae23493ad31db26e92b7da397270",
+      "size": 129,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/corpse-server.toml",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/corpse-server.toml",
+      "sha1": "741422c678902068793cb2a82f1a4e51943a5764",
+      "size": 1092,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/create-client.toml",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/create-client.toml",
+      "sha1": "421de5ea5e5255b28219d47d4a89f0886c2314b2",
+      "size": 4795,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/create-common.toml",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/create-common.toml",
+      "sha1": "eeb60a2bebe041d74118246f0353028f23c82242",
+      "size": 153,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/create-server.toml",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/create-server.toml",
+      "sha1": "7e9b96b35e2f62ca7d25b583ad16f1ec9f037b36",
+      "size": 16890,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/createaddition-common.toml",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/createaddition-common.toml",
+      "sha1": "fcdea5396f0e882437562d6a936a74ca71559350",
+      "size": 6346,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/creativecore-client.json",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/creativecore-client.json",
+      "sha1": "2ac12a74fc6c40a697dfeb4ee9eda22e9241a6b7",
+      "size": 23,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/creativecore.json",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/creativecore.json",
+      "sha1": "b97078641402978a24ffe8af190038943b99438a",
+      "size": 274,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/cristellib/auto_config_settings.json5",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/cristellib/auto_config_settings.json5",
+      "sha1": "86e80a015389a07a3953d6bc3a00cb7f26e5b5e1",
+      "size": 895,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/cristellib/beekeeperhut/structure_placement_config.json5",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/cristellib/beekeeperhut/structure_placement_config.json5",
+      "sha1": "a04ded52bd93ef584a905ccfaa4a0f0deeab76f9",
+      "size": 127,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/cristellib/beekeeperhut/structure_toggle_config.json5",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/cristellib/beekeeperhut/structure_toggle_config.json5",
+      "sha1": "5c36fa82a97ae714b0e519f04ba674345e77faca",
+      "size": 95,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/cristellib/betterdeserttemples/structure_placement_config.json5",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/cristellib/betterdeserttemples/structure_placement_config.json5",
+      "sha1": "efa09788947cf8f5658aeb5e15010e17c81e6020",
+      "size": 128,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/cristellib/betterdeserttemples/structure_toggle_config.json5",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/cristellib/betterdeserttemples/structure_toggle_config.json5",
+      "sha1": "89d6db1d78f6feb084537ce4d347c1199ca9694d",
+      "size": 96,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/cristellib/betterdungeons/structure_placement_config.json5",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/cristellib/betterdungeons/structure_placement_config.json5",
+      "sha1": "456894987ae790b725213c3c77dc2a95968373f0",
+      "size": 467,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/cristellib/betterdungeons/structure_toggle_config.json5",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/cristellib/betterdungeons/structure_toggle_config.json5",
+      "sha1": "e14010c0664b80e8b6b5cc1aca4dc9b9437901e2",
+      "size": 316,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/cristellib/betterjungletemples/structure_placement_config.json5",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/cristellib/betterjungletemples/structure_placement_config.json5",
+      "sha1": "a603fe2f3660000fb45182762d49074a1a2c5bb3",
+      "size": 128,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/cristellib/betterjungletemples/structure_toggle_config.json5",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/cristellib/betterjungletemples/structure_toggle_config.json5",
+      "sha1": "93791da44bd21e2b9555b269869918107469159b",
+      "size": 96,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/cristellib/bettermineshafts/structure_placement_config.json5",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/cristellib/bettermineshafts/structure_placement_config.json5",
+      "sha1": "190a3ffd0885a6244229c1c3ba2a245f24a31234",
+      "size": 145,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/cristellib/bettermineshafts/structure_toggle_config.json5",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/cristellib/bettermineshafts/structure_toggle_config.json5",
+      "sha1": "d8b7011910d102fa07461076fc6b011c9e7d3fd9",
+      "size": 439,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/cristellib/betteroceanmonuments/structure_placement_config.json5",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/cristellib/betteroceanmonuments/structure_placement_config.json5",
+      "sha1": "95aef21f9817f0ff2ad9c9913c710cc6b0fd3f4b",
+      "size": 129,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/cristellib/betteroceanmonuments/structure_toggle_config.json5",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/cristellib/betteroceanmonuments/structure_toggle_config.json5",
+      "sha1": "64bebd75846f47bf6bf40261371bf25cc230215a",
+      "size": 97,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/cristellib/betterstrongholds/structure_placement_config.json5",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/cristellib/betterstrongholds/structure_placement_config.json5",
+      "sha1": "1b2cb16ec527805f0cd58bc0a498f39aaf53dfaf",
+      "size": 125,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/cristellib/betterstrongholds/structure_toggle_config.json5",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/cristellib/betterstrongholds/structure_toggle_config.json5",
+      "sha1": "9f4a6f0d5b25bd69cefc60c685a46027a1d5c1e2",
+      "size": 89,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/cristellib/built_in_packs.json5",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/cristellib/built_in_packs.json5",
+      "sha1": "9cbd8a2b1443834b050d62e30412ea95d2672a56",
+      "size": 373,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/cristellib/ecologics/structure_placement_config.json5",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/cristellib/ecologics/structure_placement_config.json5",
+      "sha1": "63dd1c54b6a4195db439444c1483eb4ef1ac8106",
+      "size": 124,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/cristellib/ecologics/structure_toggle_config.json5",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/cristellib/ecologics/structure_toggle_config.json5",
+      "sha1": "fa0908a65b53292ba28825ce60b65b6c4d8262c6",
+      "size": 92,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/cristellib/friendsandfoes/structure_placement_config.json5",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/cristellib/friendsandfoes/structure_placement_config.json5",
+      "sha1": "0ccbf85567f07769b69c41925efc02310eadd688",
+      "size": 383,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/cristellib/friendsandfoes/structure_toggle_config.json5",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/cristellib/friendsandfoes/structure_toggle_config.json5",
+      "sha1": "dd5eafd734cea413eb70242b8daf2897e435d358",
+      "size": 265,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/cristellib/minecolonies/structure_placement_config.json5",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/cristellib/minecolonies/structure_placement_config.json5",
+      "sha1": "7e558a51a1b2878ef2a3ec0c34701992c16bdafc",
+      "size": 444,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/cristellib/minecolonies/structure_toggle_config.json5",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/cristellib/minecolonies/structure_toggle_config.json5",
+      "sha1": "247a3f7e58b4b8f7c6a02033278a03f25080efe8",
+      "size": 595,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/cristellib/supplementaries/structure_placement_config.json5",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/cristellib/supplementaries/structure_placement_config.json5",
+      "sha1": "1251a2a602e2ca7c12fddbd79abe5c181c9a4a36",
+      "size": 201,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/cristellib/supplementaries/structure_toggle_config.json5",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/cristellib/supplementaries/structure_toggle_config.json5",
+      "sha1": "00f18a97ea7d8e0ab3de7154c0782ead89cf05a4",
+      "size": 125,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/cristellib/terralith/structure_placement_config.json5",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/cristellib/terralith/structure_placement_config.json5",
+      "sha1": "ae59595b56ba019f89b45ac11db28bbfb8634ccb",
+      "size": 587,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/cristellib/terralith/structure_toggle_config.json5",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/cristellib/terralith/structure_toggle_config.json5",
+      "sha1": "0ef0c2ef11de4730feb16b7a54dbca40bbe01cf1",
+      "size": 892,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/crstone-common.toml",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/crstone-common.toml",
+      "sha1": "94095ff6fca5a8a4f7873b8ba15282d119c46a9e",
+      "size": 2001,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/cupboard.json",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/cupboard.json",
+      "sha1": "eb126f493318b72b9af3676234bae75a0e782671",
+      "size": 1364,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/curios-client.toml",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/curios-client.toml",
+      "sha1": "7e66e02fbf04b28e7de60c4e675d2b5168be5ec6",
+      "size": 766,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/curios-common.toml",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/curios-common.toml",
+      "sha1": "2805359d4ad1ce08ef52cc73f84a96dafdc41024",
+      "size": 159,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/curios-server.toml",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/curios-server.toml",
+      "sha1": "8ccde45d5edd3767324231935fe07ac2318a0eb5",
+      "size": 483,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/defaultoptions-common.toml",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/defaultoptions-common.toml",
+      "sha1": "3aebc586067d83965405ed57109080cab0cdbed0",
+      "size": 471,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/DistantHorizons.toml",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/DistantHorizons.toml",
+      "sha1": "075f9310a06b789651444a9822cab0afeb9d1886",
+      "size": 37983,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/drippyloadingscreen/early_window_reference.properties",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/drippyloadingscreen/early_window_reference.properties",
+      "sha1": "46bd82c06ba9d67c2fada3b225d330f89a3bab0e",
+      "size": 134,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/drippyloadingscreen/options.txt",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/drippyloadingscreen/options.txt",
+      "sha1": "2ff67b3d9bcc2795fe59856885bf6e4bb648cc7f",
+      "size": 2465,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/ecologics-common.toml",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/ecologics-common.toml",
+      "sha1": "645b98094f9635e9623bfb631e5fe1f4be85127b",
+      "size": 636,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/entityculling.json",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/entityculling.json",
+      "sha1": "71d872172923ba0b593d8654bfd596f9520ddc8b",
+      "size": 2248,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/entity_model_features.json",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/entity_model_features.json",
+      "sha1": "ac942152021eaaa0f1b4c5daf8fd7f1775090325",
+      "size": 1307,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/entity_texture_features.json",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/entity_texture_features.json",
+      "sha1": "5fc3d7567c74811f362b997baa24dc25c2163b6e",
+      "size": 1452,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/etf_warnings.json",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/etf_warnings.json",
+      "sha1": "1573fc320a363b30a1a5e4cae1d4596ec177085d",
+      "size": 28,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/fallingtree.json",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/fallingtree.json",
+      "sha1": "ad7ae00cdf2cf5930fbeb9ed20f4bdab001c80f3",
+      "size": 1314,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/fancymenu/customizablemenus.txt",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/fancymenu/customizablemenus.txt",
+      "sha1": "ac89850ef71e794f922e5f2454c12268fd8dd339",
+      "size": 99,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/fancymenu/custom_gui_screens.txt",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/fancymenu/custom_gui_screens.txt",
+      "sha1": "50b4602527a4e3cfea6016ec001f3b68ace1d65c",
+      "size": 51,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/fancymenu/legacy_checklist.txt",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/fancymenu/legacy_checklist.txt",
+      "sha1": "f1569161a6ad24cc61b02dece317ea16e351ff1e",
+      "size": 42,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/fancymenu/options.txt",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/fancymenu/options.txt",
+      "sha1": "1735d72a01c594352fbcc3b0550a45e4da5d014b",
+      "size": 4399,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/fancymenu/ui_themes/cherry_blossom.json",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/fancymenu/ui_themes/cherry_blossom.json",
+      "sha1": "9a453a566f041ddbc39e17918acdac90f6eaed38",
+      "size": 9349,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/fancymenu/ui_themes/cozy_campfire.json",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/fancymenu/ui_themes/cozy_campfire.json",
+      "sha1": "e7fbd4e11f3e969d20d7c713e61fa6d6cedd077e",
+      "size": 9347,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/fancymenu/ui_themes/dark.json",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/fancymenu/ui_themes/dark.json",
+      "sha1": "b8793f498fc95000ab68a7d6b45d8575ad45d558",
+      "size": 9329,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/fancymenu/ui_themes/dark_high_contrast.json",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/fancymenu/ui_themes/dark_high_contrast.json",
+      "sha1": "9583fa877b286337557aae3429f91d66682091b7",
+      "size": 9359,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/fancymenu/ui_themes/light.json",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/fancymenu/ui_themes/light.json",
+      "sha1": "5b9e9bc9d4d683584c919bcdae3b75581ae42f60",
+      "size": 9331,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/fancymenu/ui_themes/light_high_contrast.json",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/fancymenu/ui_themes/light_high_contrast.json",
+      "sha1": "8a290f6e1a0bdf2be972878e1c134a0c31f4a069",
+      "size": 9361,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/fancymenu/ui_themes/pumpkin_soup.json",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/fancymenu/ui_themes/pumpkin_soup.json",
+      "sha1": "39c96a61bdeb936b151e38d0050b70abb78e3620",
+      "size": 9345,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/fancymenu/ui_themes/purple_void.json",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/fancymenu/ui_themes/purple_void.json",
+      "sha1": "9e38ca299adfe6ab2ad331c6adb80e26ff823da8",
+      "size": 9343,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/fancymenu/ui_themes/spooky_season.json",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/fancymenu/ui_themes/spooky_season.json",
+      "sha1": "9fa05d2794bdec26dee5224075c98bd7da9c1a0d",
+      "size": 9347,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/farmersdelight-client.toml",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/farmersdelight-client.toml",
+      "sha1": "649ffb20a99fa6a43ce25a5207c5461fee9f135d",
+      "size": 476,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/farmersdelight-common.toml",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/farmersdelight-common.toml",
+      "sha1": "94acfbb88ae7c6618e0650aaa867eaaef8b9783a",
+      "size": 3817,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/fastbench.cfg",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/fastbench.cfg",
+      "sha1": "de58e32332e763a3fcb5a791e0e41d59db9b770a",
+      "size": 541,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/fastsuite.cfg",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/fastsuite.cfg",
+      "sha1": "53080f2147a8fccc967a70c817a01819e1a4e0e7",
+      "size": 918,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/ferritecore-mixin.toml",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/ferritecore-mixin.toml",
+      "sha1": "117f758af35aac859c535d5d2da96c5747a87aea",
+      "size": 1603,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/flywheel-client.toml",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/flywheel-client.toml",
+      "sha1": "91e4896073684532ad4ead6a1037f38753477b87",
+      "size": 637,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/fml.toml",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/fml.toml",
+      "sha1": "53eda48acee054bf3ef1f0c0731c78b60ca049d3",
+      "size": 1557,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/footprintparticle.json",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/footprintparticle.json",
+      "sha1": "bc51a607a6c569bca75df5c3dbbf9a447300f98e",
+      "size": 2255,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/friendsandfoes.json",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/friendsandfoes.json",
+      "sha1": "42ef53c3c156986065aa08ccf4bd714cde6706b1",
+      "size": 3209,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/ftblibrary-client.snbt",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/ftblibrary-client.snbt",
+      "sha1": "1a6fd5dcd4e4b6545de440edea6f604029fce5ff",
+      "size": 1651,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/ftbquests-client.snbt",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/ftbquests-client.snbt",
+      "sha1": "3152836d322ec70298e3f59206bc01a243f90f74",
+      "size": 1551,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/ftbteams-server.snbt",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/ftbteams-server.snbt",
+      "sha1": "d7f7b121c0b1511fea41fedefcd9094c577f1604",
+      "size": 1112,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/hardcorerevival-common.toml",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/hardcorerevival-common.toml",
+      "sha1": "8b8f3c6e883321b6dda3b35facd25c5705a37168",
+      "size": 2713,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/hardcore_torches-client.toml",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/hardcore_torches-client.toml",
+      "sha1": "5a651ad286acac7932e98cac7bc96813ed00e036",
+      "size": 151,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/hardcore_torches-common.toml",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/hardcore_torches-common.toml",
+      "sha1": "5ed5081faed99410d318a40ab6fdee48a4fc51e0",
+      "size": 6062,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/highlighter.toml",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/highlighter.toml",
+      "sha1": "56699c543d86b187014926836e27f94a6b339440",
+      "size": 716,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/holdmyitemsnf-client.toml",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/holdmyitemsnf-client.toml",
+      "sha1": "4ea080c99bcf85b37a14c4aa57628b78786bcd8c",
+      "size": 3023,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/immediatelyfast.json",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/immediatelyfast.json",
+      "sha1": "9005fdfb4eeaa64cf158b244b263aa5347d03db0",
+      "size": 1114,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/iris-excluded.json",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/iris-excluded.json",
+      "sha1": "20bd3420b5c911402ac289c154b56ac1dd8f84ba",
+      "size": 31,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/iris.properties",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/iris.properties",
+      "sha1": "eb1ae0a635e3e599c0d144b592cc5258b0e49e54",
+      "size": 282,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/itemphysic-client.json",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/itemphysic-client.json",
+      "sha1": "f9f0de7703ad570f248d99a50d61083b2d124950",
+      "size": 654,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/itemphysic.json",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/itemphysic.json",
+      "sha1": "f7a651c1b388277d2704f7816929c3a46100b467",
+      "size": 8908,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/jade/hide-blocks.json",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/jade/hide-blocks.json",
+      "sha1": "a503776a467ca75d97916f99bf665dbf64a521a9",
+      "size": 149,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/jade/hide-entities.json",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/jade/hide-entities.json",
+      "sha1": "ef2152a130cc5ff42903c76e69c3e4279d94b9e7",
+      "size": 243,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/jade/jade.json",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/jade/jade.json",
+      "sha1": "8ea73ab5be986b34ee05bf2dcef295f59dcde376",
+      "size": 1089,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/jade/plugins.json",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/jade/plugins.json",
+      "sha1": "03822aaabb0778cada5bdf3848c0a2af644566d5",
+      "size": 2092,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/jade/sort-order.json",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/jade/sort-order.json",
+      "sha1": "764fd0458e5310a1b9316745fbaa6c181832e1df",
+      "size": 2167,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/jei/blacklist.json",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/jei/blacklist.json",
+      "sha1": "a8a4458dce77bc89e82e71719ad2cc14b2739d39",
+      "size": 19,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/jei/world/local/Stone Warudo/lookupHistory.json",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/jei/world/local/Stone%20Warudo/lookupHistory.json",
+      "sha1": "614f193778af346a918157822494894d0d65c300",
+      "size": 307,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/jei/world/local/Stone Warudo I/lookupHistory.json",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/jei/world/local/Stone%20Warudo%20I/lookupHistory.json",
+      "sha1": "9e535ce5752b2cc6be2427d33f10b0dccacf0959",
+      "size": 407,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/jei-server.toml",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/jei-server.toml",
+      "sha1": "91447001769dc0f239a44ffce274f7affa1bbaa8",
+      "size": 324,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/lambdynlights.toml",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/lambdynlights.toml",
+      "sha1": "f1802304ca2baab1cf4018c25267c203846fe7c2",
+      "size": 1448,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/legendarytooltips.toml",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/legendarytooltips.toml",
+      "sha1": "96bb103d4aa806cbc62218e577f7b2b4f20d0a8d",
+      "size": 9333,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/lithostitched.json",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/lithostitched.json",
+      "sha1": "9ae03c2dafdba47d9518aae1865d20e5abadbe03",
+      "size": 273,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/lootr-client.toml",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/lootr-client.toml",
+      "sha1": "bdf2664a9c266bc275de77b91eb7fc3b7f7d37a3",
+      "size": 1301,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/lootr-common.toml",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/lootr-common.toml",
+      "sha1": "7d397225e5497b0943d2eb74ede48ee884dd0988",
+      "size": 9040,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/midnightthoughts/achievements.json",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/midnightthoughts/achievements.json",
+      "sha1": "e07d672c491570f13b0da9722b9f75679079d920",
+      "size": 24,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/midnightthoughts/dreams/de_de/facts.json",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/midnightthoughts/dreams/de_de/facts.json",
+      "sha1": "c401f4adc534220090d0482ae854b42e4a3230ef",
+      "size": 20,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/midnightthoughts/dreams/de_de/lore.json",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/midnightthoughts/dreams/de_de/lore.json",
+      "sha1": "c401f4adc534220090d0482ae854b42e4a3230ef",
+      "size": 20,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/midnightthoughts/dreams/de_de/nightmares.json",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/midnightthoughts/dreams/de_de/nightmares.json",
+      "sha1": "c401f4adc534220090d0482ae854b42e4a3230ef",
+      "size": 20,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/midnightthoughts/dreams/de_de/special.json",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/midnightthoughts/dreams/de_de/special.json",
+      "sha1": "c401f4adc534220090d0482ae854b42e4a3230ef",
+      "size": 20,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/midnightthoughts/dreams/de_de/surreal.json",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/midnightthoughts/dreams/de_de/surreal.json",
+      "sha1": "c401f4adc534220090d0482ae854b42e4a3230ef",
+      "size": 20,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/midnightthoughts/dreams/en_us/facts.json",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/midnightthoughts/dreams/en_us/facts.json",
+      "sha1": "c401f4adc534220090d0482ae854b42e4a3230ef",
+      "size": 20,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/midnightthoughts/dreams/en_us/lore.json",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/midnightthoughts/dreams/en_us/lore.json",
+      "sha1": "c401f4adc534220090d0482ae854b42e4a3230ef",
+      "size": 20,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/midnightthoughts/dreams/en_us/nightmares.json",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/midnightthoughts/dreams/en_us/nightmares.json",
+      "sha1": "c401f4adc534220090d0482ae854b42e4a3230ef",
+      "size": 20,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/midnightthoughts/dreams/en_us/special.json",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/midnightthoughts/dreams/en_us/special.json",
+      "sha1": "c401f4adc534220090d0482ae854b42e4a3230ef",
+      "size": 20,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/midnightthoughts/dreams/en_us/surreal.json",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/midnightthoughts/dreams/en_us/surreal.json",
+      "sha1": "c401f4adc534220090d0482ae854b42e4a3230ef",
+      "size": 20,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/midnightthoughts/dreams/es_es/facts.json",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/midnightthoughts/dreams/es_es/facts.json",
+      "sha1": "c401f4adc534220090d0482ae854b42e4a3230ef",
+      "size": 20,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/midnightthoughts/dreams/es_es/lore.json",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/midnightthoughts/dreams/es_es/lore.json",
+      "sha1": "c401f4adc534220090d0482ae854b42e4a3230ef",
+      "size": 20,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/midnightthoughts/dreams/es_es/nightmares.json",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/midnightthoughts/dreams/es_es/nightmares.json",
+      "sha1": "c401f4adc534220090d0482ae854b42e4a3230ef",
+      "size": 20,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/midnightthoughts/dreams/es_es/special.json",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/midnightthoughts/dreams/es_es/special.json",
+      "sha1": "c401f4adc534220090d0482ae854b42e4a3230ef",
+      "size": 20,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/midnightthoughts/dreams/es_es/surreal.json",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/midnightthoughts/dreams/es_es/surreal.json",
+      "sha1": "c401f4adc534220090d0482ae854b42e4a3230ef",
+      "size": 20,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/midnightthoughts/dreams/fr_fr/facts.json",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/midnightthoughts/dreams/fr_fr/facts.json",
+      "sha1": "c401f4adc534220090d0482ae854b42e4a3230ef",
+      "size": 20,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/midnightthoughts/dreams/fr_fr/lore.json",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/midnightthoughts/dreams/fr_fr/lore.json",
+      "sha1": "c401f4adc534220090d0482ae854b42e4a3230ef",
+      "size": 20,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/midnightthoughts/dreams/fr_fr/nightmares.json",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/midnightthoughts/dreams/fr_fr/nightmares.json",
+      "sha1": "c401f4adc534220090d0482ae854b42e4a3230ef",
+      "size": 20,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/midnightthoughts/dreams/fr_fr/special.json",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/midnightthoughts/dreams/fr_fr/special.json",
+      "sha1": "c401f4adc534220090d0482ae854b42e4a3230ef",
+      "size": 20,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/midnightthoughts/dreams/fr_fr/surreal.json",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/midnightthoughts/dreams/fr_fr/surreal.json",
+      "sha1": "c401f4adc534220090d0482ae854b42e4a3230ef",
+      "size": 20,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/midnightthoughts/dreams/it_it/facts.json",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/midnightthoughts/dreams/it_it/facts.json",
+      "sha1": "c401f4adc534220090d0482ae854b42e4a3230ef",
+      "size": 20,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/midnightthoughts/dreams/it_it/lore.json",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/midnightthoughts/dreams/it_it/lore.json",
+      "sha1": "c401f4adc534220090d0482ae854b42e4a3230ef",
+      "size": 20,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/midnightthoughts/dreams/it_it/nightmares.json",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/midnightthoughts/dreams/it_it/nightmares.json",
+      "sha1": "c401f4adc534220090d0482ae854b42e4a3230ef",
+      "size": 20,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/midnightthoughts/dreams/it_it/special.json",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/midnightthoughts/dreams/it_it/special.json",
+      "sha1": "c401f4adc534220090d0482ae854b42e4a3230ef",
+      "size": 20,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/midnightthoughts/dreams/it_it/surreal.json",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/midnightthoughts/dreams/it_it/surreal.json",
+      "sha1": "c401f4adc534220090d0482ae854b42e4a3230ef",
+      "size": 20,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/midnightthoughts/dreams/ja_jp/facts.json",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/midnightthoughts/dreams/ja_jp/facts.json",
+      "sha1": "c401f4adc534220090d0482ae854b42e4a3230ef",
+      "size": 20,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/midnightthoughts/dreams/ja_jp/lore.json",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/midnightthoughts/dreams/ja_jp/lore.json",
+      "sha1": "c401f4adc534220090d0482ae854b42e4a3230ef",
+      "size": 20,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/midnightthoughts/dreams/ja_jp/nightmares.json",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/midnightthoughts/dreams/ja_jp/nightmares.json",
+      "sha1": "c401f4adc534220090d0482ae854b42e4a3230ef",
+      "size": 20,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/midnightthoughts/dreams/ja_jp/special.json",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/midnightthoughts/dreams/ja_jp/special.json",
+      "sha1": "c401f4adc534220090d0482ae854b42e4a3230ef",
+      "size": 20,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/midnightthoughts/dreams/ja_jp/surreal.json",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/midnightthoughts/dreams/ja_jp/surreal.json",
+      "sha1": "c401f4adc534220090d0482ae854b42e4a3230ef",
+      "size": 20,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/midnightthoughts/dreams/ko_kr/facts.json",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/midnightthoughts/dreams/ko_kr/facts.json",
+      "sha1": "c401f4adc534220090d0482ae854b42e4a3230ef",
+      "size": 20,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/midnightthoughts/dreams/ko_kr/lore.json",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/midnightthoughts/dreams/ko_kr/lore.json",
+      "sha1": "c401f4adc534220090d0482ae854b42e4a3230ef",
+      "size": 20,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/midnightthoughts/dreams/ko_kr/nightmares.json",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/midnightthoughts/dreams/ko_kr/nightmares.json",
+      "sha1": "c401f4adc534220090d0482ae854b42e4a3230ef",
+      "size": 20,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/midnightthoughts/dreams/ko_kr/special.json",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/midnightthoughts/dreams/ko_kr/special.json",
+      "sha1": "c401f4adc534220090d0482ae854b42e4a3230ef",
+      "size": 20,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/midnightthoughts/dreams/ko_kr/surreal.json",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/midnightthoughts/dreams/ko_kr/surreal.json",
+      "sha1": "c401f4adc534220090d0482ae854b42e4a3230ef",
+      "size": 20,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/midnightthoughts/dreams/pl_pl/facts.json",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/midnightthoughts/dreams/pl_pl/facts.json",
+      "sha1": "c401f4adc534220090d0482ae854b42e4a3230ef",
+      "size": 20,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/midnightthoughts/dreams/pl_pl/lore.json",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/midnightthoughts/dreams/pl_pl/lore.json",
+      "sha1": "c401f4adc534220090d0482ae854b42e4a3230ef",
+      "size": 20,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/midnightthoughts/dreams/pl_pl/nightmares.json",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/midnightthoughts/dreams/pl_pl/nightmares.json",
+      "sha1": "c401f4adc534220090d0482ae854b42e4a3230ef",
+      "size": 20,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/midnightthoughts/dreams/pl_pl/special.json",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/midnightthoughts/dreams/pl_pl/special.json",
+      "sha1": "c401f4adc534220090d0482ae854b42e4a3230ef",
+      "size": 20,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/midnightthoughts/dreams/pl_pl/surreal.json",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/midnightthoughts/dreams/pl_pl/surreal.json",
+      "sha1": "c401f4adc534220090d0482ae854b42e4a3230ef",
+      "size": 20,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/midnightthoughts/dreams/pt_br/facts.json",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/midnightthoughts/dreams/pt_br/facts.json",
+      "sha1": "c401f4adc534220090d0482ae854b42e4a3230ef",
+      "size": 20,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/midnightthoughts/dreams/pt_br/lore.json",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/midnightthoughts/dreams/pt_br/lore.json",
+      "sha1": "c401f4adc534220090d0482ae854b42e4a3230ef",
+      "size": 20,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/midnightthoughts/dreams/pt_br/nightmares.json",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/midnightthoughts/dreams/pt_br/nightmares.json",
+      "sha1": "c401f4adc534220090d0482ae854b42e4a3230ef",
+      "size": 20,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/midnightthoughts/dreams/pt_br/special.json",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/midnightthoughts/dreams/pt_br/special.json",
+      "sha1": "c401f4adc534220090d0482ae854b42e4a3230ef",
+      "size": 20,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/midnightthoughts/dreams/pt_br/surreal.json",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/midnightthoughts/dreams/pt_br/surreal.json",
+      "sha1": "c401f4adc534220090d0482ae854b42e4a3230ef",
+      "size": 20,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/midnightthoughts/dreams/ru_ru/facts.json",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/midnightthoughts/dreams/ru_ru/facts.json",
+      "sha1": "c401f4adc534220090d0482ae854b42e4a3230ef",
+      "size": 20,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/midnightthoughts/dreams/ru_ru/lore.json",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/midnightthoughts/dreams/ru_ru/lore.json",
+      "sha1": "c401f4adc534220090d0482ae854b42e4a3230ef",
+      "size": 20,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/midnightthoughts/dreams/ru_ru/nightmares.json",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/midnightthoughts/dreams/ru_ru/nightmares.json",
+      "sha1": "c401f4adc534220090d0482ae854b42e4a3230ef",
+      "size": 20,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/midnightthoughts/dreams/ru_ru/special.json",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/midnightthoughts/dreams/ru_ru/special.json",
+      "sha1": "c401f4adc534220090d0482ae854b42e4a3230ef",
+      "size": 20,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/midnightthoughts/dreams/ru_ru/surreal.json",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/midnightthoughts/dreams/ru_ru/surreal.json",
+      "sha1": "c401f4adc534220090d0482ae854b42e4a3230ef",
+      "size": 20,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/midnightthoughts/dreams/tr_tr/facts.json",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/midnightthoughts/dreams/tr_tr/facts.json",
+      "sha1": "c401f4adc534220090d0482ae854b42e4a3230ef",
+      "size": 20,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/midnightthoughts/dreams/tr_tr/lore.json",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/midnightthoughts/dreams/tr_tr/lore.json",
+      "sha1": "c401f4adc534220090d0482ae854b42e4a3230ef",
+      "size": 20,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/midnightthoughts/dreams/tr_tr/nightmares.json",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/midnightthoughts/dreams/tr_tr/nightmares.json",
+      "sha1": "c401f4adc534220090d0482ae854b42e4a3230ef",
+      "size": 20,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/midnightthoughts/dreams/tr_tr/special.json",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/midnightthoughts/dreams/tr_tr/special.json",
+      "sha1": "c401f4adc534220090d0482ae854b42e4a3230ef",
+      "size": 20,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/midnightthoughts/dreams/tr_tr/surreal.json",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/midnightthoughts/dreams/tr_tr/surreal.json",
+      "sha1": "c401f4adc534220090d0482ae854b42e4a3230ef",
+      "size": 20,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/midnightthoughts/dreams/uk_ua/facts.json",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/midnightthoughts/dreams/uk_ua/facts.json",
+      "sha1": "c401f4adc534220090d0482ae854b42e4a3230ef",
+      "size": 20,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/midnightthoughts/dreams/uk_ua/lore.json",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/midnightthoughts/dreams/uk_ua/lore.json",
+      "sha1": "c401f4adc534220090d0482ae854b42e4a3230ef",
+      "size": 20,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/midnightthoughts/dreams/uk_ua/nightmares.json",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/midnightthoughts/dreams/uk_ua/nightmares.json",
+      "sha1": "c401f4adc534220090d0482ae854b42e4a3230ef",
+      "size": 20,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/midnightthoughts/dreams/uk_ua/special.json",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/midnightthoughts/dreams/uk_ua/special.json",
+      "sha1": "c401f4adc534220090d0482ae854b42e4a3230ef",
+      "size": 20,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/midnightthoughts/dreams/uk_ua/surreal.json",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/midnightthoughts/dreams/uk_ua/surreal.json",
+      "sha1": "c401f4adc534220090d0482ae854b42e4a3230ef",
+      "size": 20,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/midnightthoughts/dreams/zh_cn/facts.json",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/midnightthoughts/dreams/zh_cn/facts.json",
+      "sha1": "c401f4adc534220090d0482ae854b42e4a3230ef",
+      "size": 20,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/midnightthoughts/dreams/zh_cn/lore.json",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/midnightthoughts/dreams/zh_cn/lore.json",
+      "sha1": "c401f4adc534220090d0482ae854b42e4a3230ef",
+      "size": 20,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/midnightthoughts/dreams/zh_cn/nightmares.json",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/midnightthoughts/dreams/zh_cn/nightmares.json",
+      "sha1": "c401f4adc534220090d0482ae854b42e4a3230ef",
+      "size": 20,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/midnightthoughts/dreams/zh_cn/special.json",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/midnightthoughts/dreams/zh_cn/special.json",
+      "sha1": "c401f4adc534220090d0482ae854b42e4a3230ef",
+      "size": 20,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/midnightthoughts/dreams/zh_cn/surreal.json",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/midnightthoughts/dreams/zh_cn/surreal.json",
+      "sha1": "c401f4adc534220090d0482ae854b42e4a3230ef",
+      "size": 20,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/midnightthoughts/midnightthoughts.json",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/midnightthoughts/midnightthoughts.json",
+      "sha1": "a6c502db16d0e5161f102cc04944514f3f604161",
+      "size": 7363,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/minecolonies-client.toml",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/minecolonies-client.toml",
+      "sha1": "5baf99019446b62b1e3a34df80c1263f92d641e3",
+      "size": 1271,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/minecolonies-common.toml",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/minecolonies-common.toml",
+      "sha1": "b336e637246c2d8b838658fb9024b7681ec2685f",
+      "size": 385,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/minecolonies-server.toml",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/minecolonies-server.toml",
+      "sha1": "eda22e1149e90b6d56f56614f0e9767766453f97",
+      "size": 9063,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/modernfix-common.toml",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/modernfix-common.toml",
+      "sha1": "84439141a9dbc2f96212967ea8437d420d8d9c8e",
+      "size": 105,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/modernfix-mixins.properties",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/modernfix-mixins.properties",
+      "sha1": "363b263796d22b72e97e89072413e529bcd692ee",
+      "size": 5491,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/moonlight-client.toml",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/moonlight-client.toml",
+      "sha1": "e88b87fb5f58e4f6b55b5f41abac3dadf1d62860",
+      "size": 2320,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/moonlight-common.toml",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/moonlight-common.toml",
+      "sha1": "1f62002e06c865342690eea17511a19503da3d5d",
+      "size": 960,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/MouseTweaks.cfg",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/MouseTweaks.cfg",
+      "sha1": "651b3e4db2d430dc1da3566b2984b264061a6794",
+      "size": 135,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/naturalist-client.toml",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/naturalist-client.toml",
+      "sha1": "9fbc84afd3ec0a9a3e0d5f9ea23169bdc78784e7",
+      "size": 26,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/naturalist-server.toml",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/naturalist-server.toml",
+      "sha1": "35fb6f0f24df27188b44934405d91428dabd1dd0",
+      "size": 1525,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/neoforge-client.toml",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/neoforge-client.toml",
+      "sha1": "b51515abb0c65a891514baffb4c78d2357ecd1ed",
+      "size": 578,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/neoforge-common.toml",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/neoforge-common.toml",
+      "sha1": "2e904b9a9bf2c03e8dfe4d0b3b43dee9965c062b",
+      "size": 1050,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/neoforge-server.toml",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/neoforge-server.toml",
+      "sha1": "536538f1f29efb49318318113530bd4fd74c235b",
+      "size": 1177,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/notenoughanimations.json",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/notenoughanimations.json",
+      "sha1": "ea4648f60613f7140fc3d47f238c7fb3ff5b95ae",
+      "size": 3357,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/offroad-server.toml",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/offroad-server.toml",
+      "sha1": "ffcf430144dfb7acb9839fdfcc7cc97bc2922365",
+      "size": 1167,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/openpartiesandclaims-server.toml",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/openpartiesandclaims-server.toml",
+      "sha1": "bb5b5449fc29da9c0ab0530a8e87f0b9e75cb6d5",
+      "size": 53002,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/particlerain/config.json",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/particlerain/config.json",
+      "sha1": "1676c71f3041cc4e42cbf5e2b53ea39be4fe5929",
+      "size": 984,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/particular-common.toml",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/particular-common.toml",
+      "sha1": "4e299de6479a3c31a16ad1b420b0da4515441e65",
+      "size": 5955,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/patchouli-client.toml",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/patchouli-client.toml",
+      "sha1": "fca303723bcd692f1d64b76c7cf303afa46fc142",
+      "size": 1089,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/pickupnotifier/pickupnotifier-client.toml",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/pickupnotifier/pickupnotifier-client.toml",
+      "sha1": "9d0ff551f71c58b5fe12068c446e8c85a7b5019c",
+      "size": 3614,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/pickupnotifier/pickupnotifier-server.toml",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/pickupnotifier/pickupnotifier-server.toml",
+      "sha1": "6c39d279d84ac10708e8ef7b85ca32730c9d4228",
+      "size": 505,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/placebo.cfg",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/placebo.cfg",
+      "sha1": "a3d7b80b1073ac5baaccaa5691c3fa8409fa4827",
+      "size": 495,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/ponder-client.toml",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/ponder-client.toml",
+      "sha1": "b502ba9ea972ce81ef602c964b3bc0bbd3401fd8",
+      "size": 635,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/puffish_skills/config.json",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/puffish_skills/config.json",
+      "sha1": "b5b81101a7458b4c026d44b7dbd505105c5c5514",
+      "size": 42,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/reallyfastload.json",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/reallyfastload.json",
+      "sha1": "629102602a55632b9c6edf0d23832301a0a2fb42",
+      "size": 337,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/sable-client.toml",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/sable-client.toml",
+      "sha1": "3e3537c15a39ca1612447f3844d4fe261abf03a3",
+      "size": 946,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/sable-common.toml",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/sable-common.toml",
+      "sha1": "244d4c98d76f7a03afb6d731ae6150427f4c195f",
+      "size": 2243,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/sable-server.toml",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/sable-server.toml",
+      "sha1": "3e88b91b286a6b3903027b1b69440987df2e46f9",
+      "size": 328,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/sereneseasons/fertility.toml",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/sereneseasons/fertility.toml",
+      "sha1": "f200236ef142693565674c774f4de3bf99a8bb2c",
+      "size": 481,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/sereneseasons/seasons.toml",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/sereneseasons/seasons.toml",
+      "sha1": "a5ddae1e202471d7490af835d25fd01a9dbb957d",
+      "size": 13899,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/simulated-client.toml",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/simulated-client.toml",
+      "sha1": "ab18703bfa8de8df6bac639cfbb8892f27350067",
+      "size": 1045,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/simulated-server.toml",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/simulated-server.toml",
+      "sha1": "987252f401c9ed893c7639894bb5c4a4b78f8fe8",
+      "size": 7249,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/smoothplayeranimations.json",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/smoothplayeranimations.json",
+      "sha1": "cad1aef006f4c60305d06089c8038d66b87352bb",
+      "size": 1230,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/sodium-fingerprint.json",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/sodium-fingerprint.json",
+      "sha1": "2db32be1a042ae4ab2003a69bd59e1c94dc6b8f0",
+      "size": 427,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/sodium-mixins.properties",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/sodium-mixins.properties",
+      "sha1": "5455463ee999b945c1cff8ae90f2b705e19fb86c",
+      "size": 258,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/sodium-options.json",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/sodium-options.json",
+      "sha1": "f94c57d0a992e4201e71401c82e2de166bb9bd48",
+      "size": 762,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/sophisticatedbackpacks-common.toml",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/sophisticatedbackpacks-common.toml",
+      "sha1": "faab0a1537b5377ed89cf1a2f6e660116a15891b",
+      "size": 118,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/sophisticatedbackpacks-server.toml",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/sophisticatedbackpacks-server.toml",
+      "sha1": "93a07756f36921e53bd5922373220e908f555a42",
+      "size": 24153,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/sophisticatedcore-client.toml",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/sophisticatedcore-client.toml",
+      "sha1": "27700782a7cd2e3f4a681fcee62fbe28057bca12",
+      "size": 478,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/sophisticatedcore-common.toml",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/sophisticatedcore-common.toml",
+      "sha1": "87285f57f3f0b7adbfb75bb60c94722ea400b48e",
+      "size": 3984,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/sound_physics_remastered/occlusion.properties",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/sound_physics_remastered/occlusion.properties",
+      "sha1": "63e8843f243c38bc7aa44d99ce4f562991890350",
+      "size": 4831,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/sound_physics_remastered/reflectivity.properties",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/sound_physics_remastered/reflectivity.properties",
+      "sha1": "95feb43eb67757038518212b08739cb39bb9763e",
+      "size": 4713,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/sound_physics_remastered/soundphysics.properties",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/sound_physics_remastered/soundphysics.properties",
+      "sha1": "d28f5f62aebcbe96ce0ad333b8cb8298776d20f8",
+      "size": 5104,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/sound_physics_remastered/sound_rates.properties",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/sound_physics_remastered/sound_rates.properties",
+      "sha1": "f1201809903d943889b84b9123a536fe77a8436f",
+      "size": 463207,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/structurize-client.toml",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/structurize-client.toml",
+      "sha1": "c13a686da5d863d5c29b9b61ce4fc4ddaefe9527",
+      "size": 1286,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/structurize-server.toml",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/structurize-server.toml",
+      "sha1": "4cbcda36457a6b6e13bd3a84dd5e301ade7fbd6e",
+      "size": 1982,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/supplementaries-client.toml",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/supplementaries-client.toml",
+      "sha1": "17118754f8c5b157421be7c3fe4b6bdbad00133d",
+      "size": 9113,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/supplementaries-common.toml",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/supplementaries-common.toml",
+      "sha1": "4e231f64c27cbc8cd59bcb2db9babe2b3d37be52",
+      "size": 32792,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/tectonic.json",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/tectonic.json",
+      "sha1": "a49cbe958d4c45c59783b426a5079ad83ed2a206",
+      "size": 4366,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/terralith.json",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/terralith.json",
+      "sha1": "e78e92ea51ed500453dbf8872da461c854e63569",
+      "size": 212,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/tfmg-common.toml",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/tfmg-common.toml",
+      "sha1": "2e33b037e6b66f8c00c9bcb830c0b3841345515d",
+      "size": 3451,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/tfmg-server.toml",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/tfmg-server.toml",
+      "sha1": "2969a6b15435a89dfdfd7beb32307a41ad0fe76a",
+      "size": 1889,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/toughasnails/client.toml",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/toughasnails/client.toml",
+      "sha1": "654fca31fbbc5af974b1a1961cbaf2195a7614d3",
+      "size": 423,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/toughasnails/temperature.toml",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/toughasnails/temperature.toml",
+      "sha1": "67ec5901a3085a0a055dd77de6fad8a1bfe9e955",
+      "size": 2735,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/toughasnails/thirst.toml",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/toughasnails/thirst.toml",
+      "sha1": "420855eb99821465dcd85188a9b38994bb3667ef",
+      "size": 661,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/towns_and_towers/structure_enable_or_disable_new.json5",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/towns_and_towers/structure_enable_or_disable_new.json5",
+      "sha1": "87b5e4771c01d665fc630a781cef62cf0dfbaf82",
+      "size": 3051,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/towns_and_towers/structure_rarity_new.json5",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/towns_and_towers/structure_rarity_new.json5",
+      "sha1": "93d5d84090cccdd1fb787ca27e5b100737158b4d",
+      "size": 1520,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/transition.json",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/transition.json",
+      "sha1": "8b50cd4b9956dc3443acd38e47f80e23ff7712f5",
+      "size": 97,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/trender.json",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/trender.json",
+      "sha1": "1ecd2edb27bfbc69f24e0cd52d3a22f98bdce8f0",
+      "size": 47,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/vanilla_structures/placement_structure_config.json5",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/vanilla_structures/placement_structure_config.json5",
+      "sha1": "2df88f9da1e31229125fc81ee57ce897f54f0cb5",
+      "size": 1938,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/vanilla_structures/toggle_structure_config.json5",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/vanilla_structures/toggle_structure_config.json5",
+      "sha1": "1d3a26ff34edb8091a9deee5124bd4d349d97731",
+      "size": 1584,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/vinery-common.toml",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/vinery-common.toml",
+      "sha1": "6c6b57c17d161fd8ae1b918763dde818b709283c",
+      "size": 6841,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/visualworkbench-client.toml",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/visualworkbench-client.toml",
+      "sha1": "4825cd32a0c5153e74c7e22068dd22d015fdaaab",
+      "size": 459,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/visualworkbench-server.toml",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/visualworkbench-server.toml",
+      "sha1": "ebbc742bb76c36579818d1c3113e7ac816a4a736",
+      "size": 148,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/watut-client.toml",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/watut-client.toml",
+      "sha1": "1239e7eff97a736c9e29fe57d8034b64bb766389",
+      "size": 3444,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/watut-common.toml",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/watut-common.toml",
+      "sha1": "c858cf73b5760b42d42d0fe06981471b4f1debd4",
+      "size": 169,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/watut-item-arm-adjustments.json",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/watut-item-arm-adjustments.json",
+      "sha1": "2cfa88c57c35df26af1391acb7f2f8eb8abd53ab",
+      "size": 3367,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/watut-server.toml",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/watut-server.toml",
+      "sha1": "676f01f869328fa288c5ed25ac86459aa6249b04",
+      "size": 2945,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/weaponmaster_ydm-common.toml",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/weaponmaster_ydm-common.toml",
+      "sha1": "60d91ce4a841adec05a702c51dc76461cebba587",
+      "size": 9417,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/xaero/lib/client.cfg",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/xaero/lib/client.cfg",
+      "sha1": "45cccfb3eb8a7a784bd4c29539e5558445f90bcf",
+      "size": 26,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/xaero/lib/common.cfg",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/xaero/lib/common.cfg",
+      "sha1": "8ae8d6ea0330bec2c0db28b109a12443708f1e7b",
+      "size": 236,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/xaero/lib/profiles/default.cfg",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/xaero/lib/profiles/default.cfg",
+      "sha1": "253bac0f5181c8db8e488832c46a8d40018650cf",
+      "size": 121,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/xaero/lib/server_profiles/default.cfg",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/xaero/lib/server_profiles/default.cfg",
+      "sha1": "8efdb5a6c4f4f41a36b531d54592321012491fb2",
+      "size": 75,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/xaero/minimap/client.cfg",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/xaero/minimap/client.cfg",
+      "sha1": "a18a4a75d6f033c35ecde56c14306760715a3a19",
+      "size": 235,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/xaero/minimap/common.cfg",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/xaero/minimap/common.cfg",
+      "sha1": "de09f45b29b264432b80d34bb0c336bd552fb9ee",
+      "size": 147,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/xaero/minimap/default_radar_categories_client.json",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/xaero/minimap/default_radar_categories_client.json",
+      "sha1": "e058f3dfac7d6a3441196628f1aa93616721ecce",
+      "size": 5531,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/xaero/minimap/default_radar_categories_server.json",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/xaero/minimap/default_radar_categories_server.json",
+      "sha1": "c247867b018103357eb4015059fe209cc562de51",
+      "size": 4597,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/xaero/minimap/profiles/default.cfg",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/xaero/minimap/profiles/default.cfg",
+      "sha1": "f2f6ac1fbc53ce3a08e002735fefd93bed2db8ab",
+      "size": 3825,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/xaero/minimap/profiles/info_display_config/default.cfg.txt",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/xaero/minimap/profiles/info_display_config/default.cfg.txt",
+      "sha1": "2b8d12369471b57bfa6426254b2170bc8e6b3b88",
+      "size": 684,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/xaero/minimap/server_profiles/default.cfg",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/xaero/minimap/server_profiles/default.cfg",
+      "sha1": "8efdb5a6c4f4f41a36b531d54592321012491fb2",
+      "size": 75,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/xaero/world-map/client.cfg",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/xaero/world-map/client.cfg",
+      "sha1": "27b70648a1bccd0561ae94c0a1a978f283893dea",
+      "size": 521,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/xaero/world-map/common.cfg",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/xaero/world-map/common.cfg",
+      "sha1": "c3c64f24c8d33940264147473e4a1c8ba5c219ff",
+      "size": 141,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/xaero/world-map/profiles/default.cfg",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/xaero/world-map/profiles/default.cfg",
+      "sha1": "2f1680b1a14bf8cc756c5911c9b9f90e119a365e",
+      "size": 1619,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/xaero/world-map/server_profiles/default.cfg",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/xaero/world-map/server_profiles/default.cfg",
+      "sha1": "8efdb5a6c4f4f41a36b531d54592321012491fb2",
+      "size": 75,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/xaerohud.txt",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/xaerohud.txt",
+      "sha1": "9b2b47ea69e26908152d7ed1c6f90222745dced0",
+      "size": 123,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/xaeropatreon.txt",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/xaeropatreon.txt",
+      "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+      "size": 0,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "options.txt",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/options.txt",
+      "sha1": "2ef771d8b30573f35ef7ccf25a19ff6c57ad9d4f",
+      "size": 12613,
+      "onlyIfMissing": true
+    }
+  ]
+}

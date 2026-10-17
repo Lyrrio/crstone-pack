@@ -1,0 +1,13 @@
+{
+  "skipSpawnPregen": true,
+  "skipPlayerSpawnWait": true,
+  "instantLoad": true,
+  "preRender": false,
+  "parallelIo": true,
+  "autoDisableParallelIoWithC2ME": true,
+  "decompressedChunkCache": true,
+  "speculativeNeighborLoad": false,
+  "skipCurrentDataVersionUpgrade": true,
+  "streamChunkStatusReads": true,
+  "stallTickLimit": 60
+}

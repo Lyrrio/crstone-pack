@@ -1,12 +1,17 @@
 {
   "name": "Cr. Stone",
-  "version": "0.12.3",
+  "version": "0.12.4",
   "minecraft": "1.21.1",
   "neoforge": "21.1.262",
   "managed": [
     "mods"
   ],
   "news": [
+    {
+      "date": "Cr. Stone 0.12.4",
+      "title": "Se soigner dans le monde de pierre",
+      "body": "La faim suffit pour régénérer les cœurs, même avec une soif basse. Trois gorgées effectivement contaminées en cinq minutes déclenchent une infection hydrique de dix minutes : fatigue, nausées et perte de soif. Fabrique une préparation avec eau purifiée, pissenlit, sucre et bol, puis cuis-la sur un feu de camp ou au four pour obtenir une décoction de soins."
+    },
     {
       "date": "Cr. Stone 0.12.3",
       "title": "La nature a repris ses droits",
@@ -235,10 +240,10 @@
       "size": 583525
     },
     {
-      "path": "mods/crstone-0.12.3.jar",
-      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/mods/crstone-0.12.3.jar",
-      "sha1": "41c38af009b2ba0be501fa225fc3881742382989",
-      "size": 923170
+      "path": "mods/crstone-0.12.4.jar",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/mods/crstone-0.12.4.jar",
+      "sha1": "91aeff3efa800097b98f34435f031f923efd555d",
+      "size": 929663
     },
     {
       "path": "mods/cupboard-1.21.1-4.2.jar",
@@ -869,6 +874,12 @@
       "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/kubejs/server_scripts/crstone_recettes.js",
       "sha1": "ce7eb65399156c137c7c68e1a7cdb0095b60c5e5",
       "size": 3954
+    },
+    {
+      "path": "kubejs/server_scripts/crstone_water_care.js",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/kubejs/server_scripts/crstone_water_care.js",
+      "sha1": "f615e6e93d277a0f38cd0702077d670c5d517728",
+      "size": 567
     },
     {
       "path": "kubejs/startup_scripts/main.js",

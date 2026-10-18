@@ -1,12 +1,17 @@
 {
   "name": "Cr. Stone",
-  "version": "0.12.2",
+  "version": "0.12.3",
   "minecraft": "1.21.1",
   "neoforge": "21.1.262",
   "managed": [
     "mods"
   ],
   "news": [
+    {
+      "date": "Cr. Stone 0.12.3",
+      "title": "La nature a repris ses droits",
+      "body": "Les animaux terrestres peuvent apparaître dans tous les biomes de surface : les anciens zoos ont laissé leurs pensionnaires s’échapper. Boire aux sources est trois fois plus rapide et moins risqué : 5 % en rivière, 8 % pour les autres eaux douces et 15 % dans les marais. Le sucre se mange, même à faim pleine, et rend 25 % d’endurance."
+    },
     {
       "date": "Cr. Stone 0.12.2",
       "title": "Boire aux sources, statues de pierre",
@@ -230,10 +235,10 @@
       "size": 583525
     },
     {
-      "path": "mods/crstone-0.12.2.jar",
-      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/mods/crstone-0.12.2.jar",
-      "sha1": "84f00f5ac9f6d9a78ab58d6b33de5613b9ca090c",
-      "size": 914979
+      "path": "mods/crstone-0.12.3.jar",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/mods/crstone-0.12.3.jar",
+      "sha1": "41c38af009b2ba0be501fa225fc3881742382989",
+      "size": 923170
     },
     {
       "path": "mods/cupboard-1.21.1-4.2.jar",

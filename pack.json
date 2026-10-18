@@ -8,6 +8,11 @@
   ],
   "news": [
     {
+      "date": "18 octobre 2026",
+      "title": "Marques de résurrection en F5",
+      "body": "Les marques de résurrection restent désormais visibles sur ton personnage en vue à la troisième personne (F5)."
+    },
+    {
       "date": "Cr. Stone 0.11",
       "title": "La Grotte des Miracles",
       "body": "Comme Senku, recueille l'acide nitrique qui goutte des stalactites de la Grotte des Miracles, dans une jarre en terre cuite façonnée à la main et cuite au feu. Une grotte se trouve près du point d'apparition, d'autres plus loin."
@@ -217,8 +222,8 @@
     {
       "path": "mods/crstone-0.11.0.jar",
       "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/mods/crstone-0.11.0.jar",
-      "sha1": "99a5894818b3c2afd6750bf3074e53dd971d2d21",
-      "size": 842151
+      "sha1": "78a955713d457a934af6ba380e80ae3f8ec2b9d0",
+      "size": 842199
     },
     {
       "path": "mods/cupboard-1.21.1-4.2.jar",

@@ -1,12 +1,17 @@
 {
   "name": "Cr. Stone",
-  "version": "0.11.0",
+  "version": "0.12.0",
   "minecraft": "1.21.1",
   "neoforge": "21.1.262",
   "managed": [
     "mods"
   ],
   "news": [
+    {
+      "date": "Cr. Stone 0.12",
+      "title": "Des arbres qui tombent vraiment",
+      "body": "Abats un arbre à la hache, coup après coup : le tronc s'amincit puis l'arbre bascule et s'écrase au sol. Laisse la souche, il repoussera en trois jours. G ramasse le tronc tombé, Maj + G le hisse sur ton épaule pour le porter, le poser ou le lancer. Gare à ton endurance !"
+    },
     {
       "date": "18 octobre 2026",
       "title": "Marques de résurrection en F5",
@@ -220,10 +225,10 @@
       "size": 583525
     },
     {
-      "path": "mods/crstone-0.11.0.jar",
-      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/mods/crstone-0.11.0.jar",
-      "sha1": "78a955713d457a934af6ba380e80ae3f8ec2b9d0",
-      "size": 842199
+      "path": "mods/crstone-0.12.0.jar",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/mods/crstone-0.12.0.jar",
+      "sha1": "170c9a50a6d7517fcafbca36b2295482c9755e46",
+      "size": 904520
     },
     {
       "path": "mods/cupboard-1.21.1-4.2.jar",
@@ -290,12 +295,6 @@
       "url": "https://edge.forgecdn.net/files/9188/408/entity_texture_features-7.2.6-1.21-neoforge.jar",
       "sha1": "1a77ddb156daa4125c205424f05f0fa861517d9c",
       "size": 807089
-    },
-    {
-      "path": "mods/FallingTree-1.21.1-1.21.1.11.jar",
-      "url": "https://edge.forgecdn.net/files/6835/168/FallingTree-1.21.1-1.21.1.11.jar",
-      "sha1": "626e7ec3a979dcc15d8e65c53207572c41c1b255",
-      "size": 496356
     },
     {
       "path": "mods/fancymenu_neoforge_3.9.14_MC_1.21.1.jar",
@@ -706,6 +705,12 @@
       "size": 52301863
     },
     {
+      "path": "mods/TreeChop-1.21.1-neoforge-0.19.3.jar",
+      "url": "https://edge.forgecdn.net/files/6254/465/TreeChop-1.21.1-neoforge-0.19.3.jar",
+      "sha1": "7bf7c1bde0f574e3fb9077115a2d4f59e534486c",
+      "size": 517750
+    },
+    {
       "path": "mods/t_and_t-fabric-neoforge-1.13.11.jar",
       "url": "https://edge.forgecdn.net/files/8657/120/t_and_t-fabric-neoforge-1.13.11.jar",
       "sha1": "8f00e36a11568c0b66bbdf5c0e9ee492e511b303",
@@ -852,7 +857,7 @@
     {
       "path": "kubejs/server_scripts/crstone_recettes.js",
       "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/kubejs/server_scripts/crstone_recettes.js",
-      "sha1": "0822d955e37df1c55c4e3f21c44e57727f25851c",
+      "sha1": "ce7eb65399156c137c7c68e1a7cdb0095b60c5e5",
       "size": 3954
     },
     {
@@ -2040,7 +2045,7 @@
     {
       "path": "config/drippyloadingscreen/early_window_reference.properties",
       "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/drippyloadingscreen/early_window_reference.properties",
-      "sha1": "46bd82c06ba9d67c2fada3b225d330f89a3bab0e",
+      "sha1": "53ead52ea6984303702d8c406bc41635bedf3cb3",
       "size": 134,
       "onlyIfMissing": true
     },
@@ -2084,13 +2089,6 @@
       "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/etf_warnings.json",
       "sha1": "1573fc320a363b30a1a5e4cae1d4596ec177085d",
       "size": 28,
-      "onlyIfMissing": true
-    },
-    {
-      "path": "config/fallingtree.json",
-      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/fallingtree.json",
-      "sha1": "ad7ae00cdf2cf5930fbeb9ed20f4bdab001c80f3",
-      "size": 1314,
       "onlyIfMissing": true
     },
     {
@@ -2319,7 +2317,7 @@
     {
       "path": "config/iris.properties",
       "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/iris.properties",
-      "sha1": "eb1ae0a635e3e599c0d144b592cc5258b0e49e54",
+      "sha1": "568c6a6c336022cbc9482f784f91553658368b84",
       "size": 282,
       "onlyIfMissing": true
     },
@@ -3110,7 +3108,7 @@
     {
       "path": "config/sereneseasons/seasons.toml",
       "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/sereneseasons/seasons.toml",
-      "sha1": "a5ddae1e202471d7490af835d25fd01a9dbb957d",
+      "sha1": "3773d248fda70d40e7ba542ef5127635701095d5",
       "size": 13899,
       "onlyIfMissing": true
     },
@@ -3488,8 +3486,8 @@
     {
       "path": "config/xaerohud.txt",
       "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/xaerohud.txt",
-      "sha1": "517916c1f2e0a8b75735859edb7d692bba2c079e",
-      "size": 121
+      "sha1": "8ac60b0520871a204bd0bcd6da40cc95cf8fa7df",
+      "size": 122
     },
     {
       "path": "config/xaeropatreon.txt",

@@ -27,10 +27,10 @@ ServerEvents.recipes(event => {
 
   // Outils en bois et en pierre : le manche est lié par une corde
   const TOOLS = [
-    ['pickaxe', ['MMM', ' S ', ' R ']],
-    ['axe', ['MM', 'MS', ' R']],
-    ['shovel', ['M', 'S', 'R']],
-    ['hoe', ['MM', ' S', ' R']],
+    ['pickaxe', ['MMM', ' R ', ' S ']],
+    ['axe', ['MM', 'MR', ' S']],
+    ['shovel', ['M', 'R', 'S']],
+    ['hoe', ['MM', ' R', ' S']],
     ['sword', ['M ', 'M ', 'SR']]
   ]
   const MATERIALS = [['wooden', '#minecraft:planks'], ['stone', '#minecraft:stone_tool_materials']]

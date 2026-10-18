@@ -1,12 +1,17 @@
 {
   "name": "Cr. Stone",
-  "version": "0.12.0",
+  "version": "0.12.2",
   "minecraft": "1.21.1",
   "neoforge": "21.1.262",
   "managed": [
     "mods"
   ],
   "news": [
+    {
+      "date": "Cr. Stone 0.12.2",
+      "title": "Boire aux sources, statues de pierre",
+      "body": "Accroupi, main vide, clic droit sur une source d'eau pour boire comme les villageois d'Ishigami. Méfie-toi : l'eau des rivières et des marais peut rendre malade, et l'eau de mer assoiffe. Les créatures pétrifiées restent enfin parfaitement immobiles, même avec Fresh Animations."
+    },
     {
       "date": "Cr. Stone 0.12",
       "title": "Des arbres qui tombent vraiment",
@@ -225,10 +230,10 @@
       "size": 583525
     },
     {
-      "path": "mods/crstone-0.12.0.jar",
-      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/mods/crstone-0.12.0.jar",
-      "sha1": "170c9a50a6d7517fcafbca36b2295482c9755e46",
-      "size": 904520
+      "path": "mods/crstone-0.12.2.jar",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/mods/crstone-0.12.2.jar",
+      "sha1": "84f00f5ac9f6d9a78ab58d6b33de5613b9ca090c",
+      "size": 914979
     },
     {
       "path": "mods/cupboard-1.21.1-4.2.jar",

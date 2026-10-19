@@ -1,0 +1,162 @@
+#Global weather engine (pressure / temperature / humidity per biome)
+[weather]
+	#Enable the weather engine (storm systems, supercells, tornado touchdowns).
+	enableWeatherEngine = false
+	#Let the engine drive vanilla rain/thunder: it rains only while a storm system is near a player.
+	controlVanillaWeather = false
+	#Multiplier for how often earthquakes, tsunamis and sandstorms happen naturally.
+	# Default: 1.0
+	# Range: 0.0 ~ 10.0
+	disasterFrequency = 0.25
+	#Multiplier for how often new storm systems form.
+	# Default: 1.0
+	# Range: 0.0 ~ 20.0
+	stormFrequency = 0.0
+	#Maximum storm systems within 900 blocks of a single player.
+	# Default: 4
+	# Range: 0 ~ 16
+	maxStormsPerPlayer = 0
+	#Thunderstorms strike real lightning bolts inside the storm cell.
+	stormLightning = false
+	#Multiplier for how fast storms evolve through their stages.
+	# Default: 1.0
+	# Range: 0.1 ~ 10.0
+	stormGrowthSpeed = 1.0
+	#Send wall cloud / tornado warning messages to nearby players.
+	stormAlerts = true
+	#Hemisphere for NEW worlds when it isn't picked on the Create World screen (dedicated servers).
+	#Southern hemisphere: tornadoes and mesocyclones rotate clockwise, and El Niño / La Niña have the opposite effects.
+	#Allowed Values: NORTH, SOUTH
+	defaultHemisphere = "NORTH"
+
+#El Niño / La Niña (ENSO) cycle
+[enso]
+	#Enable the El Niño / La Niña cycle.
+	enableEnso = false
+	#Length of a Minecraft 'month' in Minecraft days (1 day = 20 real minutes).
+	# Default: 30
+	# Range: 1 ~ 365
+	monthLengthDays = 30
+	#Shortest El Niño / La Niña episode, in months.
+	# Default: 4
+	# Range: 1 ~ 60
+	episodeMinMonths = 4
+	#Longest El Niño / La Niña episode, in months.
+	# Default: 9
+	# Range: 1 ~ 60
+	episodeMaxMonths = 9
+	#Shortest neutral period between episodes, in months.
+	# Default: 3
+	# Range: 1 ~ 60
+	neutralMinMonths = 3
+	#Longest neutral period between episodes, in months.
+	# Default: 8
+	# Range: 1 ~ 60
+	neutralMaxMonths = 8
+
+#Tornadoes
+[tornado]
+	#Maximum simultaneous tornadoes per dimension spawned by storms.
+	# Default: 3
+	# Range: 0 ~ 32
+	maxActiveTornadoes = 0
+	#Tornadoes destroy and lift blocks.
+	blockDamage = false
+	#Multiplier for block destruction attempts per tick.
+	# Default: 1.0
+	# Range: 0.0 ~ 10.0
+	destructionRate = 0.0
+	#Tornadoes lift broken blocks into the air as physical falling blocks. Turning this off is much
+	#lighter for the server and for weak clients: blocks are simply broken instead.
+	liftBlocks = false
+	#Highest Fujita category a natural tornado can reach.
+	# Default: 5
+	# Range: 1 ~ 5
+	maxIntensity = 5
+	#Disable tornado block damage when the mobGriefing gamerule is false.
+	respectMobGriefing = false
+	#Maximum blocks a single tornado keeps suspended in the air. When exceeded the oldest debris is removed.
+	# Default: 150
+	# Range: 0 ~ 2000
+	maxSuspendedBlocks = 150
+	#Maximum blocks a single tornado lifts per tick. Each lifted block is an entity sent to every
+	#nearby player, so this keeps big tornadoes from flooding the network. Extra blocks are just broken.
+	# Default: 3
+	# Range: 0 ~ 64
+	maxLiftPerTick = 3
+	#true: evicted debris drops on the ground as an item. false: evicted debris is deleted.
+	excessDebrisDropsItems = true
+	#Lifted blocks that cannot be placed when landing drop as items.
+	debrisDropsItems = true
+	#Tornadoes pull survival-mode players.
+	affectPlayers = true
+	#Multiplier for tornado ground speed.
+	# Default: 1.0
+	# Range: 0.0 ~ 10.0
+	tornadoSpeed = 1.0
+	#Multiplier for tornado lifetime.
+	# Default: 1.0
+	# Range: 0.1 ~ 10.0
+	tornadoLifetime = 1.0
+	#Firenadoes set blocks on fire.
+	firenadoPlacesFire = false
+
+#Dynamic flooding
+[flood]
+	#Severe storms make rivers and oceans overflow. Flood blocks are temporary and removed when the flood drains.
+	enableFlooding = false
+	#How many blocks storm floods rise above the water level (rounded down to a multiple of 3).
+	# Default: 6
+	# Range: 3 ~ 30
+	maxFloodHeight = 6
+	#Flood tiles (3x3 units) updated per tick, shared by all floods. Higher = faster rising, more server load.
+	# Default: 240
+	# Range: 16 ~ 5000
+	floodTilesPerTick = 240
+
+#Earthquakes
+[earthquake]
+	enableEarthquakes = true
+	#Chance, checked every 10 seconds per player, of a natural earthquake (default: about one every 40 minutes).
+	#Small quakes are common and strong ones rare.
+	# Default: 0.004
+	# Range: 0.0 ~ 1.0
+	naturalEarthquakeChance = 0.004
+	#Radius in blocks where players feel the camera shake.
+	# Default: 150
+	# Range: 16 ~ 1024
+	shakeRadius = 192
+	#Earthquakes tear fissures in the ground.
+	fissures = false
+	#Earthquakes collapse cave ceilings.
+	caveCollapses = false
+	#Strong earthquakes near the ocean, and undersea earthquakes, send tsunamis towards the coast.
+	tsunamis = true
+	#Chance, checked every 10 seconds per player near an ocean, of an undersea earthquake that
+	#sends a tsunami (default: about one every 2 hours spent near the sea).
+	# Default: 0.0014
+	# Range: 0.0 ~ 1.0
+	naturalTsunamiChance = 0.0014
+
+#Sandstorms
+[sandstorm]
+	enableSandstorms = false
+	#Sand layer placement attempts per tick around each player caught in a sandstorm. 0 disables burying.
+	# Default: 3
+	# Range: 0 ~ 64
+	sandLayerRate = 0
+	#Chance, checked every 10 seconds per player standing in a desert, of a sandstorm (default: about one every 14 minutes).
+	# Default: 0.012
+	# Range: 0.0 ~ 1.0
+	naturalSandstormChance = 0.012
+
+#Warning systems
+[warning]
+	#Tornado siren detection radius in blocks.
+	# Default: 200
+	# Range: 16 ~ 1024
+	sirenRadius = 200
+	#Minimum Fujita category that triggers the siren.
+	# Default: 2
+	# Range: 1 ~ 5
+	sirenMinCategory = 2

@@ -1,12 +1,17 @@
 {
   "name": "Cr. Stone",
-  "version": "0.12.9",
+  "version": "0.12.10",
   "minecraft": "1.21.1",
   "neoforge": "21.1.262",
   "managed": [
     "mods"
   ],
   "news": [
+    {
+      "date": "Cr. Stone 0.12.10",
+      "title": "Une mer qui se fait sentir",
+      "body": "La houle est plus marquée à la nage et en bateau. Les nageurs suivent les vagues et les déferlements du rivage, sans traction artificielle vers le point de départ ; plonger reste possible. Des séismes et tsunamis rares peuvent survenir : gagne les hauteurs ! Les constructions, le terrain et la végétation sont protégés des dégâts permanents de ces catastrophes. Une erreur de synchronisation des barques est aussi corrigée."
+    },
     {
       "date": "Cr. Stone 0.12.9",
       "title": "Le Japon, point de départ du monde de pierre",
@@ -265,10 +270,10 @@
       "size": 583525
     },
     {
-      "path": "mods/crstone-0.12.9.jar",
-      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/mods/crstone-0.12.9.jar",
-      "sha1": "c4857e05f753389e76d0520eb3c710e04351ba02",
-      "size": 15814086
+      "path": "mods/crstone-0.12.10.jar",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/mods/crstone-0.12.10.jar",
+      "sha1": "fd66686789a058f692b9c13df6e9a9492e078ce7",
+      "size": 15821876
     },
     {
       "path": "mods/cupboard-1.21.1-4.2.jar",
@@ -575,6 +580,12 @@
       "url": "https://edge.forgecdn.net/files/7097/877/multipiston-1.2.58-1.21.1.jar",
       "sha1": "2b63be739da24247328e4052ec91c928230d0390",
       "size": 34139
+    },
+    {
+      "path": "mods/naturaldisasters-1.2.0.jar",
+      "url": "https://edge.forgecdn.net/files/9234/192/naturaldisasters-1.2.0.jar",
+      "sha1": "d85a9f7498333ca87ea766ea2ad3428f8c2bfb82",
+      "size": 322987
     },
     {
       "path": "mods/naturalist-2.0.5-neoforge-1.21.1.jar",
@@ -3144,6 +3155,19 @@
       "onlyIfMissing": true
     },
     {
+      "path": "config/naturaldisasters-client.toml",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/naturaldisasters-client.toml",
+      "sha1": "24680ee29ddcf9205d01b16597a3c8864f44f739",
+      "size": 1717,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/naturaldisasters-common.toml",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/naturaldisasters-common.toml",
+      "sha1": "d2fb8e00f3b2d0eb0bb318db8892639f505f68e2",
+      "size": 5697
+    },
+    {
       "path": "config/naturalist-client.toml",
       "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/naturalist-client.toml",
       "sha1": "9fbc84afd3ec0a9a3e0d5f9ea23169bdc78784e7",
@@ -3282,6 +3306,12 @@
       "sha1": "3e88b91b286a6b3903027b1b69440987df2e46f9",
       "size": 328,
       "onlyIfMissing": true
+    },
+    {
+      "path": "config/sablewaves.json",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/sablewaves.json",
+      "sha1": "794dba4696b8191a117d6354d6cfaa6f4893d748",
+      "size": 3834
     },
     {
       "path": "config/sereneseasons/fertility.toml",

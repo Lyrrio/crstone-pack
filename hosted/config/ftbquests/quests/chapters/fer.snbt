@@ -1,0 +1,132 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "fer"
+	group: ""
+	icon: { id: "minecraft:iron_ingot" }
+	id: "241234FF31AEDFE7"
+	order_index: 5
+	quest_links: [ ]
+	quests: [
+		{
+			icon: { id: "minecraft:raw_iron" }
+			id: "283A0E80DA928F96"
+			rewards: [{ id: "154B3B89DFFBA5CB", type: "xp", xp: 20 }]
+			size: 1.25d
+			tasks: [{ id: "74BCB274727021C0", item: { count: 1, id: "minecraft:raw_iron" }, type: "item", count: 8L }]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["283A0E80DA928F96"]
+			icon: { id: "minecraft:iron_ingot" }
+			id: "1DBB7FC72DBE8D7A"
+			rewards: [{ id: "477CAD87E0AEF7E1", type: "xp", xp: 25 }, { command: "/crstone archetype xp {p} 20", id: "1A06DF7C3B390FCD", permission_level: 2, silent: true, type: "command" }]
+			size: 1.0d
+			tasks: [{ id: "2324CCEBAD6A79E2", item: { count: 1, id: "minecraft:iron_ingot" }, type: "item", count: 8L }]
+			x: 2.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["1DBB7FC72DBE8D7A"]
+			icon: { id: "minecraft:iron_sword" }
+			id: "403DE0182C0B7AC3"
+			rewards: [{ id: "2FEEC09E05310FDE", type: "xp", xp: 15 }]
+			size: 1.0d
+			tasks: [{ id: "25504B409A5B0A8E", item: { count: 1, id: "minecraft:iron_sword" }, type: "item" }]
+			x: 4.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["283A0E80DA928F96"]
+			icon: { id: "minecraft:glass" }
+			id: "655F7C32B084AEF5"
+			rewards: [{ id: "785FA223EBC45D42", type: "xp", xp: 20 }]
+			size: 1.0d
+			tasks: [{ id: "1BDD60B128F940A4", item: { count: 1, id: "minecraft:glass" }, type: "item", count: 16L }]
+			x: 2.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["655F7C32B084AEF5"]
+			icon: { id: "tfmg:sulfur" }
+			id: "655997D63D59C526"
+			rewards: [{ id: "147AB5EE06AA40DA", type: "xp", xp: 20 }]
+			size: 1.0d
+			tasks: [{ id: "6C46030DC232DB44", item: { count: 1, id: "tfmg:sulfur" }, type: "item", count: 4L }]
+			x: 4.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["655997D63D59C526"]
+			icon: { id: "minecraft:gunpowder" }
+			id: "2E4A306DEB1D4E33"
+			rewards: [{ id: "6EA7D66F1E5602E7", type: "xp", xp: 25 }, { command: "/crstone archetype xp {p} 20", id: "4A86B5610D1D353D", permission_level: 2, silent: true, type: "command" }]
+			size: 1.0d
+			tasks: [{ id: "2A14C46785B1D657", item: { count: 1, id: "minecraft:gunpowder" }, type: "item", count: 4L }]
+			x: 6.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["655997D63D59C526"]
+			icon: { id: "tfmg:sulfuric_acid_bucket" }
+			id: "7EBB503A56491542"
+			rewards: [{ id: "64FC3C380D0CD45A", type: "xp", xp: 40 }, { command: "/crstone archetype xp {p} 30", id: "52A585DDC178F196", permission_level: 2, silent: true, type: "command" }]
+			size: 1.25d
+			tasks: [{ id: "52F89BBAB3673584", item: { count: 1, id: "tfmg:sulfuric_acid_bucket" }, type: "item" }]
+			x: 6.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["1DBB7FC72DBE8D7A"]
+			icon: { id: "create:andesite_alloy" }
+			id: "33391CEBB6F9748A"
+			rewards: [{ id: "7C340F0CDA7227D7", type: "xp", xp: 20 }]
+			size: 1.0d
+			tasks: [{ id: "481359E8583DA066", item: { count: 1, id: "create:andesite_alloy" }, type: "item", count: 8L }]
+			x: 4.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["33391CEBB6F9748A"]
+			icon: { id: "create:water_wheel" }
+			id: "76F29FDAF7E9FDD9"
+			rewards: [{ id: "342A4B49887FCA36", type: "xp", xp: 25 }]
+			size: 1.0d
+			tasks: [{ id: "659744110CAAA072", item: { count: 1, id: "create:water_wheel" }, type: "item" }]
+			x: 6.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["76F29FDAF7E9FDD9"]
+			icon: { id: "create:mechanical_press" }
+			id: "72B0E3A0CBD53B37"
+			rewards: [{ id: "771004CF759E1F50", type: "xp", xp: 30 }, { command: "/crstone archetype xp {p} 25", id: "4D605A7E86CF735F", permission_level: 2, silent: true, type: "command" }]
+			size: 1.0d
+			tasks: [{ id: "51604BD604740383", item: { count: 1, id: "create:mechanical_press" }, type: "item" }]
+			x: 8.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["72B0E3A0CBD53B37"]
+			icon: { id: "tfmg:magnet" }
+			id: "6B5CF509180F4D16"
+			rewards: [{ id: "6BFEF68ABBD1AA9B", type: "xp", xp: 40 }, { command: "/crstone archetype xp {p} 30", id: "72BCDE5FC08A39B1", permission_level: 2, silent: true, type: "command" }]
+			shape: "hexagon"
+			size: 1.25d
+			tasks: [{ id: "2FF8D534FB121EF3", item: { count: 1, id: "tfmg:magnet" }, type: "item" }]
+			x: 10.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["403DE0182C0B7AC3"]
+			icon: { id: "minecraft:iron_sword" }
+			id: "1669A70EAF167287"
+			rewards: [{ id: "39135F93F4E368A5", type: "xp", xp: 40 }, { command: "/crstone archetype xp {p} 80", id: "64C3CC2A3CF0DABF", permission_level: 2, silent: true, type: "command" }]
+			size: 1.0d
+			tasks: [{ id: "1D6EFCA6EA7DB986", stage: "voie_warrior", type: "gamestage" }, { id: "70FFE0612F99FE38", item: { count: 1, id: "minecraft:iron_sword" }, type: "item", count: 3L }]
+			x: 6.0d
+			y: -3.0d
+		}
+	]
+}

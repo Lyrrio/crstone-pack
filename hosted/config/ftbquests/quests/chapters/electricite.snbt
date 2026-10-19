@@ -1,0 +1,113 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "electricite"
+	group: ""
+	icon: { id: "tfmg:light_bulb" }
+	id: "76F072852E0E1245"
+	order_index: 6
+	quest_links: [ ]
+	quests: [
+		{
+			icon: { id: "minecraft:copper_ingot" }
+			id: "551B1C52DD31340D"
+			rewards: [{ id: "159783AF06AE067B", type: "xp", xp: 20 }]
+			size: 1.25d
+			tasks: [{ id: "244EF4142983AC24", item: { count: 1, id: "minecraft:copper_ingot" }, type: "item", count: 16L }]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["551B1C52DD31340D"]
+			icon: { id: "createaddition:copper_wire" }
+			id: "772A50C1206BAADD"
+			rewards: [{ id: "5C3D5077E1CC8529", type: "xp", xp: 20 }]
+			size: 1.0d
+			tasks: [{ id: "1CFFE6CFDAE0A538", item: { count: 1, id: "createaddition:copper_wire" }, type: "item", count: 8L }]
+			x: 2.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["772A50C1206BAADD"]
+			icon: { id: "createaddition:copper_spool" }
+			id: "2F1C38B577953E12"
+			rewards: [{ id: "58A81338EF21C87C", type: "xp", xp: 20 }]
+			size: 1.0d
+			tasks: [{ id: "700B49FB7553FF61", item: { count: 1, id: "createaddition:copper_spool" }, type: "item" }]
+			x: 4.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["772A50C1206BAADD"]
+			icon: { id: "createaddition:alternator" }
+			id: "27EE91C539C2032C"
+			rewards: [{ id: "10623A2874B5DC3D", type: "xp", xp: 40 }, { command: "/crstone archetype xp {p} 30", id: "31F10987C992A2CD", permission_level: 2, silent: true, type: "command" }]
+			shape: "gear"
+			size: 1.5d
+			tasks: [{ id: "141E35198680FBF0", item: { count: 1, id: "createaddition:alternator" }, type: "item" }]
+			x: 4.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["2F1C38B577953E12"]
+			icon: { id: "createaddition:connector" }
+			id: "5BA56C6EF9E4299B"
+			rewards: [{ id: "572BBE15D4A3DD4F", type: "xp", xp: 20 }]
+			size: 1.0d
+			tasks: [{ id: "6B025F44CD97295C", item: { count: 1, id: "createaddition:connector" }, type: "item", count: 4L }]
+			x: 6.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["27EE91C539C2032C", "5BA56C6EF9E4299B"]
+			icon: { id: "tfmg:light_bulb" }
+			id: "3AE44CBF5A803111"
+			rewards: [{ count: 2, id: "753D18D61EBC3115", item: { count: 1, id: "tfmg:light_bulb" }, type: "item" }, { id: "1AB94AC58AE51A7F", type: "xp", xp: 50 }, { command: "/crstone archetype xp {p} 40", id: "58A6FD4AFCB69B93", permission_level: 2, silent: true, type: "command" }]
+			shape: "hexagon"
+			size: 1.5d
+			tasks: [{ id: "61F39F9D2A0626F7", item: { count: 1, id: "tfmg:light_bulb" }, type: "item" }]
+			x: 8.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["3AE44CBF5A803111"]
+			icon: { id: "createaddition:modular_accumulator" }
+			id: "5A07E749568D9014"
+			rewards: [{ id: "1AEBE27354AB24A2", type: "xp", xp: 30 }]
+			size: 1.0d
+			tasks: [{ id: "390A366A5BF705E3", item: { count: 1, id: "createaddition:modular_accumulator" }, type: "item" }]
+			x: 10.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["3AE44CBF5A803111"]
+			icon: { id: "createaddition:electric_motor" }
+			id: "70FE5E47709BDDDB"
+			rewards: [{ id: "6DB5BD40CF49007E", type: "xp", xp: 35 }, { command: "/crstone archetype xp {p} 25", id: "6A68B300A21293E6", permission_level: 2, silent: true, type: "command" }]
+			size: 1.0d
+			tasks: [{ id: "1C1F6122BC652A6D", item: { count: 1, id: "createaddition:electric_motor" }, type: "item" }]
+			x: 10.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["3AE44CBF5A803111"]
+			icon: { id: "create:electron_tube" }
+			id: "58F7EA6FBA2E1ABB"
+			rewards: [{ id: "2B8756978C92C160", type: "xp", xp: 35 }, { command: "/crstone archetype xp {p} 25", id: "10AA376CD09D1C31", permission_level: 2, silent: true, type: "command" }]
+			size: 1.0d
+			tasks: [{ id: "795D6460B339E3CD", item: { count: 1, id: "create:electron_tube" }, type: "item", count: 4L }]
+			x: 12.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["3AE44CBF5A803111"]
+			icon: { id: "tfmg:voltmeter" }
+			id: "68BBA7BD89FA1FD1"
+			rewards: [{ id: "27E532B39416A757", type: "xp", xp: 40 }, { command: "/crstone archetype xp {p} 80", id: "46D3B6F69B6B8F7F", permission_level: 2, silent: true, type: "command" }]
+			size: 1.0d
+			tasks: [{ id: "2ABC3BD33CDC660C", stage: "voie_scientist", type: "gamestage" }, { id: "29B04C0430B04FE8", item: { count: 1, id: "tfmg:voltmeter" }, type: "item" }]
+			x: 8.0d
+			y: 2.0d
+		}
+	]
+}

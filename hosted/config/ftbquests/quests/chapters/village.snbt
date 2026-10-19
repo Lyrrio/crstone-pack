@@ -1,0 +1,91 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "village"
+	group: ""
+	icon: { id: "minecolonies:blockhuttownhall" }
+	id: "158AEF5E36AC05DA"
+	order_index: 4
+	quest_links: [ ]
+	quests: [
+		{
+			icon: { id: "minecraft:bell" }
+			id: "109383EBC5A8B4B6"
+			rewards: [{ id: "29F79119A0B1C578", type: "xp", xp: 20 }]
+			size: 1.25d
+			tasks: [{ id: "444F00E26701E8E3", observe_type: 0, timer: 0L, to_observe: "minecraft:bell", type: "observation" }]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["109383EBC5A8B4B6"]
+			icon: { id: "minecraft:emerald" }
+			id: "439FF8875A420748"
+			rewards: [{ id: "10C1DC8956180E9B", type: "xp", xp: 20 }, { command: "/crstone archetype xp {p} 15", id: "74A3A9B34F2705FA", permission_level: 2, silent: true, type: "command" }]
+			size: 1.0d
+			tasks: [{ id: "2F490CC083616D1C", item: { count: 1, id: "minecraft:emerald" }, type: "item", count: 5L }]
+			x: 2.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["109383EBC5A8B4B6"]
+			icon: { id: "farmersdelight:noodle_soup" }
+			id: "74C65E70B7AE8A03"
+			rewards: [{ count: 2, id: "5AD4B940061AF773", item: { count: 1, id: "farmersdelight:noodle_soup" }, type: "item" }, { id: "4E7B91974348B00A", type: "xp", xp: 25 }, { command: "/crstone archetype xp {p} 20", id: "347F28299C42B0AF", permission_level: 2, silent: true, type: "command" }]
+			size: 1.0d
+			tasks: [{ id: "25BD2915154A7FB6", item: { count: 1, id: "farmersdelight:noodle_soup" }, type: "item" }]
+			x: 2.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["439FF8875A420748"]
+			icon: { id: "minecolonies:supplycampdeployer" }
+			id: "34352070ECDEB80E"
+			rewards: [{ id: "275B18952C2043EC", type: "xp", xp: 20 }]
+			size: 1.0d
+			tasks: [{ id: "7A7AC76DA81DC34D", item: { count: 1, id: "minecolonies:supplycampdeployer" }, type: "item" }]
+			x: 4.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["34352070ECDEB80E"]
+			icon: { id: "minecolonies:blockhuttownhall" }
+			id: "2DF80C96881501A7"
+			rewards: [{ id: "55B3FC312A39C207", type: "xp", xp: 30 }, { command: "/crstone archetype xp {p} 25", id: "43C197E64C693B9F", permission_level: 2, silent: true, type: "command" }]
+			size: 1.25d
+			tasks: [{ id: "4182A34E399B29AE", item: { count: 1, id: "minecolonies:blockhuttownhall" }, type: "item" }]
+			x: 6.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["2DF80C96881501A7"]
+			icon: { id: "minecolonies:blockhutbuilder" }
+			id: "52BC80EAD5E9B50A"
+			rewards: [{ id: "2336ACE6BC630436", type: "xp", xp: 25 }]
+			size: 1.0d
+			tasks: [{ id: "4D22C62BF5CE3F0C", item: { count: 1, id: "minecolonies:blockhutbuilder" }, type: "item" }]
+			x: 8.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["2DF80C96881501A7"]
+			icon: { id: "minecolonies:blockhutfarmer" }
+			id: "2429D195D2C43ACC"
+			rewards: [{ id: "201041213C9C6278", type: "xp", xp: 25 }]
+			size: 1.0d
+			tasks: [{ id: "7EAB14B5ADA8DEAA", item: { count: 1, id: "minecolonies:blockhutfarmer" }, type: "item" }]
+			x: 8.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["439FF8875A420748"]
+			icon: { id: "minecraft:emerald" }
+			id: "67719C858287CC98"
+			rewards: [{ id: "56C8C06CE628694C", type: "xp", xp: 40 }, { command: "/crstone archetype xp {p} 80", id: "20A52F95AAC24B84", permission_level: 2, silent: true, type: "command" }]
+			size: 1.0d
+			tasks: [{ id: "5D3D4B1AFB502677", stage: "voie_mentalist", type: "gamestage" }, { id: "63D56BCF3E4D9F15", item: { count: 1, id: "minecraft:emerald" }, type: "item", count: 20L }]
+			x: 4.0d
+			y: 1.0d
+		}
+	]
+}

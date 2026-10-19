@@ -116,6 +116,123 @@
 	quest.5F849F4577902521.title: "Dix milliards de pour cent"
 	quest.5F849F4577902521.quest_subtitle: "Réservée à la voie du Scientifique"
 	quest.5F849F4577902521.quest_desc: ["Senku a produit le fluide miracle en série pour réveiller ses compagnons. Prépares-en trois fioles.", "", "&7Seul un Scientifique peut terminer cette quête.&r"]
+	chapter.158AEF5E36AC05DA.title: "&25. Le village"
+	quest.109383EBC5A8B4B6.title: "Un village"
+	quest.109383EBC5A8B4B6.quest_subtitle: "Tu n'es pas seul"
+	quest.109383EBC5A8B4B6.quest_desc: ["D'autres humains vivent dans ce monde. Trouve un village et approche-toi de sa cloche."]
+	quest.439FF8875A420748.title: "Le troc"
+	quest.439FF8875A420748.quest_desc: ["Les villageois n'ont que faire de tes discours scientifiques… mais ils aiment les échanges. Gagne des émeraudes."]
+	quest.74C65E70B7AE8A03.title: "Les ramens"
+	quest.74C65E70B7AE8A03.quest_subtitle: "La science qui se mange"
+	quest.74C65E70B7AE8A03.quest_desc: ["Senku a conquis le village avec un bol de ramens. Prépare une soupe de nouilles pour gagner les cœurs."]
+	quest.34352070ECDEB80E.title: "Un camp de base"
+	quest.34352070ECDEB80E.quest_subtitle: "MineColonies"
+	quest.34352070ECDEB80E.quest_desc: ["Fonde ton propre village. Le camp de ravitaillement te donne le coffre de départ de ta colonie."]
+	quest.2DF80C96881501A7.title: "L'hôtel de ville"
+	quest.2DF80C96881501A7.quest_desc: ["Le cœur de ta colonie : pose-le et nomme ton village."]
+	quest.52BC80EAD5E9B50A.title: "Le bâtisseur"
+	quest.52BC80EAD5E9B50A.quest_desc: ["Sans bâtisseur, rien ne se construit. Engage-le en premier."]
+	quest.2429D195D2C43ACC.title: "Le fermier"
+	quest.2429D195D2C43ACC.quest_desc: ["Un village nourri est un village qui travaille."]
+	quest.67719C858287CC98.title: "Le magicien des mots"
+	quest.67719C858287CC98.quest_subtitle: "Réservée à la voie du Mentaliste"
+	quest.67719C858287CC98.quest_desc: ["Gen sait retourner n'importe qui. Mène tes négociations jusqu'à réunir vingt émeraudes.", "", "&7Seul un Mentaliste peut terminer cette quête.&r"]
+	chapter.241234FF31AEDFE7.title: "&76. Le fer et la chimie"
+	quest.283A0E80DA928F96.title: "Le minerai de fer"
+	quest.283A0E80DA928F96.quest_desc: ["Le fer est la clé de toute la suite. Trouve du minerai et rapporte du fer brut."]
+	quest.1DBB7FC72DBE8D7A.title: "Les lingots de fer"
+	quest.1DBB7FC72DBE8D7A.quest_subtitle: "Le four, encore et toujours"
+	quest.1DBB7FC72DBE8D7A.quest_desc: ["Fonds ton minerai au four. Senku a commencé par du sable de fer aimanté : toi, tu as la chance des cavernes."]
+	quest.403DE0182C0B7AC3.title: "Le sabre"
+	quest.403DE0182C0B7AC3.quest_subtitle: "Pour protéger le village"
+	quest.403DE0182C0B7AC3.quest_desc: ["Une lame de fer pour les gardiens du village."]
+	quest.655F7C32B084AEF5.title: "La verrerie"
+	quest.655F7C32B084AEF5.quest_subtitle: "Le souffle de Kaseki"
+	quest.655F7C32B084AEF5.quest_desc: ["Pas de chimie sans verrerie. Cuis du sable pour faire du verre."]
+	quest.655997D63D59C526.title: "Le soufre"
+	quest.655997D63D59C526.quest_subtitle: "L'odeur des sources chaudes"
+	quest.655997D63D59C526.quest_desc: ["Le soufre se trouve sous terre. C'est la base de la poudre noire et de l'acide sulfurique."]
+	quest.2E4A306DEB1D4E33.title: "La poudre noire"
+	quest.2E4A306DEB1D4E33.quest_subtitle: "Soufre, salpêtre, charbon"
+	quest.2E4A306DEB1D4E33.quest_desc: ["Le premier explosif de l'humanité. À manier avec respect."]
+	quest.7EBB503A56491542.title: "L'acide sulfurique"
+	quest.7EBB503A56491542.quest_subtitle: "Le roi des produits chimiques"
+	quest.7EBB503A56491542.quest_desc: ["Il en faut pour presque toute la chimie moderne. Produis-en un seau."]
+	quest.33391CEBB6F9748A.title: "L'alliage d'andésite"
+	quest.33391CEBB6F9748A.quest_subtitle: "Create"
+	quest.33391CEBB6F9748A.quest_desc: ["Andésite et fer : le matériau des premières machines."]
+	quest.76F29FDAF7E9FDD9.title: "La roue à eau"
+	quest.76F29FDAF7E9FDD9.quest_subtitle: "La force de la rivière"
+	quest.76F29FDAF7E9FDD9.quest_desc: ["Une rivière qui coule, c'est de l'énergie gratuite. Construis une roue à eau."]
+	quest.72B0E3A0CBD53B37.title: "La presse mécanique"
+	quest.72B0E3A0CBD53B37.quest_desc: ["Écrase le métal en plaques : la presse mécanique ouvre la voie aux vraies machines."]
+	quest.6B5CF509180F4D16.title: "L'aimant"
+	quest.6B5CF509180F4D16.quest_subtitle: "Un éclair dans une tige de fer"
+	quest.6B5CF509180F4D16.quest_desc: ["Senku a aimanté une tige de fer grâce à la foudre. Fabrique un aimant : il sera au cœur de l'électricité."]
+	quest.1669A70EAF167287.title: "La lame du plus fort"
+	quest.1669A70EAF167287.quest_subtitle: "Réservée à la voie du Combattant"
+	quest.1669A70EAF167287.quest_desc: ["Un gardien a besoin de ses armes. Forge trois épées de fer.", "", "&7Seul un Combattant peut terminer cette quête.&r"]
+	chapter.76F072852E0E1245.title: "&e7. L'électricité"
+	quest.551B1C52DD31340D.title: "Le cuivre"
+	quest.551B1C52DD31340D.quest_desc: ["Le cuivre conduit l'électricité. Il t'en faudra beaucoup."]
+	quest.772A50C1206BAADD.title: "Le fil de cuivre"
+	quest.772A50C1206BAADD.quest_subtitle: "Crafts & Additions"
+	quest.772A50C1206BAADD.quest_desc: ["Étire le cuivre en fil : c'est par là que passera le courant."]
+	quest.2F1C38B577953E12.title: "La bobine"
+	quest.2F1C38B577953E12.quest_desc: ["Enroule du fil de cuivre sur une bobine pour tirer des lignes électriques."]
+	quest.27EE91C539C2032C.title: "L'alternateur"
+	quest.27EE91C539C2032C.quest_subtitle: "Le mouvement devient courant"
+	quest.27EE91C539C2032C.quest_desc: ["Un aimant qui tourne dans une bobine : voilà l'électricité. Raccorde l'alternateur à ta roue à eau."]
+	quest.5BA56C6EF9E4299B.title: "Les connecteurs"
+	quest.5BA56C6EF9E4299B.quest_desc: ["Les connecteurs transportent le courant d'une machine à l'autre."]
+	quest.3AE44CBF5A803111.title: "La première ampoule"
+	quest.3AE44CBF5A803111.quest_subtitle: "La lumière de la science"
+	quest.3AE44CBF5A803111.quest_desc: ["Une lumière qui ne vacille pas : la nuit du monde de pierre recule enfin."]
+	quest.5A07E749568D9014.title: "Stocker l'énergie"
+	quest.5A07E749568D9014.quest_desc: ["Un accumulateur garde le courant pour plus tard."]
+	quest.70FE5E47709BDDDB.title: "Le moteur électrique"
+	quest.70FE5E47709BDDDB.quest_desc: ["Le courant redevient mouvement, là où il n'y a pas de rivière."]
+	quest.58F7EA6FBA2E1ABB.title: "Les tubes à vide"
+	quest.58F7EA6FBA2E1ABB.quest_subtitle: "Des voix qui voyagent"
+	quest.58F7EA6FBA2E1ABB.quest_desc: ["Verre, filament et vide : ces petits tubes ont permis aux voix de traverser les distances."]
+	quest.68BBA7BD89FA1FD1.title: "Mesurer le courant"
+	quest.68BBA7BD89FA1FD1.quest_subtitle: "Réservée à la voie du Scientifique"
+	quest.68BBA7BD89FA1FD1.quest_desc: ["Un scientifique mesure tout. Fabrique un voltmètre.", "", "&7Seul un Scientifique peut terminer cette quête.&r"]
+	chapter.69B980C3BC743FB1.title: "&c8. La vapeur"
+	quest.3EA8C661E64E0647.title: "Le brûleur"
+	quest.3EA8C661E64E0647.quest_desc: ["Un brûleur et un bloc de charbon : de quoi chauffer de l'eau jusqu'à la vapeur."]
+	quest.2402E8486C70E2AC.title: "La chaudière"
+	quest.2402E8486C70E2AC.quest_desc: ["Un réservoir de fluide posé sur le brûleur devient une chaudière."]
+	quest.40868D3DF77AAEC2.title: "La machine à vapeur"
+	quest.40868D3DF77AAEC2.quest_subtitle: "La force de cent hommes"
+	quest.40868D3DF77AAEC2.quest_desc: ["La vapeur pousse le piston, le piston fait tourner le monde. De quoi faire avancer un véhicule entier."]
+	quest.5B1FE5AC06EF77DE.title: "Le pétrole"
+	quest.5B1FE5AC06EF77DE.quest_subtitle: "Il faut le flairer"
+	quest.5B1FE5AC06EF77DE.quest_desc: ["Ryusui a senti le pétrole à l'odeur. Trouve un gisement et remplis un seau de pétrole brut."]
+	quest.135793906B192AE6.title: "Le chevalet de pompage"
+	quest.135793906B192AE6.quest_desc: ["Pomper à la main ne suffit plus : construis la base d'un chevalet de pompage."]
+	quest.52C1CDE95B7798E9.title: "L'acier"
+	quest.52C1CDE95B7798E9.quest_desc: ["Plus solide que le fer : l'acier sera la charpente des grandes machines."]
+	quest.58A593AD5D75C785.title: "La distillation"
+	quest.58A593AD5D75C785.quest_subtitle: "Du pétrole aux carburants"
+	quest.58A593AD5D75C785.quest_desc: ["Une tour de distillation sépare le pétrole en carburants."]
+	quest.43C83CF403A717C4.title: "L'hélice"
+	quest.43C83CF403A717C4.quest_subtitle: "Create Aeronautics"
+	quest.43C83CF403A717C4.quest_desc: ["Une hélice en bois sur un roulement, et ta construction se met à avancer."]
+	quest.277F22564F4721E3.title: "Un vrai navire"
+	quest.277F22564F4721E3.quest_subtitle: "Assemblé avec Create Aeronautics"
+	quest.277F22564F4721E3.quest_desc: ["Un gouvernail, une hélice, une coque : ton premier navire digne de ce nom."]
+	quest.2F9D928B97933AD9.title: "L'enveloppe"
+	quest.2F9D928B97933AD9.quest_subtitle: "Un ballon de tissu"
+	quest.2F9D928B97933AD9.quest_desc: ["Une enveloppe de tissu, cousue pour retenir l'air chaud."]
+	quest.10D9A6F607D1477B.title: "Le brûleur réglable"
+	quest.10D9A6F607D1477B.quest_desc: ["Il chauffe l'air de l'enveloppe et permet de monter ou de descendre."]
+	quest.6C9A3FADF1871953.title: "La montgolfière"
+	quest.6C9A3FADF1871953.quest_subtitle: "Prendre de la hauteur"
+	quest.6C9A3FADF1871953.quest_desc: ["Enveloppe, brûleur, nacelle : assemble ta montgolfière et décolle. Vu d'en haut, le monde de pierre n'a plus de secret.", "", "Coche cette quête une fois dans les airs."]
+	quest.1FFA37DB50A0CE13.title: "Le capitaine"
+	quest.1FFA37DB50A0CE13.quest_subtitle: "Réservée à la voie du Navigateur"
+	quest.1FFA37DB50A0CE13.quest_desc: ["Ryusui veut toutes les mers. Fabrique deux gouvernails pour ta future flotte.", "", "&7Seul un Navigateur peut terminer cette quête.&r"]
 	chapter.7EAA04881299A7AA.title: "&e★ Les voies"
 	quest.10C42D39D14BD9A1.title: "Voie : Scientifique"
 	quest.10C42D39D14BD9A1.quest_subtitle: "Voie de Senku"

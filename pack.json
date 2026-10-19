@@ -1,12 +1,17 @@
 {
   "name": "Cr. Stone",
-  "version": "0.12.5",
+  "version": "0.12.6",
   "minecraft": "1.21.1",
   "neoforge": "21.1.262",
   "managed": [
     "mods"
   ],
   "news": [
+    {
+      "date": "Cr. Stone 0.12.6",
+      "title": "Le livre des quêtes s'agrandit",
+      "body": "Quatre nouveaux chapitres : le village et ta colonie, le fer et la chimie, l'électricité jusqu'à la première ampoule, puis la vapeur, le pétrole et la montgolfière. 110 quêtes en tout, avec de nouveaux défis réservés à certaines voies."
+    },
     {
       "date": "Cr. Stone 0.12.5",
       "title": "Le livre des quêtes",
@@ -245,8 +250,8 @@
       "size": 583525
     },
     {
-      "path": "mods/crstone-0.12.5.jar",
-      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/mods/crstone-0.12.5.jar",
+      "path": "mods/crstone-0.12.6.jar",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/mods/crstone-0.12.6.jar",
       "sha1": "80ba9a6bb13a469aedc2093a44b7ecacc7a400d9",
       "size": 929906
     },
@@ -2284,6 +2289,20 @@
       "onlyIfMissing": true
     },
     {
+      "path": "config/ftbquests/quests/chapters/electricite.snbt",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/ftbquests/quests/chapters/electricite.snbt",
+      "sha1": "d0e03dc8d908f540abca2c62422c56cc0ae36bcc",
+      "size": 4223,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/ftbquests/quests/chapters/fer.snbt",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/ftbquests/quests/chapters/fer.snbt",
+      "sha1": "dde934d3087f02c4a502e8257d133b9537e4f317",
+      "size": 4752,
+      "onlyIfMissing": true
+    },
+    {
       "path": "config/ftbquests/quests/chapters/grotte.snbt",
       "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/ftbquests/quests/chapters/grotte.snbt",
       "sha1": "fc19e9bd995bce7668de76bcc0bde6660a4cf827",
@@ -2312,9 +2331,23 @@
       "onlyIfMissing": true
     },
     {
+      "path": "config/ftbquests/quests/chapters/vapeur.snbt",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/ftbquests/quests/chapters/vapeur.snbt",
+      "sha1": "b11031d53110aa19cf31ea5cf85004fc9ce1d1d3",
+      "size": 5138,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/ftbquests/quests/chapters/village.snbt",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/ftbquests/quests/chapters/village.snbt",
+      "sha1": "40a8c336ddcd9853668aaa6ecc540fc86cbf1143",
+      "size": 3432,
+      "onlyIfMissing": true
+    },
+    {
       "path": "config/ftbquests/quests/chapters/voies.snbt",
       "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/ftbquests/quests/chapters/voies.snbt",
-      "sha1": "7d051f041c4b85e0285fe66e451f589ae68d6fe8",
+      "sha1": "d04dacff7d1a11f7304d5d28d2a73ed02b420d9d",
       "size": 11532,
       "onlyIfMissing": true
     },
@@ -2335,15 +2368,15 @@
     {
       "path": "config/ftbquests/quests/lang/en_us.snbt",
       "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/ftbquests/quests/lang/en_us.snbt",
-      "sha1": "0d4aa10bf8798dd5fcb8c0725dbd5fb7ae3a22c0",
-      "size": 17082,
+      "sha1": "949978e7d4e240c9f40a440d1fcabd50089da751",
+      "size": 26532,
       "onlyIfMissing": true
     },
     {
       "path": "config/ftbquests/quests/lang/fr_fr.snbt",
       "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/ftbquests/quests/lang/fr_fr.snbt",
-      "sha1": "0d4aa10bf8798dd5fcb8c0725dbd5fb7ae3a22c0",
-      "size": 17082,
+      "sha1": "949978e7d4e240c9f40a440d1fcabd50089da751",
+      "size": 26532,
       "onlyIfMissing": true
     },
     {

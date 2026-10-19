@@ -1,0 +1,143 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "vapeur"
+	group: ""
+	icon: { id: "create:steam_engine" }
+	id: "69B980C3BC743FB1"
+	order_index: 7
+	quest_links: [ ]
+	quests: [
+		{
+			icon: { id: "create:blaze_burner" }
+			id: "3EA8C661E64E0647"
+			rewards: [{ id: "2ABFBB9974C09590", type: "xp", xp: 30 }]
+			size: 1.25d
+			tasks: [{ id: "2080556FFDA434A2", item: { count: 1, id: "create:blaze_burner" }, type: "item" }]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["3EA8C661E64E0647"]
+			icon: { id: "create:fluid_tank" }
+			id: "2402E8486C70E2AC"
+			rewards: [{ id: "24ACCF1095D453E4", type: "xp", xp: 25 }]
+			size: 1.0d
+			tasks: [{ id: "50340B45A1968016", item: { count: 1, id: "create:fluid_tank" }, type: "item", count: 4L }]
+			x: 2.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["2402E8486C70E2AC"]
+			icon: { id: "create:steam_engine" }
+			id: "40868D3DF77AAEC2"
+			rewards: [{ id: "1021999ABC9A7E4E", type: "xp", xp: 50 }, { command: "/crstone archetype xp {p} 40", id: "515DE7E843D29BEF", permission_level: 2, silent: true, type: "command" }]
+			shape: "gear"
+			size: 1.5d
+			tasks: [{ id: "32C8F0BDAD3404F3", item: { count: 1, id: "create:steam_engine" }, type: "item" }]
+			x: 4.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["40868D3DF77AAEC2"]
+			icon: { id: "tfmg:crude_oil_bucket" }
+			id: "5B1FE5AC06EF77DE"
+			rewards: [{ id: "7C410B090490F8A6", type: "xp", xp: 40 }, { command: "/crstone archetype xp {p} 30", id: "2B495B3196367261", permission_level: 2, silent: true, type: "command" }]
+			size: 1.25d
+			tasks: [{ id: "50856B72C8022073", item: { count: 1, id: "tfmg:crude_oil_bucket" }, type: "item" }]
+			x: 6.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["5B1FE5AC06EF77DE"]
+			icon: { id: "tfmg:pumpjack_base" }
+			id: "135793906B192AE6"
+			rewards: [{ id: "1A1009CB14C444C8", type: "xp", xp: 35 }]
+			size: 1.0d
+			tasks: [{ id: "1AF92B1BEBB9B114", item: { count: 1, id: "tfmg:pumpjack_base" }, type: "item" }]
+			x: 8.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["40868D3DF77AAEC2"]
+			icon: { id: "tfmg:steel_ingot" }
+			id: "52C1CDE95B7798E9"
+			rewards: [{ id: "160F8AFEA4CE2289", type: "xp", xp: 35 }, { command: "/crstone archetype xp {p} 25", id: "4C9BB168F7DC5735", permission_level: 2, silent: true, type: "command" }]
+			size: 1.0d
+			tasks: [{ id: "1CFBDAF1E9ACB4C0", item: { count: 1, id: "tfmg:steel_ingot" }, type: "item", count: 8L }]
+			x: 6.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["135793906B192AE6", "52C1CDE95B7798E9"]
+			icon: { id: "tfmg:steel_distillation_controller" }
+			id: "58A593AD5D75C785"
+			rewards: [{ id: "2F6BFB763F11F729", type: "xp", xp: 40 }]
+			size: 1.0d
+			tasks: [{ id: "3EBD3C846F711338", item: { count: 1, id: "tfmg:steel_distillation_controller" }, type: "item" }]
+			x: 10.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["40868D3DF77AAEC2"]
+			icon: { id: "aeronautics:wooden_propeller" }
+			id: "43C83CF403A717C4"
+			rewards: [{ id: "6E81C79A6C80213D", type: "xp", xp: 30 }]
+			size: 1.0d
+			tasks: [{ id: "79C390D74EA0FBD3", item: { count: 1, id: "aeronautics:wooden_propeller" }, type: "item" }]
+			x: 6.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["43C83CF403A717C4"]
+			icon: { id: "simulated:steering_wheel" }
+			id: "277F22564F4721E3"
+			rewards: [{ id: "6E1A6590DC9A6B18", type: "xp", xp: 40 }, { command: "/crstone archetype xp {p} 30", id: "6AB6F83040A566C7", permission_level: 2, silent: true, type: "command" }]
+			size: 1.0d
+			tasks: [{ id: "16298D2CE0F78D7B", item: { count: 1, id: "simulated:steering_wheel" }, type: "item" }]
+			x: 8.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["43C83CF403A717C4"]
+			icon: { id: "aeronautics:white_envelope" }
+			id: "2F9D928B97933AD9"
+			rewards: [{ id: "125A1844BA59AFA7", type: "xp", xp: 30 }]
+			size: 1.0d
+			tasks: [{ id: "6A9B7E8EAC0D4491", item: { count: 1, id: "aeronautics:white_envelope" }, type: "item", count: 8L }]
+			x: 8.0d
+			y: 4.0d
+		}
+		{
+			dependencies: ["2F9D928B97933AD9"]
+			icon: { id: "aeronautics:adjustable_burner" }
+			id: "10D9A6F607D1477B"
+			rewards: [{ id: "33A03491519219C9", type: "xp", xp: 30 }]
+			size: 1.0d
+			tasks: [{ id: "7955C23B0CFAD0AB", item: { count: 1, id: "aeronautics:adjustable_burner" }, type: "item" }]
+			x: 10.0d
+			y: 4.0d
+		}
+		{
+			dependencies: ["10D9A6F607D1477B"]
+			icon: { id: "aeronautics:white_envelope" }
+			id: "6C9A3FADF1871953"
+			rewards: [{ id: "16495FB29A70F1B9", type: "xp", xp: 80 }, { command: "/crstone archetype xp {p} 80", id: "6535AD9AAB598DE6", permission_level: 2, silent: true, type: "command" }]
+			shape: "gear"
+			size: 1.75d
+			tasks: [{ id: "65CFCCDBC90E92B0", type: "checkmark" }]
+			x: 12.0d
+			y: 4.0d
+		}
+		{
+			dependencies: ["277F22564F4721E3"]
+			icon: { id: "simulated:steering_wheel" }
+			id: "1FFA37DB50A0CE13"
+			rewards: [{ id: "1DB79DEA31AA7C96", type: "xp", xp: 40 }, { command: "/crstone archetype xp {p} 80", id: "20531CCA2FD4D573", permission_level: 2, silent: true, type: "command" }]
+			size: 1.0d
+			tasks: [{ id: "5B415AD4907BE448", stage: "voie_navigator", type: "gamestage" }, { id: "351C6E796E510156", item: { count: 1, id: "simulated:steering_wheel" }, type: "item", count: 2L }]
+			x: 10.0d
+			y: 2.0d
+		}
+	]
+}

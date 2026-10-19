@@ -1,0 +1,120 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "survie"
+	group: ""
+	icon: { id: "toughasnails:empty_leather_canteen" }
+	id: "10766337218A7445"
+	order_index: 2
+	quest_links: [ ]
+	quests: [
+		{
+			icon: { id: "minecraft:water_bucket" }
+			id: "6642071C1B6061F8"
+			rewards: [{ id: "546D4F694B2F7673", type: "xp", xp: 10 }]
+			size: 1.25d
+			tasks: [{ id: "2FD017F19FBB02BB", type: "checkmark" }]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["6642071C1B6061F8"]
+			icon: { id: "toughasnails:dirty_water_bottle" }
+			id: "3148012E6063EA2E"
+			rewards: [{ id: "1003CC83BBC25263", type: "xp", xp: 10 }]
+			size: 1.0d
+			tasks: [{ id: "1AAFE10803D9612B", item: { count: 1, id: "toughasnails:dirty_water_bottle" }, type: "item" }]
+			x: 2.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["3148012E6063EA2E"]
+			icon: { id: "toughasnails:purified_water_bottle" }
+			id: "3204772788AEE7CE"
+			rewards: [{ id: "46F339FCA063BE3D", type: "xp", xp: 20 }, { command: "/crstone archetype xp {p} 15", id: "1BA7D8997B2EFEA2", permission_level: 2, silent: true, type: "command" }]
+			size: 1.0d
+			tasks: [{ id: "50B900C445D68592", item: { count: 1, id: "toughasnails:purified_water_bottle" }, type: "item", count: 3L }]
+			x: 4.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["3204772788AEE7CE"]
+			icon: { id: "toughasnails:empty_leather_canteen" }
+			id: "51F1848DE3697924"
+			rewards: [{ id: "5B7460078184E569", type: "xp", xp: 20 }]
+			size: 1.0d
+			tasks: [{ id: "218F8A63E2D5D84C", item: { count: 1, id: "toughasnails:empty_leather_canteen" }, type: "item" }]
+			x: 6.0d
+			y: -1.0d
+		}
+		{
+			icon: { id: "minecraft:beef" }
+			id: "1D816D8992C2ED0A"
+			rewards: [{ id: "2B3A7A5C6E60136F", type: "xp", xp: 10 }]
+			size: 1.0d
+			tasks: [{ entity: "minecraft:cow", id: "1777E55277BD4197", type: "kill", value: 1L }]
+			x: 2.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["1D816D8992C2ED0A"]
+			icon: { id: "minecraft:cooked_beef" }
+			id: "20819F2BF7414664"
+			rewards: [{ id: "1D592ADA30099473", type: "xp", xp: 15 }]
+			size: 1.0d
+			tasks: [{ id: "6F8C4BAC83637012", item: { count: 1, id: "minecraft:cooked_beef" }, type: "item", count: 4L }]
+			x: 4.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["20819F2BF7414664"]
+			icon: { id: "farmersdelight:vegetable_soup" }
+			id: "63941A0E6F85B38E"
+			rewards: [{ id: "1102C1B435C29316", type: "xp", xp: 25 }, { command: "/crstone archetype xp {p} 15", id: "515756A2F392FE8F", permission_level: 2, silent: true, type: "command" }]
+			size: 1.0d
+			tasks: [{ id: "26221054DF0841FC", item: { count: 1, id: "farmersdelight:vegetable_soup" }, type: "item" }]
+			x: 6.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["20819F2BF7414664"]
+			icon: { id: "minecraft:iron_sword" }
+			id: "1BB52CA3184CC088"
+			rewards: [{ count: 8, id: "1FDB326E91AF9E1E", item: { count: 1, id: "minecraft:arrow" }, type: "item" }, { id: "4AC3647F01B5C2D3", type: "xp", xp: 25 }]
+			size: 1.0d
+			tasks: [{ entity: "minecraft:zombie", id: "3E81E540F54C62EB", type: "kill", value: 5L }]
+			x: 4.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["6642071C1B6061F8"]
+			icon: { id: "minecraft:clock" }
+			id: "5DED1FBF55C9FECA"
+			rewards: [{ id: "36E955FA88DAC0CF", type: "xp", xp: 10 }]
+			size: 1.0d
+			tasks: [{ id: "1F488E37C826AF30", type: "checkmark" }]
+			x: 2.0d
+			y: -3.0d
+		}
+		{
+			dependencies: ["20819F2BF7414664"]
+			icon: { id: "sophisticatedbackpacks:backpack" }
+			id: "359D913A095FC4F1"
+			rewards: [{ id: "719D0F1AB15312D7", type: "xp", xp: 25 }]
+			size: 1.0d
+			tasks: [{ id: "684CF2603BEC382B", item: { count: 1, id: "sophisticatedbackpacks:backpack" }, type: "item" }]
+			x: 8.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["63941A0E6F85B38E"]
+			icon: { id: "crstone:suika_melon" }
+			id: "2814C5D91B766E8F"
+			rewards: [{ id: "2D5815504214DE3A", type: "xp", xp: 15 }]
+			size: 1.0d
+			tasks: [{ id: "7E1E013074B72014", item: { count: 1, id: "crstone:suika_melon" }, type: "item" }]
+			x: 8.0d
+			y: 3.0d
+		}
+	]
+}

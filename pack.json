@@ -1,12 +1,17 @@
 {
   "name": "Cr. Stone",
-  "version": "0.12.4",
+  "version": "0.12.5",
   "minecraft": "1.21.1",
   "neoforge": "21.1.262",
   "managed": [
     "mods"
   ],
   "news": [
+    {
+      "date": "Cr. Stone 0.12.5",
+      "title": "Le livre des quêtes",
+      "body": "Ouvre le livre des quêtes : 67 quêtes guident ta renaissance, du réveil dans la pierre jusqu'au fluide miracle de la Grotte des Miracles. Chaque voie a aussi ses propres défis : tu vois ceux des autres, mais seuls les tiens peuvent être relevés."
+    },
     {
       "date": "Cr. Stone 0.12.4",
       "title": "Se soigner dans le monde de pierre",
@@ -240,10 +245,10 @@
       "size": 583525
     },
     {
-      "path": "mods/crstone-0.12.4.jar",
-      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/mods/crstone-0.12.4.jar",
-      "sha1": "91aeff3efa800097b98f34435f031f923efd555d",
-      "size": 929663
+      "path": "mods/crstone-0.12.5.jar",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/mods/crstone-0.12.5.jar",
+      "sha1": "80ba9a6bb13a469aedc2093a44b7ecacc7a400d9",
+      "size": 929906
     },
     {
       "path": "mods/cupboard-1.21.1-4.2.jar",
@@ -382,6 +387,12 @@
       "url": "https://edge.forgecdn.net/files/8724/782/ftb-teams-neoforge-2101.1.11.jar",
       "sha1": "62b65f752d0326edd13244e58d5f2aec035da4e9",
       "size": 308236
+    },
+    {
+      "path": "mods/ftb-xmod-compat-neoforge-21.1.8.jar",
+      "url": "https://edge.forgecdn.net/files/7715/134/ftb-xmod-compat-neoforge-21.1.8.jar",
+      "sha1": "0c25fc1a43c99eaa68c883dc77e3ebf4539629e6",
+      "size": 141328
     },
     {
       "path": "mods/geckolib-neoforge-1.21.1-4.9.3.jar",
@@ -2270,6 +2281,69 @@
       "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/ftblibrary-client.snbt",
       "sha1": "1a6fd5dcd4e4b6545de440edea6f604029fce5ff",
       "size": 1651,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/ftbquests/quests/chapters/grotte.snbt",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/ftbquests/quests/chapters/grotte.snbt",
+      "sha1": "fc19e9bd995bce7668de76bcc0bde6660a4cf827",
+      "size": 4557,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/ftbquests/quests/chapters/pierre.snbt",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/ftbquests/quests/chapters/pierre.snbt",
+      "sha1": "bd700f4c925ea41ac887b34e6c69ed1e1842748e",
+      "size": 5392,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/ftbquests/quests/chapters/reveil.snbt",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/ftbquests/quests/chapters/reveil.snbt",
+      "sha1": "9a06e9d9d6787ef9afb33927f08eedab00b8738c",
+      "size": 3459,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/ftbquests/quests/chapters/survie.snbt",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/ftbquests/quests/chapters/survie.snbt",
+      "sha1": "a8fa4b69d0ed671663c797f94cb4238d8b0cea5e",
+      "size": 3922,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/ftbquests/quests/chapters/voies.snbt",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/ftbquests/quests/chapters/voies.snbt",
+      "sha1": "7d051f041c4b85e0285fe66e451f589ae68d6fe8",
+      "size": 11532,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/ftbquests/quests/chapter_groups.snbt",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/ftbquests/quests/chapter_groups.snbt",
+      "sha1": "9228c43ad409809ffd47efec6fa9500cb203dee4",
+      "size": 25,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/ftbquests/quests/data.snbt",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/ftbquests/quests/data.snbt",
+      "sha1": "9ca50d20aec90318dfaedf7841a820cec23f7715",
+      "size": 589,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/ftbquests/quests/lang/en_us.snbt",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/ftbquests/quests/lang/en_us.snbt",
+      "sha1": "0d4aa10bf8798dd5fcb8c0725dbd5fb7ae3a22c0",
+      "size": 17082,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/ftbquests/quests/lang/fr_fr.snbt",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/ftbquests/quests/lang/fr_fr.snbt",
+      "sha1": "0d4aa10bf8798dd5fcb8c0725dbd5fb7ae3a22c0",
+      "size": 17082,
       "onlyIfMissing": true
     },
     {

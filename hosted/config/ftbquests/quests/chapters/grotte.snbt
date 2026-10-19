@@ -1,0 +1,123 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "grotte"
+	group: ""
+	icon: { id: "crstone:revival_fluid" }
+	id: "4345B541D3FADDED"
+	order_index: 3
+	quest_links: [ ]
+	quests: [
+		{
+			icon: { id: "minecraft:clay_ball" }
+			id: "31643F747C2A8FC1"
+			rewards: [{ id: "1FE7DCFE00413054", type: "xp", xp: 10 }]
+			size: 1.0d
+			tasks: [{ id: "673B91F1E563DF89", item: { count: 1, id: "minecraft:clay_ball" }, type: "item", count: 5L }]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["31643F747C2A8FC1"]
+			icon: { id: "crstone:unfired_clay_pot" }
+			id: "21BB0D7453DB2B8A"
+			rewards: [{ id: "6F995E387DB3422E", type: "xp", xp: 15 }]
+			size: 1.0d
+			tasks: [{ id: "49C8E10BC66FF140", item: { count: 1, id: "crstone:unfired_clay_pot" }, type: "item" }]
+			x: 2.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["21BB0D7453DB2B8A"]
+			icon: { id: "crstone:clay_pot" }
+			id: "1ED52DA7BCDAA499"
+			rewards: [{ id: "1E8853CFE3B89699", type: "xp", xp: 20 }, { command: "/crstone archetype xp {p} 15", id: "102F11445B2B07D5", permission_level: 2, silent: true, type: "command" }]
+			size: 1.0d
+			tasks: [{ id: "1DBDF3999507B3D9", item: { count: 1, id: "crstone:clay_pot" }, type: "item" }]
+			x: 4.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["1ED52DA7BCDAA499"]
+			icon: { id: "minecraft:pointed_dripstone" }
+			id: "5DDE3346EA1F5703"
+			rewards: [{ id: "30B10A1E3B7225D5", type: "xp", xp: 30 }, { command: "/crstone archetype xp {p} 25", id: "70DA99B7910CAB7C", permission_level: 2, silent: true, type: "command" }]
+			shape: "hexagon"
+			size: 1.5d
+			tasks: [{ id: "1A8ADD2E362CA1D8", observe_type: 0, timer: 0L, to_observe: "crstone:nitric_seep", type: "observation" }]
+			x: 6.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["5DDE3346EA1F5703"]
+			icon: { id: "crstone:nitric_acid" }
+			id: "25547E0D44EE164C"
+			rewards: [{ id: "13EF20E94BE22A68", type: "xp", xp: 30 }]
+			size: 1.0d
+			tasks: [{ id: "740511411792D416", item: { count: 1, id: "crstone:nitric_acid" }, type: "item" }]
+			x: 8.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["31643F747C2A8FC1"]
+			icon: { id: "vinery:red_grape" }
+			id: "2392BD9D7A13970A"
+			rewards: [{ id: "7C9BFC6E5F0A6639", type: "xp", xp: 10 }]
+			size: 1.0d
+			tasks: [{ id: "5E0D091A48C24CAB", item: { count: 1, id: "vinery:red_grape" }, type: "item", count: 8L }]
+			x: 2.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["2392BD9D7A13970A"]
+			icon: { id: "vinery:red_wine" }
+			id: "3D13F9548856934C"
+			rewards: [{ id: "31F91766B181656B", type: "xp", xp: 20 }]
+			size: 1.0d
+			tasks: [{ id: "52C9AACE4F17D787", item: { count: 1, id: "vinery:red_wine" }, type: "item" }]
+			x: 4.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["3D13F9548856934C"]
+			icon: { id: "crstone:distilled_alcohol" }
+			id: "1F82BE1FAEF5DC5F"
+			rewards: [{ id: "3D82227345032ACE", type: "xp", xp: 25 }, { command: "/crstone archetype xp {p} 20", id: "79A62E9F8A4DE841", permission_level: 2, silent: true, type: "command" }]
+			size: 1.0d
+			tasks: [{ id: "1E4B8523E736CC9A", item: { count: 1, id: "crstone:distilled_alcohol" }, type: "item", count: 2L }]
+			x: 6.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["25547E0D44EE164C", "1F82BE1FAEF5DC5F"]
+			icon: { id: "crstone:revival_fluid" }
+			id: "50DAA7836B58E942"
+			rewards: [{ id: "166976B4507A851A", item: { count: 1, id: "crstone:revival_fluid" }, type: "item" }, { id: "6E0F634A19BA7D6B", type: "xp", xp: 50 }, { command: "/crstone archetype xp {p} 50", id: "7B9DDC7878DCB286", permission_level: 2, silent: true, type: "command" }]
+			shape: "gear"
+			size: 1.75d
+			tasks: [{ id: "30242F4BE5EFD28E", item: { count: 1, id: "crstone:revival_fluid" }, type: "item" }]
+			x: 10.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["50DAA7836B58E942"]
+			icon: { id: "minecraft:cobblestone" }
+			id: "69656CC68B6562F7"
+			rewards: [{ id: "62F259DB00D8E1C7", type: "xp", xp: 30 }, { command: "/crstone archetype xp {p} 30", id: "39695F21BB5C9A35", permission_level: 2, silent: true, type: "command" }]
+			size: 1.0d
+			tasks: [{ id: "773ADF5F6A24CE40", type: "checkmark" }]
+			x: 12.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["50DAA7836B58E942"]
+			icon: { id: "minecraft:writable_book" }
+			id: "5F849F4577902521"
+			rewards: [{ id: "75418F3DFA70D1CB", type: "xp", xp: 50 }, { command: "/crstone archetype xp {p} 100", id: "252201F01D65A410", permission_level: 2, silent: true, type: "command" }]
+			size: 1.0d
+			tasks: [{ id: "638B6A54ABF20E1C", stage: "voie_scientist", type: "gamestage" }, { id: "3D0315EED3CEF4A5", item: { count: 1, id: "crstone:revival_fluid" }, type: "item", count: 3L }]
+			x: 10.0d
+			y: 3.0d
+		}
+	]
+}

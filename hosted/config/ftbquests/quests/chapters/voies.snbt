@@ -1,0 +1,252 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "voies"
+	group: ""
+	icon: { id: "minecraft:nether_star" }
+	id: "7EAA04881299A7AA"
+	order_index: 4
+	quest_links: [ ]
+	quests: [
+		{
+			icon: { id: "minecraft:writable_book" }
+			id: "10C42D39D14BD9A1"
+			rewards: [{ id: "5B3C41DC9CB68084", type: "xp", xp: 10 }, { command: "/crstone archetype xp {p} 20", id: "316568517C6CBAD2", permission_level: 2, silent: true, type: "command" }]
+			shape: "hexagon"
+			size: 1.25d
+			tasks: [{ id: "7B3B21682902CC1B", stage: "voie_scientist", type: "gamestage" }]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["10C42D39D14BD9A1"]
+			icon: { id: "minecraft:writable_book" }
+			id: "3CEA3095ED7D652E"
+			rewards: [{ id: "27940D923D09A0E9", type: "xp", xp: 20 }, { command: "/crstone archetype xp {p} 40", id: "2F93BCD03BF21DCF", permission_level: 2, silent: true, type: "command" }]
+			size: 1.0d
+			tasks: [{ id: "1263D27D63BC7827", stage: "voie_scientist", type: "gamestage" }, { id: "28DB7EE98DD24F33", item: { count: 1, id: "minecraft:writable_book" }, type: "item" }]
+			x: 2.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["3CEA3095ED7D652E"]
+			icon: { id: "minecraft:glass_bottle" }
+			id: "4677C5ECD7546BC8"
+			rewards: [{ id: "78EF0244E3F3A1F3", type: "xp", xp: 30 }, { command: "/crstone archetype xp {p} 60", id: "1972AA56D910E0CD", permission_level: 2, silent: true, type: "command" }]
+			size: 1.0d
+			tasks: [{ id: "125BEE667C0A3705", stage: "voie_scientist", type: "gamestage" }, { id: "504D545A96DF6F11", item: { count: 1, id: "minecraft:glass_bottle" }, type: "item", count: 8L }]
+			x: 5.0d
+			y: 0.0d
+		}
+		{
+			icon: { id: "minecraft:oak_log" }
+			id: "69D39D7EE90CBC18"
+			rewards: [{ id: "13A390EC424AA985", type: "xp", xp: 10 }, { command: "/crstone archetype xp {p} 20", id: "49739A7C9CFB3677", permission_level: 2, silent: true, type: "command" }]
+			shape: "hexagon"
+			size: 1.25d
+			tasks: [{ id: "2035E1AF6B651DEA", stage: "voie_colossus", type: "gamestage" }]
+			x: 0.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["69D39D7EE90CBC18"]
+			icon: { id: "minecraft:oak_log" }
+			id: "782DA6A673B0E78C"
+			rewards: [{ id: "6C73C13B3B8985A9", type: "xp", xp: 20 }, { command: "/crstone archetype xp {p} 40", id: "3DD96A99462737EE", permission_level: 2, silent: true, type: "command" }]
+			size: 1.0d
+			tasks: [{ id: "5061EFE60B732727", stage: "voie_colossus", type: "gamestage" }, { id: "2A88E12C51D350E2", item: { count: 1, id: "minecraft:oak_log" }, type: "item", count: 64L }]
+			x: 2.5d
+			y: 2.0d
+		}
+		{
+			dependencies: ["782DA6A673B0E78C"]
+			icon: { id: "minecraft:cobblestone" }
+			id: "59CE69576B08BF7D"
+			rewards: [{ id: "2F4ED1273328420E", type: "xp", xp: 30 }, { command: "/crstone archetype xp {p} 60", id: "60F59C30DCF1354F", permission_level: 2, silent: true, type: "command" }]
+			size: 1.0d
+			tasks: [{ id: "11B068E37D294A16", stage: "voie_colossus", type: "gamestage" }, { id: "28DA82C81ED7559F", item: { count: 1, id: "minecraft:cobblestone" }, type: "item", count: 256L }]
+			x: 5.0d
+			y: 2.0d
+		}
+		{
+			icon: { id: "minecraft:iron_sword" }
+			id: "2DF7040CCDBA5D48"
+			rewards: [{ id: "4A679279BC5FFB04", type: "xp", xp: 10 }, { command: "/crstone archetype xp {p} 20", id: "24C838DA4D1BBD80", permission_level: 2, silent: true, type: "command" }]
+			shape: "hexagon"
+			size: 1.25d
+			tasks: [{ id: "21068D5E1AEDA7F3", stage: "voie_warrior", type: "gamestage" }]
+			x: 0.0d
+			y: 4.0d
+		}
+		{
+			dependencies: ["2DF7040CCDBA5D48"]
+			icon: { id: "minecraft:iron_sword" }
+			id: "1765865074AA192A"
+			rewards: [{ id: "35B1EB3DDB06EA6E", type: "xp", xp: 20 }, { command: "/crstone archetype xp {p} 40", id: "5FAEFEF6FAB0B319", permission_level: 2, silent: true, type: "command" }]
+			size: 1.0d
+			tasks: [{ id: "77D420A11742C9CD", stage: "voie_warrior", type: "gamestage" }, { entity: "minecraft:skeleton", id: "1B8DF798DFFEE519", type: "kill", value: 10L }]
+			x: 2.5d
+			y: 4.0d
+		}
+		{
+			dependencies: ["1765865074AA192A"]
+			icon: { id: "minecraft:spider_eye" }
+			id: "7BAAEC6C831E71E8"
+			rewards: [{ id: "3EBD53E458D7073A", type: "xp", xp: 30 }, { command: "/crstone archetype xp {p} 60", id: "547CE744F137EAEF", permission_level: 2, silent: true, type: "command" }]
+			size: 1.0d
+			tasks: [{ id: "24B18A4742259FB7", stage: "voie_warrior", type: "gamestage" }, { entity: "minecraft:spider", id: "35FA2931EE46077D", type: "kill", value: 10L }]
+			x: 5.0d
+			y: 4.0d
+		}
+		{
+			icon: { id: "minecraft:bow" }
+			id: "55E4652E4EAF1F75"
+			rewards: [{ id: "71179218635D40D5", type: "xp", xp: 10 }, { command: "/crstone archetype xp {p} 20", id: "1EE33F67D13F6075", permission_level: 2, silent: true, type: "command" }]
+			shape: "hexagon"
+			size: 1.25d
+			tasks: [{ id: "3BF103B4501CB676", stage: "voie_huntress", type: "gamestage" }]
+			x: 0.0d
+			y: 6.0d
+		}
+		{
+			dependencies: ["55E4652E4EAF1F75"]
+			icon: { id: "minecraft:leather" }
+			id: "4296B035B80FDE3C"
+			rewards: [{ id: "3B4D8CCBA826B91A", type: "xp", xp: 20 }, { command: "/crstone archetype xp {p} 40", id: "72C09DE0DA786AB1", permission_level: 2, silent: true, type: "command" }]
+			size: 1.0d
+			tasks: [{ id: "4930F2F0E710631B", stage: "voie_huntress", type: "gamestage" }, { id: "3910EAFB57E0D398", item: { count: 1, id: "minecraft:leather" }, type: "item", count: 12L }]
+			x: 2.5d
+			y: 6.0d
+		}
+		{
+			dependencies: ["4296B035B80FDE3C"]
+			icon: { id: "minecraft:arrow" }
+			id: "29EAA7F80BFEB60D"
+			rewards: [{ id: "77760C339270185B", type: "xp", xp: 30 }, { command: "/crstone archetype xp {p} 60", id: "21C049C0BBFFA8C1", permission_level: 2, silent: true, type: "command" }]
+			size: 1.0d
+			tasks: [{ id: "5E112942EDC4E8CC", stage: "voie_huntress", type: "gamestage" }, { id: "133A68E59C5EF8A3", item: { count: 1, id: "minecraft:arrow" }, type: "item", count: 32L }]
+			x: 5.0d
+			y: 6.0d
+		}
+		{
+			icon: { id: "minecraft:iron_pickaxe" }
+			id: "15CE369568C9EC11"
+			rewards: [{ id: "7694FC45468788B0", type: "xp", xp: 10 }, { command: "/crstone archetype xp {p} 20", id: "17C4AF981AD7E602", permission_level: 2, silent: true, type: "command" }]
+			shape: "hexagon"
+			size: 1.25d
+			tasks: [{ id: "28E1DA7E101EDAD0", stage: "voie_explorer", type: "gamestage" }]
+			x: 0.0d
+			y: 8.0d
+		}
+		{
+			dependencies: ["15CE369568C9EC11"]
+			icon: { id: "minecraft:raw_iron" }
+			id: "7BBF2820A7F121E4"
+			rewards: [{ id: "456ED02DA721F2CE", type: "xp", xp: 20 }, { command: "/crstone archetype xp {p} 40", id: "62143C1E66298B7A", permission_level: 2, silent: true, type: "command" }]
+			size: 1.0d
+			tasks: [{ id: "304F7AFAFEA301EF", stage: "voie_explorer", type: "gamestage" }, { id: "7ED5AA0BAE6992BD", item: { count: 1, id: "minecraft:raw_iron" }, type: "item", count: 16L }]
+			x: 2.5d
+			y: 8.0d
+		}
+		{
+			dependencies: ["7BBF2820A7F121E4"]
+			icon: { id: "minecraft:amethyst_shard" }
+			id: "440CDDCF31AC9889"
+			rewards: [{ id: "73810294B0B214AC", type: "xp", xp: 30 }, { command: "/crstone archetype xp {p} 60", id: "3C8BDB1149FDFE5B", permission_level: 2, silent: true, type: "command" }]
+			size: 1.0d
+			tasks: [{ id: "2BC625A9FB2FD240", stage: "voie_explorer", type: "gamestage" }, { id: "6294EC723069776C", item: { count: 1, id: "minecraft:amethyst_shard" }, type: "item", count: 8L }]
+			x: 5.0d
+			y: 8.0d
+		}
+		{
+			icon: { id: "minecraft:emerald" }
+			id: "17963CB0D00D5379"
+			rewards: [{ id: "11226D2BA11D2810", type: "xp", xp: 10 }, { command: "/crstone archetype xp {p} 20", id: "31C096EDED7D8B0A", permission_level: 2, silent: true, type: "command" }]
+			shape: "hexagon"
+			size: 1.25d
+			tasks: [{ id: "1DFACE67529311A2", stage: "voie_mentalist", type: "gamestage" }]
+			x: 0.0d
+			y: 10.0d
+		}
+		{
+			dependencies: ["17963CB0D00D5379"]
+			icon: { id: "minecraft:emerald" }
+			id: "1E863520D143C1F2"
+			rewards: [{ id: "6D13C310B86E6C05", type: "xp", xp: 20 }, { command: "/crstone archetype xp {p} 40", id: "28A3DE99FA396B4D", permission_level: 2, silent: true, type: "command" }]
+			size: 1.0d
+			tasks: [{ id: "14267DCFB0839951", stage: "voie_mentalist", type: "gamestage" }, { id: "141936F80E1D4DEE", item: { count: 1, id: "minecraft:emerald" }, type: "item", count: 10L }]
+			x: 2.5d
+			y: 10.0d
+		}
+		{
+			dependencies: ["1E863520D143C1F2"]
+			icon: { id: "minecraft:sugar" }
+			id: "7181EAF0EE89EFAD"
+			rewards: [{ id: "178360A278B8CF0B", type: "xp", xp: 30 }, { command: "/crstone archetype xp {p} 60", id: "59B4D005559020C2", permission_level: 2, silent: true, type: "command" }]
+			size: 1.0d
+			tasks: [{ id: "31CD413812E50B1A", stage: "voie_mentalist", type: "gamestage" }, { id: "1AAA15BFCF2998F5", item: { count: 1, id: "minecraft:sugar" }, type: "item", count: 16L }]
+			x: 5.0d
+			y: 10.0d
+		}
+		{
+			icon: { id: "minecraft:anvil" }
+			id: "1832A4E84F31E693"
+			rewards: [{ id: "2C2E3D93663570CB", type: "xp", xp: 10 }, { command: "/crstone archetype xp {p} 20", id: "671D8FFC46B03A16", permission_level: 2, silent: true, type: "command" }]
+			shape: "hexagon"
+			size: 1.25d
+			tasks: [{ id: "42BCC5D995347D80", stage: "voie_artisan", type: "gamestage" }]
+			x: 0.0d
+			y: 12.0d
+		}
+		{
+			dependencies: ["1832A4E84F31E693"]
+			icon: { id: "minecraft:glass" }
+			id: "3A5C1123F386F913"
+			rewards: [{ id: "531E0C14D22635C5", type: "xp", xp: 20 }, { command: "/crstone archetype xp {p} 40", id: "7FD69F4C68B24D14", permission_level: 2, silent: true, type: "command" }]
+			size: 1.0d
+			tasks: [{ id: "6EB5CF9C544843CF", stage: "voie_artisan", type: "gamestage" }, { id: "6670DBC24D90FF53", item: { count: 1, id: "minecraft:glass" }, type: "item", count: 32L }]
+			x: 2.5d
+			y: 12.0d
+		}
+		{
+			dependencies: ["3A5C1123F386F913"]
+			icon: { id: "minecraft:anvil" }
+			id: "631058CB2A7EB998"
+			rewards: [{ id: "47C246681534D5F2", type: "xp", xp: 30 }, { command: "/crstone archetype xp {p} 60", id: "31C9BD31651E422F", permission_level: 2, silent: true, type: "command" }]
+			size: 1.0d
+			tasks: [{ id: "18276700FBEF09CE", stage: "voie_artisan", type: "gamestage" }, { id: "473E6BCE79B6C655", item: { count: 1, id: "minecraft:anvil" }, type: "item" }]
+			x: 5.0d
+			y: 12.0d
+		}
+		{
+			icon: { id: "minecraft:compass" }
+			id: "65D34AC7B30F41B6"
+			rewards: [{ id: "30A4B7D728D548ED", type: "xp", xp: 10 }, { command: "/crstone archetype xp {p} 20", id: "272BCA95D48ACED1", permission_level: 2, silent: true, type: "command" }]
+			shape: "hexagon"
+			size: 1.25d
+			tasks: [{ id: "772E3FA590715CE8", stage: "voie_navigator", type: "gamestage" }]
+			x: 0.0d
+			y: 14.0d
+		}
+		{
+			dependencies: ["65D34AC7B30F41B6"]
+			icon: { id: "minecraft:oak_boat" }
+			id: "1233316DBA85ECBE"
+			rewards: [{ id: "2285B5292C5E548D", type: "xp", xp: 20 }, { command: "/crstone archetype xp {p} 40", id: "39680DF98A2D8E35", permission_level: 2, silent: true, type: "command" }]
+			size: 1.0d
+			tasks: [{ id: "17222A12AB12E345", stage: "voie_navigator", type: "gamestage" }, { id: "2FF42BB856642D4B", item: { count: 1, id: "minecraft:oak_boat" }, type: "item" }]
+			x: 2.5d
+			y: 14.0d
+		}
+		{
+			dependencies: ["1233316DBA85ECBE"]
+			icon: { id: "minecraft:compass" }
+			id: "57619C74EFD3CC1D"
+			rewards: [{ id: "7253D37231053913", type: "xp", xp: 30 }, { command: "/crstone archetype xp {p} 60", id: "363297613C478EFD", permission_level: 2, silent: true, type: "command" }]
+			size: 1.0d
+			tasks: [{ id: "75484C7C9CE178B4", stage: "voie_navigator", type: "gamestage" }, { id: "6E99E5249603FC98", item: { count: 1, id: "minecraft:compass" }, type: "item" }, { id: "3DAF8CC70BD5AE8E", item: { count: 1, id: "minecraft:map" }, type: "item" }]
+			x: 5.0d
+			y: 14.0d
+		}
+	]
+}

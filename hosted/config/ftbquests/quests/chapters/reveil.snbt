@@ -1,0 +1,92 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "reveil"
+	group: ""
+	icon: { id: "crstone:leaf_tunic" }
+	id: "46E3CBCED3075855"
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			icon: { id: "crstone:revival_fluid" }
+			id: "44657ACE4178667E"
+			rewards: [{ count: 4, id: "1B99C06BECE023DF", item: { count: 1, id: "minecraft:apple" }, type: "item" }, { id: "441DDAC62A2B59AF", type: "xp", xp: 10 }]
+			shape: "gear"
+			size: 1.5d
+			tasks: [{ id: "2FF73F98D9B86E1F", type: "checkmark" }]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["44657ACE4178667E"]
+			icon: { id: "crstone:leaf_loincloth" }
+			id: "3869D17B1D65492C"
+			rewards: [{ id: "3763052B3003E8B9", type: "xp", xp: 10 }, { command: "/crstone archetype xp {p} 10", id: "2714F44483A6CFFA", permission_level: 2, silent: true, type: "command" }]
+			size: 1.0d
+			tasks: [{ id: "2695C8A96ACC9E18", item: { count: 1, id: "crstone:leaf_loincloth" }, type: "item" }]
+			x: 2.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["3869D17B1D65492C"]
+			icon: { id: "crstone:leaf_tunic" }
+			id: "24A28A26848C074E"
+			rewards: [{ id: "3779D0CBFC6ED765", type: "xp", xp: 10 }, { command: "/crstone archetype xp {p} 10", id: "72869D425D610245", permission_level: 2, silent: true, type: "command" }]
+			size: 1.0d
+			tasks: [{ id: "30325A0515E56CC6", item: { count: 1, id: "crstone:leaf_tunic" }, type: "item" }]
+			x: 4.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["44657ACE4178667E"]
+			icon: { id: "minecraft:stick" }
+			id: "71DA66D284DA7131"
+			rewards: [{ id: "42FDD01EEE021DA0", type: "xp", xp: 10 }]
+			size: 1.0d
+			tasks: [{ id: "6E2C7EAD12B38EB6", item: { count: 1, id: "minecraft:stick" }, type: "item", count: 8L }]
+			x: 2.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["71DA66D284DA7131"]
+			icon: { id: "minecraft:flint" }
+			id: "1D8793CF1378B570"
+			rewards: [{ count: 8, id: "1C3237C5BD2F1B47", item: { count: 1, id: "minecraft:gravel" }, type: "item" }, { id: "60F02A26160DD9E4", type: "xp", xp: 10 }]
+			size: 1.0d
+			tasks: [{ id: "22D795677AE3F329", item: { count: 1, id: "minecraft:flint" }, type: "item", count: 3L }]
+			x: 4.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["1D8793CF1378B570"]
+			icon: { id: "crstone:knapped_flint" }
+			id: "6C1C856BEB9D197E"
+			rewards: [{ id: "53EFE1BB992DEC59", type: "xp", xp: 15 }, { command: "/crstone archetype xp {p} 15", id: "4DA942334B9107FA", permission_level: 2, silent: true, type: "command" }]
+			size: 1.0d
+			tasks: [{ id: "1B6468E725F7C534", item: { count: 1, id: "crstone:knapped_flint" }, type: "item", count: 2L }]
+			x: 6.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["71DA66D284DA7131"]
+			icon: { id: "minecraft:campfire" }
+			id: "6B7F8A438B574FED"
+			rewards: [{ count: 4, id: "44F8CFC0F063DCB8", item: { count: 1, id: "minecraft:charcoal" }, type: "item" }, { id: "137A54F926D3B60F", type: "xp", xp: 15 }, { command: "/crstone archetype xp {p} 15", id: "1C86776BFBF04B9B", permission_level: 2, silent: true, type: "command" }]
+			size: 1.0d
+			tasks: [{ id: "133D09B1082B78DA", item: { count: 1, id: "minecraft:campfire" }, type: "item" }]
+			x: 4.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["6B7F8A438B574FED"]
+			icon: { id: "minecraft:oak_door" }
+			id: "118C26DDFFB5EB90"
+			rewards: [{ count: 4, id: "4F0C33750B517C75", item: { count: 1, id: "minecraft:torch" }, type: "item" }, { id: "75178556F14EE9AF", type: "xp", xp: 10 }]
+			size: 1.0d
+			tasks: [{ id: "512BDA751A374981", type: "checkmark" }]
+			x: 6.0d
+			y: 3.0d
+		}
+	]
+}

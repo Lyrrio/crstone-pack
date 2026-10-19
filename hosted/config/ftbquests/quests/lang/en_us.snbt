@@ -1,0 +1,187 @@
+{
+	chapter.46E3CBCED3075855.title: "&a1. Le réveil"
+	quest.44657ACE4178667E.title: "Le réveil"
+	quest.44657ACE4178667E.quest_subtitle: "Combien de temps s'est écoulé ?"
+	quest.44657ACE4178667E.quest_desc: ["Un éclair vert, puis plus rien. Tu sors de la pierre après des millénaires, nu, au milieu d'une forêt qui a tout recouvert.", "", "Comme Senku, garde l'esprit occupé : tout ce que l'humanité a construit est à refaire. Commence par le commencement."]
+	quest.3869D17B1D65492C.title: "Un pagne de feuilles"
+	quest.3869D17B1D65492C.quest_subtitle: "La pudeur avant tout"
+	quest.3869D17B1D65492C.quest_desc: ["Des feuilles et un peu d'ingéniosité suffisent à se couvrir. Ce n'est pas une armure, mais c'est un début."]
+	quest.24A28A26848C074E.title: "Une tunique de feuilles"
+	quest.24A28A26848C074E.quest_desc: ["Complète ta tenue de survivant. Les villageois de l'âge de pierre n'en demandent pas plus."]
+	quest.71DA66D284DA7131.title: "Des bâtons"
+	quest.71DA66D284DA7131.quest_desc: ["Casse des feuillages : ils donnent des bâtons. Ce sera le manche de tous tes premiers outils."]
+	quest.1D8793CF1378B570.title: "Du silex"
+	quest.1D8793CF1378B570.quest_subtitle: "Le gravier cache des trésors"
+	quest.1D8793CF1378B570.quest_desc: ["Creuse du gravier jusqu'à trouver du silex. La pierre taillée a fait vivre l'humanité pendant des centaines de milliers d'années."]
+	quest.6C1C856BEB9D197E.title: "Le silex taillé"
+	quest.6C1C856BEB9D197E.quest_subtitle: "Clic droit sur la roche"
+	quest.6C1C856BEB9D197E.quest_desc: ["Frappe ton silex contre de la roche (clic droit) pour obtenir un éclat tranchant : la base de ton premier couteau et de ta première hachette."]
+	quest.6B7F8A438B574FED.title: "Le premier feu"
+	quest.6B7F8A438B574FED.quest_subtitle: "La chimie commence ici"
+	quest.6B7F8A438B574FED.quest_desc: ["Le feu cuit, éclaire, éloigne les bêtes et sera ton premier laboratoire. Un feu de camp fera l'affaire."]
+	quest.118C26DDFFB5EB90.title: "Un toit sur la tête"
+	quest.118C26DDFFB5EB90.quest_subtitle: "Avant la première nuit"
+	quest.118C26DDFFB5EB90.quest_desc: ["Les nuits du monde de pierre sont dangereuses : les prédateurs rôdent. Construis un abri, même modeste, et coche cette quête une fois à l'intérieur."]
+	chapter.517C1F3CB48055EF.title: "&62. L'âge de pierre"
+	quest.3CFB6214B4B48B59.title: "Le couteau en silex"
+	quest.3CFB6214B4B48B59.quest_desc: ["Un éclat de silex taillé sur un bâton. Il sert à couper l'herbe, à dépecer et à cuisiner."]
+	quest.2A8590142092191C.title: "De la paille"
+	quest.2A8590142092191C.quest_subtitle: "Le couteau sur l'herbe"
+	quest.2A8590142092191C.quest_desc: ["Coupe les hautes herbes avec ton couteau pour récolter de la paille."]
+	quest.561B93B7D459A35B.title: "La corde"
+	quest.561B93B7D459A35B.quest_subtitle: "Ce qui tient tout ensemble"
+	quest.561B93B7D459A35B.quest_desc: ["Tressée à partir de paille, la corde lie la pierre au bois. Sans elle, pas d'outils dignes de ce nom."]
+	quest.2D35A21BE4838152.title: "La hachette en silex"
+	quest.2D35A21BE4838152.quest_desc: ["Silex taillé, bâton et corde : ta première vraie hache. De quoi attaquer les arbres."]
+	quest.40D7C6FD11AB4C07.title: "Abattre un arbre"
+	quest.40D7C6FD11AB4C07.quest_subtitle: "Coup après coup"
+	quest.40D7C6FD11AB4C07.quest_desc: ["Un arbre ne tombe pas d'un seul coup : frappe le tronc à la hache, il s'amincit, puis bascule et s'écrase au sol.", "", "&eLaisse la souche&r (la rangée posée au sol est protégée) : l'arbre repoussera en trois jours. Les gros arbres demandent de trancher toute la section du tronc."]
+	quest.585F087795EA75F3.title: "Porter un tronc"
+	quest.585F087795EA75F3.quest_subtitle: "Maj + G"
+	quest.585F087795EA75F3.quest_desc: ["&eG&r ramasse un tronc tombé dans ton inventaire. &eAccroupi + G&r le hisse sur ton épaule : clic gauche pour le lancer, accroupi + G pour le poser.", "", "Gare à ton endurance ! Les troncs trop gros doivent d'abord être réduits à la main."]
+	quest.1E3E11E9A2D22F4F.title: "L'établi"
+	quest.1E3E11E9A2D22F4F.quest_desc: ["Des planches, et voilà une surface de travail digne de ce nom."]
+	quest.5003EA366BC5801A.title: "La pioche en bois"
+	quest.5003EA366BC5801A.quest_subtitle: "Liée à la corde"
+	quest.5003EA366BC5801A.quest_desc: ["Dans ce monde, les outils en bois et en pierre sont liés avec une corde. Fabrique ta première pioche."]
+	quest.20FE51E94C966D9B.title: "Les outils de pierre"
+	quest.20FE51E94C966D9B.quest_subtitle: "Pioche, hache et pelle"
+	quest.20FE51E94C966D9B.quest_desc: ["La pierre résiste mieux que le bois. Fabrique la pioche, la hache et la pelle en pierre."]
+	quest.152DD5C37AE65A37.title: "Le four"
+	quest.152DD5C37AE65A37.quest_desc: ["Un four en pierre ouvre la porte à la cuisson de l'argile, du sable et bientôt du minerai."]
+	quest.43536C9CD9D0E039.title: "Du charbon de bois"
+	quest.43536C9CD9D0E039.quest_subtitle: "Le combustible de l'ancien monde"
+	quest.43536C9CD9D0E039.quest_desc: ["Fais cuire des bûches pour obtenir du charbon de bois. Il brûle mieux et plus longtemps."]
+	quest.20FDE5C54168F84B.title: "Des torches"
+	quest.20FDE5C54168F84B.quest_desc: ["Charbon et bâton : de la lumière pour les nuits et les cavernes."]
+	quest.1CDF687E5755393F.title: "Main de maître"
+	quest.1CDF687E5755393F.quest_subtitle: "Réservée à la voie de l'Artisan"
+	quest.1CDF687E5755393F.quest_desc: ["Comme Kaseki, prouve ton savoir-faire : une hache, une houe et une pelle en pierre, façonnées avec soin.", "", "&7Seul un Artisan peut terminer cette quête.&r"]
+	chapter.10766337218A7445.title: "&b3. Survivre"
+	quest.6642071C1B6061F8.title: "Boire aux sources"
+	quest.6642071C1B6061F8.quest_subtitle: "Accroupi, main vide, clic droit"
+	quest.6642071C1B6061F8.quest_desc: ["Accroupi, la main vide, clic droit sur une source d'eau pour boire.", "", "&cAttention :&r l'eau brute des rivières peut rendre malade, celle des marais encore plus, et l'eau de mer assoiffe."]
+	quest.3148012E6063EA2E.title: "Une bouteille d'eau"
+	quest.3148012E6063EA2E.quest_desc: ["Remplis une bouteille en verre à une source. Elle n'est pas encore sûre à boire…"]
+	quest.3204772788AEE7CE.title: "L'eau purifiée"
+	quest.3204772788AEE7CE.quest_subtitle: "Faire bouillir, c'est de la science"
+	quest.3204772788AEE7CE.quest_desc: ["Fais chauffer ton eau sur un feu de camp ou dans un four : elle devient sûre à boire."]
+	quest.51F1848DE3697924.title: "Une gourde en cuir"
+	quest.51F1848DE3697924.quest_desc: ["Une gourde contient plus d'eau qu'une bouteille et ne se casse pas."]
+	quest.1D816D8992C2ED0A.title: "La chasse"
+	quest.1D816D8992C2ED0A.quest_desc: ["Il faut des protéines pour reconstruire une civilisation. Chasse une vache."]
+	quest.20819F2BF7414664.title: "Cuire la viande"
+	quest.20819F2BF7414664.quest_desc: ["La viande crue rend malade. Cuis-la sur ton feu de camp."]
+	quest.63941A0E6F85B38E.title: "Une soupe de légumes"
+	quest.63941A0E6F85B38E.quest_subtitle: "Farmer's Delight"
+	quest.63941A0E6F85B38E.quest_desc: ["Récolte des légumes sauvages (tomates, oignons, choux, riz) et prépare une soupe bien chaude."]
+	quest.1BB52CA3184CC088.title: "Survivre à la nuit"
+	quest.1BB52CA3184CC088.quest_subtitle: "Les prédateurs rôdent"
+	quest.1BB52CA3184CC088.quest_desc: ["La nuit, le monde de pierre appartient aux monstres. Défends-toi."]
+	quest.5DED1FBF55C9FECA.title: "Les saisons"
+	quest.5DED1FBF55C9FECA.quest_subtitle: "Le temps passe"
+	quest.5DED1FBF55C9FECA.quest_desc: ["Le monde vit au rythme des saisons : les récoltes, la neige et les jours changent. Senku s'est réveillé un 1er avril…", "", "Regarde la saison actuelle sous la minimap, puis coche cette quête."]
+	quest.359D913A095FC4F1.title: "Un sac à dos"
+	quest.359D913A095FC4F1.quest_desc: ["Ton inventaire déborde ? Un sac à dos te suivra partout."]
+	quest.2814C5D91B766E8F.title: "Le masque de Suika"
+	quest.2814C5D91B766E8F.quest_subtitle: "Une pastèque, un couteau"
+	quest.2814C5D91B766E8F.quest_desc: ["Avec ton couteau, creuse une pastèque pour en faire un masque, comme la petite Suika."]
+	chapter.4345B541D3FADDED.title: "&d4. La Grotte des Miracles"
+	quest.31643F747C2A8FC1.title: "De l'argile"
+	quest.31643F747C2A8FC1.quest_desc: ["Les berges des rivières sont pleines d'argile. Il t'en faut assez pour façonner une jarre."]
+	quest.21BB0D7453DB2B8A.title: "Le pot en argile crue"
+	quest.21BB0D7453DB2B8A.quest_desc: ["Cinq boules d'argile suffisent à façonner un pot."]
+	quest.1ED52DA7BCDAA499.title: "La jarre en terre cuite"
+	quest.1ED52DA7BCDAA499.quest_subtitle: "Au four ou sur le feu"
+	quest.1ED52DA7BCDAA499.quest_desc: ["Cuis ton pot au four ou sur un feu de camp, comme les premières poteries de Senku."]
+	quest.5DDE3346EA1F5703.title: "La Grotte des Miracles"
+	quest.5DDE3346EA1F5703.quest_subtitle: "Là où la roche suinte"
+	quest.5DDE3346EA1F5703.quest_desc: ["Une grotte se cache près du point d'apparition, d'autres plus loin. Son plafond suinte un liquide qui goutte des stalactites.", "", "Trouve-la et regarde la roche suintante."]
+	quest.25547E0D44EE164C.title: "L'acide nitrique"
+	quest.25547E0D44EE164C.quest_subtitle: "Patience…"
+	quest.25547E0D44EE164C.quest_desc: ["Pose la jarre sous les stalactites qui gouttent. Il faut quelques minutes pour la remplir, puis une fiole pour recueillir l'acide."]
+	quest.2392BD9D7A13970A.title: "Du raisin"
+	quest.2392BD9D7A13970A.quest_desc: ["L'autre ingrédient du miracle commence par des grappes de raisin, à cueillir sur les vignes sauvages."]
+	quest.3D13F9548856934C.title: "Du vin"
+	quest.3D13F9548856934C.quest_subtitle: "Vinery"
+	quest.3D13F9548856934C.quest_desc: ["Presse le raisin et laisse-le fermenter en tonneau pour obtenir du vin."]
+	quest.1F82BE1FAEF5DC5F.title: "L'alcool distillé"
+	quest.1F82BE1FAEF5DC5F.quest_desc: ["Chauffe le vin sur un feu de camp pour en concentrer l'alcool."]
+	quest.50DAA7836B58E942.title: "Le fluide miracle"
+	quest.50DAA7836B58E942.quest_subtitle: "Acide nitrique + alcool"
+	quest.50DAA7836B58E942.quest_desc: ["Une part d'acide nitrique, deux parts d'alcool distillé : le fluide qui brise la pierre. Dix milliards de pour cent de chances de succès !"]
+	quest.69656CC68B6562F7.title: "Briser la pierre"
+	quest.69656CC68B6562F7.quest_subtitle: "Un nouveau compagnon"
+	quest.69656CC68B6562F7.quest_desc: ["Les statues de l'ancien monde attendent. Verse le fluide miracle sur l'une d'elles (clic droit) pour la ranimer, puis coche cette quête."]
+	quest.5F849F4577902521.title: "Dix milliards de pour cent"
+	quest.5F849F4577902521.quest_subtitle: "Réservée à la voie du Scientifique"
+	quest.5F849F4577902521.quest_desc: ["Senku a produit le fluide miracle en série pour réveiller ses compagnons. Prépares-en trois fioles.", "", "&7Seul un Scientifique peut terminer cette quête.&r"]
+	chapter.7EAA04881299A7AA.title: "&e★ Les voies"
+	quest.10C42D39D14BD9A1.title: "Voie : Scientifique"
+	quest.10C42D39D14BD9A1.quest_subtitle: "Voie de Senku"
+	quest.10C42D39D14BD9A1.quest_desc: ["Les quêtes de cette ligne sont réservées à la voie de Senku (Scientifique).", "", "&7Les autres voies peuvent les voir, mais pas les terminer.&r"]
+	quest.3CEA3095ED7D652E.title: "La méthode scientifique"
+	quest.3CEA3095ED7D652E.quest_subtitle: "Observer, comprendre, reproduire"
+	quest.3CEA3095ED7D652E.quest_desc: ["Le savoir est ta meilleure arme. Rassemble de quoi écrire tes découvertes : un livre et une plume.", "", "&7Réservée à la voie : Scientifique.&r"]
+	quest.4677C5ECD7546BC8.title: "Le laboratoire"
+	quest.4677C5ECD7546BC8.quest_subtitle: "Verrerie de base"
+	quest.4677C5ECD7546BC8.quest_desc: ["Toute chimie commence par de la verrerie. Fabrique des fioles en verre.", "", "&7Réservée à la voie : Scientifique.&r"]
+	quest.69D39D7EE90CBC18.title: "Voie : Colosse"
+	quest.69D39D7EE90CBC18.quest_subtitle: "Voie de Taiju"
+	quest.69D39D7EE90CBC18.quest_desc: ["Les quêtes de cette ligne sont réservées à la voie de Taiju (Colosse).", "", "&7Les autres voies peuvent les voir, mais pas les terminer.&r"]
+	quest.782DA6A673B0E78C.title: "Force de la nature"
+	quest.782DA6A673B0E78C.quest_subtitle: "Comme Taiju"
+	quest.782DA6A673B0E78C.quest_desc: ["Taiju n'a jamais abandonné. Abats des arbres sans relâche.", "", "&7Réservée à la voie : Colosse.&r"]
+	quest.59CE69576B08BF7D.title: "Le rocher"
+	quest.59CE69576B08BF7D.quest_subtitle: "Rien ne t'arrête"
+	quest.59CE69576B08BF7D.quest_desc: ["Extrais une montagne de pierre.", "", "&7Réservée à la voie : Colosse.&r"]
+	quest.2DF7040CCDBA5D48.title: "Voie : Combattant"
+	quest.2DF7040CCDBA5D48.quest_subtitle: "Voie de Tsukasa"
+	quest.2DF7040CCDBA5D48.quest_desc: ["Les quêtes de cette ligne sont réservées à la voie de Tsukasa (Combattant).", "", "&7Les autres voies peuvent les voir, mais pas les terminer.&r"]
+	quest.1765865074AA192A.title: "Le plus fort des hommes"
+	quest.1765865074AA192A.quest_subtitle: "Comme Tsukasa"
+	quest.1765865074AA192A.quest_desc: ["Le monde de pierre a besoin d'un protecteur. Élimine les squelettes qui menacent les tiens.", "", "&7Réservée à la voie : Combattant.&r"]
+	quest.7BAAEC6C831E71E8.title: "La loi du plus fort"
+	quest.7BAAEC6C831E71E8.quest_desc: ["Les araignées géantes rôdent la nuit. Montre-leur qui commande.", "", "&7Réservée à la voie : Combattant.&r"]
+	quest.55E4652E4EAF1F75.title: "Voie : Chasseuse"
+	quest.55E4652E4EAF1F75.quest_subtitle: "Voie de Kohaku"
+	quest.55E4652E4EAF1F75.quest_desc: ["Les quêtes de cette ligne sont réservées à la voie de Kohaku (Chasseuse).", "", "&7Les autres voies peuvent les voir, mais pas les terminer.&r"]
+	quest.4296B035B80FDE3C.title: "Les yeux de lionne"
+	quest.4296B035B80FDE3C.quest_subtitle: "Comme Kohaku"
+	quest.4296B035B80FDE3C.quest_desc: ["Aucune proie n'échappe à une chasseuse. Rapporte des peaux.", "", "&7Réservée à la voie : Chasseuse.&r"]
+	quest.29EAA7F80BFEB60D.title: "Archère"
+	quest.29EAA7F80BFEB60D.quest_desc: ["Prépare des flèches pour la prochaine chasse.", "", "&7Réservée à la voie : Chasseuse.&r"]
+	quest.15CE369568C9EC11.title: "Voie : Explorateur"
+	quest.15CE369568C9EC11.quest_subtitle: "Voie de Chrome"
+	quest.15CE369568C9EC11.quest_desc: ["Les quêtes de cette ligne sont réservées à la voie de Chrome (Explorateur).", "", "&7Les autres voies peuvent les voir, mais pas les terminer.&r"]
+	quest.7BBF2820A7F121E4.title: "Le flair de Chrome"
+	quest.7BBF2820A7F121E4.quest_subtitle: "Le sorcier des minerais"
+	quest.7BBF2820A7F121E4.quest_desc: ["Chrome collectionnait les pierres étranges. Rapporte du fer brut.", "", "&7Réservée à la voie : Explorateur.&r"]
+	quest.440CDDCF31AC9889.title: "Les pierres précieuses"
+	quest.440CDDCF31AC9889.quest_desc: ["Les cavernes cachent des cristaux. Rapporte des éclats d'améthyste.", "", "&7Réservée à la voie : Explorateur.&r"]
+	quest.17963CB0D00D5379.title: "Voie : Mentaliste"
+	quest.17963CB0D00D5379.quest_subtitle: "Voie de Gen"
+	quest.17963CB0D00D5379.quest_desc: ["Les quêtes de cette ligne sont réservées à la voie de Gen (Mentaliste).", "", "&7Les autres voies peuvent les voir, mais pas les terminer.&r"]
+	quest.1E863520D143C1F2.title: "Le magicien des mots"
+	quest.1E863520D143C1F2.quest_subtitle: "Comme Gen"
+	quest.1E863520D143C1F2.quest_desc: ["Un bon mentaliste obtient tout par la parole. Fais affaire avec les villageois.", "", "&7Réservée à la voie : Mentaliste.&r"]
+	quest.7181EAF0EE89EFAD.title: "Le cola de la paix"
+	quest.7181EAF0EE89EFAD.quest_desc: ["Gen ne résiste pas à une boisson sucrée. Rassemble du sucre.", "", "&7Réservée à la voie : Mentaliste.&r"]
+	quest.1832A4E84F31E693.title: "Voie : Artisan"
+	quest.1832A4E84F31E693.quest_subtitle: "Voie de Kaseki"
+	quest.1832A4E84F31E693.quest_desc: ["Les quêtes de cette ligne sont réservées à la voie de Kaseki (Artisan).", "", "&7Les autres voies peuvent les voir, mais pas les terminer.&r"]
+	quest.3A5C1123F386F913.title: "Le verre de Kaseki"
+	quest.3A5C1123F386F913.quest_subtitle: "L'artisan aux mille mains"
+	quest.3A5C1123F386F913.quest_desc: ["Kaseki souffle le verre comme personne. Fabrique du verre.", "", "&7Réservée à la voie : Artisan.&r"]
+	quest.631058CB2A7EB998.title: "L'enclume"
+	quest.631058CB2A7EB998.quest_desc: ["Le métal se travaille à l'enclume. Forge la tienne.", "", "&7Réservée à la voie : Artisan.&r"]
+	quest.65D34AC7B30F41B6.title: "Voie : Navigateur"
+	quest.65D34AC7B30F41B6.quest_subtitle: "Voie de Ryusui"
+	quest.65D34AC7B30F41B6.quest_desc: ["Les quêtes de cette ligne sont réservées à la voie de Ryusui (Navigateur).", "", "&7Les autres voies peuvent les voir, mais pas les terminer.&r"]
+	quest.1233316DBA85ECBE.title: "Le capitaine"
+	quest.1233316DBA85ECBE.quest_subtitle: "Comme Ryusui"
+	quest.1233316DBA85ECBE.quest_desc: ["Le monde appartient à celui qui navigue. Construis un bateau.", "", "&7Réservée à la voie : Navigateur.&r"]
+	quest.57619C74EFD3CC1D.title: "Lire le monde"
+	quest.57619C74EFD3CC1D.quest_desc: ["Une boussole et une carte : rien ne t'échappe plus.", "", "&7Réservée à la voie : Navigateur.&r"]
+	file.0000000000000001.title: "Cr. Stone"
+}

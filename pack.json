@@ -1,12 +1,17 @@
 {
   "name": "Cr. Stone",
-  "version": "0.12.11",
+  "version": "0.12.12",
   "minecraft": "1.21.1",
   "neoforge": "21.1.262",
   "managed": [
     "mods"
   ],
   "news": [
+    {
+      "date": "Cr. Stone 0.12.12",
+      "title": "La haute mer exige un vrai navire",
+      "body": "Au large du Japon, les déferlantes repoussent fortement les nageurs et les petites barques vers la côte. Les vagues peuvent submerger même en maintenant Espace, et l’épuisement rend le retour à la surface difficile. Une barque Minecraft finit par se briser en haute mer : prépare un navire Create Aeronautics pour la traversée. Les eaux côtières restent praticables."
+    },
     {
       "date": "Cr. Stone 0.12.11",
       "title": "Des barques plus stables sur la houle",
@@ -275,10 +280,10 @@
       "size": 583525
     },
     {
-      "path": "mods/crstone-0.12.11.jar",
-      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/mods/crstone-0.12.11.jar",
-      "sha1": "91b8cc8681329a9eb8c3d0276f2296aaeffc7a5d",
-      "size": 15833891
+      "path": "mods/crstone-0.12.12.jar",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/mods/crstone-0.12.12.jar",
+      "sha1": "4d7e45ad4f0540e628c59c2d96449d4e58c810cd",
+      "size": 15836887
     },
     {
       "path": "mods/cupboard-1.21.1-4.2.jar",
@@ -3531,9 +3536,8 @@
     {
       "path": "config/unseaworthy.json5",
       "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/unseaworthy.json5",
-      "sha1": "ea174e4c26ecd24fb3e16b4f21d2f6e00a70c5b8",
-      "size": 326,
-      "onlyIfMissing": true
+      "sha1": "0a4712136e765d88c212bcbbc51a95f01f80663e",
+      "size": 326
     },
     {
       "path": "config/vanilla_structures/placement_structure_config.json5",

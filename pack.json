@@ -1,12 +1,17 @@
 {
   "name": "Cr. Stone",
-  "version": "0.12.8",
+  "version": "0.12.9",
   "minecraft": "1.21.1",
   "neoforge": "21.1.262",
   "managed": [
     "mods"
   ],
   "news": [
+    {
+      "date": "Cr. Stone 0.12.9",
+      "title": "Le Japon, point de départ du monde de pierre",
+      "body": "Les nouveaux mondes normaux commencent au Japon : côtes et montagnes guidées par la géographie réelle, relief et végétation Tectonic/Terralith. Une grotte de surface se trouve près du réveil. Après la traversée océanique, le terrain se raccorde progressivement au monde Minecraft normal, sans portail. La haute mer autour du Japon active les dangers de la traversée. Les anciennes sauvegardes conservent leur génération."
+    },
     {
       "date": "Cr. Stone 0.12.8 · launcher 1.5.2",
       "title": "Une vraie mer",
@@ -260,10 +265,10 @@
       "size": 583525
     },
     {
-      "path": "mods/crstone-0.12.8.jar",
-      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/mods/crstone-0.12.8.jar",
-      "sha1": "e9f8610508b43b90ad0e7b9b285314e01b4a7031",
-      "size": 938345
+      "path": "mods/crstone-0.12.9.jar",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/mods/crstone-0.12.9.jar",
+      "sha1": "c4857e05f753389e76d0520eb3c710e04351ba02",
+      "size": 15814086
     },
     {
       "path": "mods/cupboard-1.21.1-4.2.jar",

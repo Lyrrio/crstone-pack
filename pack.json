@@ -1,12 +1,17 @@
 {
   "name": "Cr. Stone",
-  "version": "0.12.10",
+  "version": "0.12.11",
   "minecraft": "1.21.1",
   "neoforge": "21.1.262",
   "managed": [
     "mods"
   ],
   "news": [
+    {
+      "date": "Cr. Stone 0.12.11",
+      "title": "Des barques plus stables sur la houle",
+      "body": "La flottabilité des petites barques est corrigée pour éviter les secousses entre deux surfaces d’eau. Le courant près du Japon ramène vers sa côte réelle, tout en laissant ramer vers le large. Maintenir Espace ne fait plus flotter dans les airs ; la flottaison au repos reste présente. Les vagues sont plus opaques, visibles de plus loin et depuis les hauteurs."
+    },
     {
       "date": "Cr. Stone 0.12.10",
       "title": "Une mer qui se fait sentir",
@@ -270,10 +275,10 @@
       "size": 583525
     },
     {
-      "path": "mods/crstone-0.12.10.jar",
-      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/mods/crstone-0.12.10.jar",
-      "sha1": "fd66686789a058f692b9c13df6e9a9492e078ce7",
-      "size": 15821876
+      "path": "mods/crstone-0.12.11.jar",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/mods/crstone-0.12.11.jar",
+      "sha1": "91b8cc8681329a9eb8c3d0276f2296aaeffc7a5d",
+      "size": 15833891
     },
     {
       "path": "mods/cupboard-1.21.1-4.2.jar",
@@ -3310,7 +3315,7 @@
     {
       "path": "config/sablewaves.json",
       "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/sablewaves.json",
-      "sha1": "794dba4696b8191a117d6354d6cfaa6f4893d748",
+      "sha1": "623b502d545c5a423382ec35c756c0cd3f5bd76c",
       "size": 3834
     },
     {

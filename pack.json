@@ -1,12 +1,17 @@
 {
   "name": "Cr. Stone",
-  "version": "0.12.6",
+  "version": "0.12.7",
   "minecraft": "1.21.1",
   "neoforge": "21.1.262",
   "managed": [
     "mods"
   ],
   "news": [
+    {
+      "date": "Cr. Stone 0.12.7",
+      "title": "Shaders et haute mer",
+      "body": "Trois shaders sont désormais installés avec le pack (Complementary Reimagined, Complementary Unbound, superDuperVanilla) : active-les avec la touche O. En haute mer, les courants et la houle repoussent barques et nageurs : seul un vrai navire pourra traverser."
+    },
     {
       "date": "Cr. Stone 0.12.6",
       "title": "Le livre des quêtes s'agrandit",
@@ -250,10 +255,10 @@
       "size": 583525
     },
     {
-      "path": "mods/crstone-0.12.6.jar",
-      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/mods/crstone-0.12.6.jar",
-      "sha1": "80ba9a6bb13a469aedc2093a44b7ecacc7a400d9",
-      "size": 929906
+      "path": "mods/crstone-0.12.7.jar",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/mods/crstone-0.12.7.jar",
+      "sha1": "c9836f483ade7d0a112e1058ed851d054af0e220",
+      "size": 939691
     },
     {
       "path": "mods/cupboard-1.21.1-4.2.jar",
@@ -854,6 +859,24 @@
       "url": "https://edge.forgecdn.net/files/7670/377/FreshAnimations_v1.10.4.zip",
       "sha1": "73db740a6868e043c5e615c036fca2c912615b6e",
       "size": 850941
+    },
+    {
+      "path": "shaderpacks/ComplementaryReimagined_r5.9.3.zip",
+      "url": "https://edge.forgecdn.net/files/8884/654/ComplementaryReimagined_r5.9.3.zip",
+      "sha1": "838139b54cddb56b2e83cd260d8efd960ac536d6",
+      "size": 553397
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.9.3.zip",
+      "url": "https://edge.forgecdn.net/files/8884/656/ComplementaryUnbound_r5.9.3.zip",
+      "sha1": "2ee08300e1d6f039e63eae8484dddf57b3aaaf67",
+      "size": 553400
+    },
+    {
+      "path": "shaderpacks/superDuperVanilla.zip",
+      "url": "https://edge.forgecdn.net/files/6745/820/superDuperVanilla.zip",
+      "sha1": "f2d6d259368e8b8d8807abb1ac28aaa7cff85b8c",
+      "size": 2851664
     },
     {
       "path": "kubejs/client_scripts/crstone_hors_sujet.js",

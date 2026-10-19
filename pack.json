@@ -1,12 +1,17 @@
 {
   "name": "Cr. Stone",
-  "version": "0.12.7",
+  "version": "0.12.8",
   "minecraft": "1.21.1",
   "neoforge": "21.1.262",
   "managed": [
     "mods"
   ],
   "news": [
+    {
+      "date": "Cr. Stone 0.12.8 · launcher 1.5.2",
+      "title": "Une vraie mer",
+      "body": "La mer bouge enfin : houle, tempêtes, marées et écume (Sablewaves). Au large, les barques finissent par couler : il faudra un vrai navire pour traverser. Dans le launcher, le bouton EN JEU permet maintenant de fermer Minecraft proprement, et la mise à jour manuelle te dit quand ton modpack est déjà à jour."
+    },
     {
       "date": "Cr. Stone 0.12.7",
       "title": "Shaders et haute mer",
@@ -255,10 +260,10 @@
       "size": 583525
     },
     {
-      "path": "mods/crstone-0.12.7.jar",
-      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/mods/crstone-0.12.7.jar",
-      "sha1": "c9836f483ade7d0a112e1058ed851d054af0e220",
-      "size": 939691
+      "path": "mods/crstone-0.12.8.jar",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/mods/crstone-0.12.8.jar",
+      "sha1": "e9f8610508b43b90ad0e7b9b285314e01b4a7031",
+      "size": 938345
     },
     {
       "path": "mods/cupboard-1.21.1-4.2.jar",
@@ -663,6 +668,12 @@
       "size": 12986135
     },
     {
+      "path": "mods/sablewaves-2.28.0.jar",
+      "url": "https://edge.forgecdn.net/files/9140/250/sablewaves-2.28.0.jar",
+      "sha1": "e18bc0a489d3b7ef90534b483c32066dbf0d9405",
+      "size": 218877
+    },
+    {
       "path": "mods/SereneSeasons-neoforge-1.21.1-10.1.0.3.jar",
       "url": "https://edge.forgecdn.net/files/6182/596/SereneSeasons-neoforge-1.21.1-10.1.0.3.jar",
       "sha1": "8b9034d4c43f880b1f1ebdd3943219de0b0bc4c5",
@@ -753,6 +764,12 @@
       "size": 3553006
     },
     {
+      "path": "mods/unseaworthy-neoforge-1.21.1-1.4.0.jar",
+      "url": "https://cdn.modrinth.com/data/9OuwP2Qv/versions/dpLyjdJ9/unseaworthy-neoforge-1.21.1-1.4.0.jar",
+      "sha1": "dc744559281a90ac3d58fa9f67f8e717f965a0d2",
+      "size": 162128
+    },
+    {
       "path": "mods/VisualWorkbench-v21.1.2-1.21.1-NeoForge.jar",
       "url": "https://edge.forgecdn.net/files/8793/655/VisualWorkbench-v21.1.2-1.21.1-NeoForge.jar",
       "sha1": "dd5b71bff42ce3f845afc9c3640d4f4f63ccdb1b",
@@ -763,6 +780,12 @@
       "url": "https://edge.forgecdn.net/files/6418/577/watut-neoforge-1.21.0-1.2.7.jar",
       "sha1": "07cfb8fb1269f1eae1056492912e3544be979f62",
       "size": 432269
+    },
+    {
+      "path": "mods/Waves-1.21.x-1.6.1.jar",
+      "url": "https://edge.forgecdn.net/files/7208/601/Waves-1.21.x-1.6.1.jar",
+      "sha1": "7561be446cbcf2b9676c7f5947726a71050063a7",
+      "size": 1322447
     },
     {
       "path": "mods/weaponmaster_ydm-1.21.1-neoforge-4.2.7.jar",
@@ -901,6 +924,12 @@
       "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/kubejs/config/common.json",
       "sha1": "72bc0862d970e44dd5075bef3e74110f69d65a7d",
       "size": 446
+    },
+    {
+      "path": "kubejs/data/unseaworthy/tags/worldgen/biome/sinks_boats.json",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/kubejs/data/unseaworthy/tags/worldgen/biome/sinks_boats.json",
+      "sha1": "01eaf6c9596e73a34a996458ce0524f1415e70f8",
+      "size": 66
     },
     {
       "path": "kubejs/server_scripts/crstone_hors_sujet.js",
@@ -3457,6 +3486,13 @@
       "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/trender.json",
       "sha1": "1ecd2edb27bfbc69f24e0cd52d3a22f98bdce8f0",
       "size": 47,
+      "onlyIfMissing": true
+    },
+    {
+      "path": "config/unseaworthy.json5",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/unseaworthy.json5",
+      "sha1": "ea174e4c26ecd24fb3e16b4f21d2f6e00a70c5b8",
+      "size": 326,
       "onlyIfMissing": true
     },
     {

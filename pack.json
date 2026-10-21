@@ -1,12 +1,17 @@
 {
   "name": "Cr. Stone",
-  "version": "0.12.13",
+  "version": "0.12.14",
   "minecraft": "1.21.1",
   "neoforge": "21.1.262",
   "managed": [
     "mods"
   ],
   "news": [
+    {
+      "date": "Cr. Stone 0.12.14",
+      "title": "Cinematic Interactions et Fancy World Animations",
+      "body": "Ajout de Cinematic Interactions 0.18.2 pour les interactions animées à la première personne, et de Fancy World Animations 1.2.31 pour les animations de blocs."
+    },
     {
       "date": "Cr. Stone 0.12.13",
       "title": "Alerte haute mer",
@@ -201,6 +206,12 @@
       "size": 61728
     },
     {
+      "path": "mods/CinematicInteraction-NeoForge-1.21.1-0.18.2.jar",
+      "url": "https://edge.forgecdn.net/files/9220/261/CinematicInteraction-NeoForge-1.21.1-0.18.2.jar",
+      "sha1": "bb72574f0f1fccb9856d3964d3d6011937439c1a",
+      "size": 1009597
+    },
+    {
       "path": "mods/citadel-1.21.1-2.7.6.jar",
       "url": "https://edge.forgecdn.net/files/7982/52/citadel-1.21.1-2.7.6.jar",
       "sha1": "e0392370117ec16a721f8d65728944398de77607",
@@ -285,10 +296,10 @@
       "size": 583525
     },
     {
-      "path": "mods/crstone-0.12.13.jar",
-      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/mods/crstone-0.12.13.jar",
-      "sha1": "b0387decb1323c36a803546be2a289cac2477380",
-      "size": 15840014
+      "path": "mods/crstone-0.12.14.jar",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/mods/crstone-0.12.14.jar",
+      "sha1": "c89b7844edad66b081cb9c444d60ed6c72315db6",
+      "size": 15840015
     },
     {
       "path": "mods/cupboard-1.21.1-4.2.jar",
@@ -433,6 +444,12 @@
       "url": "https://edge.forgecdn.net/files/7715/134/ftb-xmod-compat-neoforge-21.1.8.jar",
       "sha1": "0c25fc1a43c99eaa68c883dc77e3ebf4539629e6",
       "size": 141328
+    },
+    {
+      "path": "mods/fwa+1.21.1-neoforge-1.2.31.jar",
+      "url": "https://edge.forgecdn.net/files/8221/257/fwa%2b1.21.1-neoforge-1.2.31.jar",
+      "sha1": "a896f8442b9ffa62345b1fcfb868dd86a894d3e1",
+      "size": 385558
     },
     {
       "path": "mods/geckolib-neoforge-1.21.1-4.9.3.jar",

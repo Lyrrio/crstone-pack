@@ -1,12 +1,17 @@
 {
   "name": "Cr. Stone",
-  "version": "0.12.12",
+  "version": "0.12.13",
   "minecraft": "1.21.1",
   "neoforge": "21.1.262",
   "managed": [
     "mods"
   ],
   "news": [
+    {
+      "date": "Cr. Stone 0.12.13",
+      "title": "Alerte haute mer",
+      "body": "En haute mer, un message clignote en permanence au-dessus de la barre d’objets jusqu’à ce que tu en sortes : en rouge à la nage ou en barque Minecraft (elle va couler, fais demi-tour), en jaune sur un navire Create Aeronautics."
+    },
     {
       "date": "Cr. Stone 0.12.12",
       "title": "La haute mer exige un vrai navire",
@@ -280,10 +285,10 @@
       "size": 583525
     },
     {
-      "path": "mods/crstone-0.12.12.jar",
-      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/mods/crstone-0.12.12.jar",
-      "sha1": "4d7e45ad4f0540e628c59c2d96449d4e58c810cd",
-      "size": 15836887
+      "path": "mods/crstone-0.12.13.jar",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/mods/crstone-0.12.13.jar",
+      "sha1": "b0387decb1323c36a803546be2a289cac2477380",
+      "size": 15840014
     },
     {
       "path": "mods/cupboard-1.21.1-4.2.jar",

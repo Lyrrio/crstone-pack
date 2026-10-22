@@ -42,6 +42,10 @@ ServerEvents.recipes(event => {
     })
   })
 
+  // Lance primitive : silex taillé, manche et ligature ; estoc via Better Combat.
+  event.shaped('crstone:spear', [' F', 'RS', 'S '], { F: KNAPPED, R: ROPE, S: 'minecraft:stick' }).id('crstone:spear')
+  event.shaped('minecraft:cobblestone', ['PP', 'PP'], { P: 'crstone:pebble' }).id('crstone:pebbles_to_cobblestone')
+
   // --- Chimie ---
   // Alcool distillé : la méthode primitive (feu de camp, lent) ...
   WINES.forEach(w => event.campfireCooking('crstone:distilled_alcohol', w).cookingTime(600).xp(0.35))

@@ -1,12 +1,17 @@
 {
   "name": "Cr. Stone",
-  "version": "0.12.15",
+  "version": "0.13.0",
   "minecraft": "1.21.1",
   "neoforge": "21.1.262",
   "managed": [
     "mods"
   ],
   "news": [
+    {
+      "date": "Cr. Stone 0.13.0",
+      "title": "Des compagnons dans le monde de pierre",
+      "body": "Le Scientifique commence avec trois fioles de fluide miracle et peut analyser les aptitudes et convictions des villageois pétrifiés. Réveille un compagnon, équipe-le et donne-lui des ordres : suivre, rester, chasser, ramasser et examiner les minerais. Les objets portés ont maintenant un poids, avec une capacité propre à chaque voie et un effet sur la vitesse et l’endurance. Cailloux et branches se ramassent au sol, une lance en silex rejoint les recettes et les textures du silex taillé et de la hachette sont refaites avec Aseprite. Le sommeil demande de la fatigue et l’alerte expérimentale est masquée. Les changements de température corporelle sont aussi plus rapides."
+    },
     {
       "date": "Cr. Stone 0.12.15",
       "title": "Beaucoup plus de FPS",
@@ -241,6 +246,12 @@
       "size": 18382
     },
     {
+      "path": "mods/collective-1.21.1-8.63.jar",
+      "url": "https://cdn.modrinth.com/data/e0M1UDsY/versions/bnzIYU91/collective-1.21.1-8.63.jar",
+      "sha1": "8a7fa33be026ce38847e07c590aeb8d63366de5c",
+      "size": 1286848
+    },
+    {
       "path": "mods/configurable-3.5.3+1.21.1-neoforge.jar",
       "url": "https://edge.forgecdn.net/files/9191/7/configurable-3.5.3%2b1.21.1-neoforge.jar",
       "sha1": "694e68c671dacf418c8ed7ab543f62c80fdd0f95",
@@ -301,10 +312,10 @@
       "size": 583525
     },
     {
-      "path": "mods/crstone-0.12.15.jar",
-      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/mods/crstone-0.12.15.jar",
-      "sha1": "976616c08edf75d18cb2e2df1f57768b5d82c40c",
-      "size": 15842013
+      "path": "mods/crstone-0.13.0.jar",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/mods/crstone-0.13.0.jar",
+      "sha1": "058656c66de5c4738ea1066d0fda273c6fbb31c7",
+      "size": 15892397
     },
     {
       "path": "mods/cupboard-1.21.1-4.2.jar",
@@ -485,6 +496,12 @@
       "url": "https://edge.forgecdn.net/files/8904/902/hardcore_torches-1.21.0-2.7.jar",
       "sha1": "a3c27aac3b81968795420178ba32de730a64ae90",
       "size": 264244
+    },
+    {
+      "path": "mods/hideexperimentalwarning-1.21.1-1.3.jar",
+      "url": "https://cdn.modrinth.com/data/Rm4OOdHd/versions/tJbfSalt/hideexperimentalwarning-1.21.1-1.3.jar",
+      "sha1": "0c18b1e2534fd1dd633ae438a51206651fe46d6d",
+      "size": 18664
     },
     {
       "path": "mods/Highlighter-1.21-neoforge-1.1.11.jar",
@@ -731,6 +748,12 @@
       "url": "https://edge.forgecdn.net/files/6182/596/SereneSeasons-neoforge-1.21.1-10.1.0.3.jar",
       "sha1": "8b9034d4c43f880b1f1ebdd3943219de0b0bc4c5",
       "size": 159205
+    },
+    {
+      "path": "mods/sleepy_peepy-1.0.1-neoforge-1.21.1.jar",
+      "url": "https://edge.forgecdn.net/files/8934/267/sleepy_peepy-1.0.1-neoforge-1.21.1.jar",
+      "sha1": "754c2ed7706c2b9f8d6ac29767816521b9673c4d",
+      "size": 74766
     },
     {
       "path": "mods/SmoothPlayerAnimations_Neoforge_1.21.1_1.1.0.jar",
@@ -993,8 +1016,8 @@
     {
       "path": "kubejs/server_scripts/crstone_recettes.js",
       "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/kubejs/server_scripts/crstone_recettes.js",
-      "sha1": "ce7eb65399156c137c7c68e1a7cdb0095b60c5e5",
-      "size": 3954
+      "sha1": "c202b06de4a29d2270767cfe8f2bb491a22c54c1",
+      "size": 4278
     },
     {
       "path": "kubejs/server_scripts/crstone_water_care.js",
@@ -3379,6 +3402,12 @@
       "onlyIfMissing": true
     },
     {
+      "path": "config/sleepy_peepy-common.toml",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/sleepy_peepy-common.toml",
+      "sha1": "865682df42c47799f1a8666763e97ebf9ba9b4d2",
+      "size": 1622
+    },
+    {
       "path": "config/smoothplayeranimations.json",
       "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/smoothplayeranimations.json",
       "sha1": "44d72a9f30e2d9b6906bff2d1cd525c1b38a632e",
@@ -3521,9 +3550,8 @@
     {
       "path": "config/toughasnails/temperature.toml",
       "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/toughasnails/temperature.toml",
-      "sha1": "67ec5901a3085a0a055dd77de6fad8a1bfe9e955",
-      "size": 2735,
-      "onlyIfMissing": true
+      "sha1": "eef5ffd638fa850a6d9f1353263fae3566df9b8c",
+      "size": 2733
     },
     {
       "path": "config/toughasnails/thirst.toml",

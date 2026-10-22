@@ -1,0 +1,43 @@
+["Update rate"]
+	#Update rate in ticks. Default: 100
+	update = 100.0
+
+[Multiplier]
+	#How much tiredness will be added with each update? Default: 0.2
+	normal = 0.25
+	#How much tiredness will be added with each update while sprinting? Default: 0.25
+	sprinting = 0.35
+	#How much tiredness will be added with each update while sneaking? Default: 0.2
+	sneaking = 0.25
+	#How much tiredness will be added with each update while sneaking? Default: 0.2
+	swimming = 0.35
+	#How much tiredness will be added with each update while blocking? Default: 0.25
+	blocking = 0.3
+	#How much tiredness will be added with each update while riding? Default: 0.15
+	riding = 0.2
+	#How much tiredness will be added with each update while flying elytra? Default: 0.5
+	elytra = 0.35
+	#How much tiredness will be added with each update for the time elapsed between updates? Default: -1
+	sleeping = -1.0
+
+["Tiredness value"]
+	#The maximum value of tiredness. Default: 100
+	maxvalue = 100.0
+
+["Tiredness threshold"]
+	#The amount of tiredness required to sleep. Default: 0
+	threshold = 40.0
+
+[Items]
+	#What items add tiredness when used: item,tiredness
+	item = ["minecraft:honey_bottle,-1"]
+
+[Effects]
+	#Effects given to player: effect,time(seconds),amplifier,min,max
+	effect = ["minecraft:slowness,6,0,80,100", "minecraft:weakness,6,0,95,101"]
+
+[Messages]
+	#Messages send to player: message,min,max
+	message = ["Tu commences à avoir sommeil.,60,60.5", "Tu as besoin de dormir.,80,80.5"]
+	#Message send to player when not enough tiredness.
+	thresholdmessage = "Tu n’es pas encore assez fatigué pour dormir."

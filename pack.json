@@ -1,12 +1,17 @@
 {
   "name": "Cr. Stone",
-  "version": "0.13.0",
+  "version": "0.13.1",
   "minecraft": "1.21.1",
   "neoforge": "21.1.262",
   "managed": [
     "mods"
   ],
   "news": [
+    {
+      "date": "Cr. Stone 0.13.1",
+      "title": "Des objets au format Minecraft",
+      "body": "Le silex taillé, la hachette en silex, la lance et le caillou ont été redessinés directement en 16 × 16 pixels dans Aseprite, pour conserver le style visuel de Minecraft."
+    },
     {
       "date": "Cr. Stone 0.13.0",
       "title": "Des compagnons dans le monde de pierre",
@@ -312,10 +317,10 @@
       "size": 583525
     },
     {
-      "path": "mods/crstone-0.13.0.jar",
-      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/mods/crstone-0.13.0.jar",
-      "sha1": "058656c66de5c4738ea1066d0fda273c6fbb31c7",
-      "size": 15892397
+      "path": "mods/crstone-0.13.1.jar",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/mods/crstone-0.13.1.jar",
+      "sha1": "4b420967ac965e41deca9dad66109419f07125d4",
+      "size": 15891678
     },
     {
       "path": "mods/cupboard-1.21.1-4.2.jar",

@@ -1,12 +1,17 @@
 {
   "name": "Cr. Stone",
-  "version": "0.14.0",
+  "version": "0.14.1",
   "minecraft": "1.21.1",
   "neoforge": "21.1.262",
   "managed": [
     "mods"
   ],
   "news": [
+    {
+      "date": "Cr. Stone 0.14.1",
+      "title": "Ouvrir son sac comme au cinéma",
+      "body": "En survie, ouvrir l’inventaire lance une petite scène : des bandes noires entrent, le HUD s’efface, tes deux bras sortent ton sac à dos et les cases en sortent. Ta main droite suit le curseur pendant que tu ranges. À la fermeture, tu ranges le sac. Pour une ouverture instantanée, mets inventoryCinematic à false dans config/crstone-client.toml."
+    },
     {
       "date": "Cr. Stone 0.14.0",
       "title": "Des visages et des dialogues",
@@ -337,10 +342,10 @@
       "size": 583525
     },
     {
-      "path": "mods/crstone-0.14.0.jar",
-      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/mods/crstone-0.14.0.jar",
-      "sha1": "e3dd87bf7515c2792e3d94244a5453981efce8da",
-      "size": 15932261
+      "path": "mods/crstone-0.14.1.jar",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/mods/crstone-0.14.1.jar",
+      "sha1": "fac40979574c64c089f8c42238312dca467ed63d",
+      "size": 15938249
     },
     {
       "path": "mods/cupboard-1.21.1-4.2.jar",

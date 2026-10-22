@@ -1,12 +1,17 @@
 {
   "name": "Cr. Stone",
-  "version": "0.13.3",
+  "version": "0.13.4",
   "minecraft": "1.21.1",
   "neoforge": "21.1.262",
   "managed": [
     "mods"
   ],
   "news": [
+    {
+      "date": "Cr. Stone 0.13.4",
+      "title": "Un inventaire en verre",
+      "body": "L’inventaire de survie n’a plus de panneau gris : ses cases flottent directement sur le monde, chacune bien découpée, et le voile sombre derrière est presque transparent. Les poids de la charge portée sont encore divisés par deux : un Scientifique porte environ 15 piles de blocs sans ralentir."
+    },
     {
       "date": "Cr. Stone 0.13.3",
       "title": "Une vraie silhouette de hachette",
@@ -327,10 +332,10 @@
       "size": 583525
     },
     {
-      "path": "mods/crstone-0.13.3.jar",
-      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/mods/crstone-0.13.3.jar",
-      "sha1": "5e2ead0d5f750595d9780499b2ba6817b918ea2c",
-      "size": 15891795
+      "path": "mods/crstone-0.13.4.jar",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/mods/crstone-0.13.4.jar",
+      "sha1": "6333c464982edf1199e65beafa7648ffb7d085b2",
+      "size": 15894447
     },
     {
       "path": "mods/cupboard-1.21.1-4.2.jar",

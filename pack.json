@@ -1,12 +1,17 @@
 {
   "name": "Cr. Stone",
-  "version": "0.12.14",
+  "version": "0.12.15",
   "minecraft": "1.21.1",
   "neoforge": "21.1.262",
   "managed": [
     "mods"
   ],
   "news": [
+    {
+      "date": "Cr. Stone 0.12.15",
+      "title": "Beaucoup plus de FPS",
+      "body": "La surface animée des vagues de Sablewaves était recalculée trop loin et trop finement à chaque image. Elle couvre désormais 64 blocs autour de toi, avec moins de détail au loin et rien derrière la caméra. Résultat mesuré sur le pack complet : environ 140 images par seconde au lieu de 90, et les chutes passent de 49 à 114."
+    },
     {
       "date": "Cr. Stone 0.12.14",
       "title": "Cinematic Interactions et Fancy World Animations",
@@ -296,10 +301,10 @@
       "size": 583525
     },
     {
-      "path": "mods/crstone-0.12.14.jar",
-      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/mods/crstone-0.12.14.jar",
-      "sha1": "c89b7844edad66b081cb9c444d60ed6c72315db6",
-      "size": 15840015
+      "path": "mods/crstone-0.12.15.jar",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/mods/crstone-0.12.15.jar",
+      "sha1": "976616c08edf75d18cb2e2df1f57768b5d82c40c",
+      "size": 15842013
     },
     {
       "path": "mods/cupboard-1.21.1-4.2.jar",
@@ -3342,8 +3347,8 @@
     {
       "path": "config/sablewaves.json",
       "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/config/sablewaves.json",
-      "sha1": "623b502d545c5a423382ec35c756c0cd3f5bd76c",
-      "size": 3834
+      "sha1": "c1d326a09b4e1db0f14b47d8d4a66274ae50a4e0",
+      "size": 3832
     },
     {
       "path": "config/sereneseasons/fertility.toml",

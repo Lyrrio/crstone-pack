@@ -1,12 +1,17 @@
 {
   "name": "Cr. Stone",
-  "version": "0.13.1",
+  "version": "0.13.2",
   "minecraft": "1.21.1",
   "neoforge": "21.1.262",
   "managed": [
     "mods"
   ],
   "news": [
+    {
+      "date": "Cr. Stone 0.13.2",
+      "title": "Une charge portée jouable",
+      "body": "La charge s’affiche maintenant sous ton inventaire, plus à l’écran en jeu. Les blocs pèsent bien moins lourd (un Scientifique porte environ 8 piles de blocs sans gêne), et tu n’es ralenti qu’au-delà de ta capacité, progressivement et au plus de 40 %."
+    },
     {
       "date": "Cr. Stone 0.13.1",
       "title": "Des objets au format Minecraft",
@@ -317,10 +322,10 @@
       "size": 583525
     },
     {
-      "path": "mods/crstone-0.13.1.jar",
-      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/mods/crstone-0.13.1.jar",
-      "sha1": "4b420967ac965e41deca9dad66109419f07125d4",
-      "size": 15891678
+      "path": "mods/crstone-0.13.2.jar",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/mods/crstone-0.13.2.jar",
+      "sha1": "815217ce47f7df3df315040ed2b358b3f8459e18",
+      "size": 15891820
     },
     {
       "path": "mods/cupboard-1.21.1-4.2.jar",

@@ -1,12 +1,22 @@
 {
   "name": "Cr. Stone",
-  "version": "0.14.1",
+  "version": "0.15.0",
   "minecraft": "1.21.1",
   "neoforge": "21.1.262",
   "managed": [
     "mods"
   ],
   "news": [
+    {
+      "date": "Cr. Stone 0.15.0",
+      "title": "Des humains à part entière",
+      "body": "Les compagnons sont désormais des humains distincts des villageois Minecraft, avec vingt nouveaux skins adaptés au monde de pierre et des menus de relation, discussion et consignes inspirés de MCA. Ils ouvrent les portes, contournent les obstacles, recalculent les trajets bloqués et évitent les dangers. Ils peuvent défendre leur compagnon contre les prédateurs, ramasser les objets proches et consommer une ration de leur sac pour se soigner. Tes anciens compagnons gardent leur identité, leur équipement et leur cargaison. En survie, le sac est posé au sol puis fouillé à l’ouverture de l’inventaire. Les cailloux se récupèrent uniquement en les cassant ; branches et brindilles sont plus variées, moins nombreuses et liées aux arbres. Le surplus de bois des anciennes zones est éclairci progressivement."
+    },
+    {
+      "date": "Launcher 1.5.3",
+      "title": "Une nouvelle cinématique",
+      "body": "Le fond animé du launcher est retourné en 1920 × 1080 avec les shaders Complementary : aube sur les statues, forêt, rivage au couchant et grue au-dessus du Japon. Chaque image attend que tout le terrain soit chargé, donc plus aucun chunk manquant."
+    },
     {
       "date": "Cr. Stone 0.14.1",
       "title": "Ouvrir son sac comme au cinéma",
@@ -240,6 +250,12 @@
       "size": 361486
     },
     {
+      "path": "mods/chat_heads-0.15.7-neoforge-1.21.jar",
+      "url": "https://edge.forgecdn.net/files/8642/154/chat_heads-0.15.7-neoforge-1.21.jar",
+      "sha1": "536b2af675229d2a33eb4cf5afbe7148a62d5f3f",
+      "size": 91948
+    },
+    {
       "path": "mods/cherishedworlds-neoforge-10.1.1+1.21.1.jar",
       "url": "https://edge.forgecdn.net/files/6353/949/cherishedworlds-neoforge-10.1.1%2b1.21.1.jar",
       "sha1": "aefc8c79ba62606a71f509a9b3c881f3fc4cad5c",
@@ -277,7 +293,7 @@
     },
     {
       "path": "mods/collective-1.21.1-8.63.jar",
-      "url": "https://cdn.modrinth.com/data/e0M1UDsY/versions/bnzIYU91/collective-1.21.1-8.63.jar",
+      "url": "https://edge.forgecdn.net/files/9285/791/collective-1.21.1-8.63.jar",
       "sha1": "8a7fa33be026ce38847e07c590aeb8d63366de5c",
       "size": 1286848
     },
@@ -342,10 +358,10 @@
       "size": 583525
     },
     {
-      "path": "mods/crstone-0.14.1.jar",
-      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/mods/crstone-0.14.1.jar",
-      "sha1": "fac40979574c64c089f8c42238312dca467ed63d",
-      "size": 15938249
+      "path": "mods/crstone-0.15.0.jar",
+      "url": "https://raw.githubusercontent.com/Lyrrio/crstone-pack/main/hosted/mods/crstone-0.15.0.jar",
+      "sha1": "c78aca4939a5aebf0c6dd46e6812cf82fe37b287",
+      "size": 16013098
     },
     {
       "path": "mods/cupboard-1.21.1-4.2.jar",
@@ -529,7 +545,7 @@
     },
     {
       "path": "mods/hideexperimentalwarning-1.21.1-1.3.jar",
-      "url": "https://cdn.modrinth.com/data/Rm4OOdHd/versions/tJbfSalt/hideexperimentalwarning-1.21.1-1.3.jar",
+      "url": "https://edge.forgecdn.net/files/9033/946/hideexperimentalwarning-1.21.1-1.3.jar",
       "sha1": "0c18b1e2534fd1dd633ae438a51206651fe46d6d",
       "size": 18664
     },
@@ -880,6 +896,12 @@
       "url": "https://edge.forgecdn.net/files/8793/655/VisualWorkbench-v21.1.2-1.21.1-NeoForge.jar",
       "sha1": "dd5b71bff42ce3f845afc9c3640d4f4f63ccdb1b",
       "size": 76670
+    },
+    {
+      "path": "mods/voicechat-neoforge-1.21.1-2.6.22.jar",
+      "url": "https://edge.forgecdn.net/files/8601/207/voicechat-neoforge-1.21.1-2.6.22.jar",
+      "sha1": "3b2001d8df61fe6dc03dcd5f5cd4a8f49821feb0",
+      "size": 4918442
     },
     {
       "path": "mods/watut-neoforge-1.21.0-1.2.7.jar",
